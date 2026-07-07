@@ -36,7 +36,7 @@ export default function QuizPage() {
   }
 
   if (current >= quizQuestions.length) {
-    const score = answers.reduce((total, answer, index) => {
+    const score = answers.reduce<number>((total, answer, index) => {
       return answer === quizQuestions[index].correctAnswer ? total + 1 : total;
     }, 0);
 
