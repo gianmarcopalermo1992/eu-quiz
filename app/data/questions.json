@@ -1,0 +1,5491 @@
+[
+  {
+    "id": 1,
+    "question": "Commission’s right of initiative:",
+    "options": [
+      "Exclusive in all cases",
+      "Shared with Parliament",
+      "General but subject to Treaty limits and procedures",
+      "Delegated by Council"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "Conferral means:",
+    "options": [
+      "EU has unlimited powers",
+      "EU acts only within Treaty conferred competences",
+      "Member States define EU law",
+      "Commission expands competences"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Ordinary legislative procedure:",
+    "options": [
+      "Commission exits after proposal",
+      "Observer only",
+      "Commission participates throughout, may amend/withdraw proposal",
+      "Only conciliation stage"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "Delegated acts (290 TFEU):",
+    "options": [
+      "Budget execution",
+      "Non-essential amendment/supplement of legislation",
+      "Treaty revision",
+      "National law replacement"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "Implementing acts (291 TFEU):",
+    "options": [
+      "Parliament initiative",
+      "Uniform implementation conditions",
+      "Treaty amendment",
+      "Political approval"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "Regulatory Scrutiny Board:",
+    "options": [
+      "Adopts laws",
+      "Checks impact assessment quality",
+      "Drafts laws",
+      "Enforces law"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "Work Programme:",
+    "options": [
+      "Council adopts",
+      "Binding law",
+      "Translates Political Guidelines into annual initiatives",
+      "Replaces budget"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "European Council:",
+    "options": [
+      "Legislates",
+      "Sets political direction",
+      "Executes law",
+      "Drafts laws"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "MFF:",
+    "options": [
+      "Annual",
+      "Optional",
+      "Multiannual binding expenditure ceilings",
+      "Commission decision"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Guardian of Treaties:",
+    "options": [
+      "Binding interpretation",
+      "Infringement proceedings (258 TFEU)",
+      "National law replacement",
+      "CJEU override"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "Written procedure:",
+    "options": [
+      "Debate required",
+      "Adopted if no objection within deadline",
+      "Parliament approval",
+      "Council approval"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "Sincere cooperation:",
+    "options": [
+      "Commission orders MS",
+      "Mutual loyal cooperation EU–MS",
+      "Commission supremacy",
+      "Parliament control"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "European Semester:",
+    "options": [
+      "Foreign policy",
+      "Economic/fiscal coordination",
+      "Security",
+      "Justice"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "CSRs:",
+    "options": [
+      "Binding",
+      "Commission-only",
+      "Commission proposes, Council adopts",
+      "Parliament adopts"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "RRF:",
+    "options": [
+      "Replaces MFF",
+      "No Commission role",
+      "Implemented via national plans assessed by Commission",
+      "CAP tool"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "question": "Strategic Agenda:",
+    "options": [
+      "Binding",
+      "Commission",
+      "European Council political priorities",
+      "Replaces Commission priorities"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "Commission President:",
+    "options": [
+      "Direct election",
+      "Sets Political Guidelines",
+      "Chairs European Council",
+      "Appoints judges"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "EP role in Commission:",
+    "options": [
+      "Nominates Commissioners",
+      "Approves entire College (consent)",
+      "Appoints President alone",
+      "Approves DGs"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "Executive agencies:",
+    "options": [
+      "Treaty bodies",
+      "Legislative power",
+      "Commission-managed programme bodies",
+      "Independent regulators"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "Evaluate first:",
+    "options": [
+      "After legislation",
+      "Ignore past law",
+      "Evaluate before major revision",
+      "Replace IA"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "Interservice consultation:",
+    "options": [
+      "Veto system",
+      "DG coordination before adoption",
+      "Replace College",
+      "Parliament role"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "Withdrawal of proposal:",
+    "options": [
+      "Never",
+      "EP approval",
+      "Council approval",
+      "Institutional balance allows it under conditions"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 23,
+    "question": "ECB:",
+    "options": [
+      "Legislation",
+      "Budget",
+      "Monetary policy euro area",
+      "Commission control"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "Delegated acts control:",
+    "options": [
+      "Court",
+      "Council only",
+      "EP + Council ex post control",
+      "MS only"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 25,
+    "question": "Implementing acts control:",
+    "options": [
+      "EP",
+      "Council",
+      "Comitology committees",
+      "Court"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 26,
+    "question": "European Council composition:",
+    "options": [
+      "Commissioners",
+      "Judges",
+      "Heads of State/Government",
+      "MEPs"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "Commission accountability:",
+    "options": [
+      "Court",
+      "Council",
+      "European Parliament",
+      "MS individually"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "MFF adoption:",
+    "options": [
+      "Commission",
+      "EP",
+      "Council unanimity + EP consent",
+      "European Council only"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 29,
+    "question": "Subsidiarity:",
+    "options": [
+      "EU always acts",
+      "MS always act",
+      "EU acts only when MS insufficient",
+      "Commission free"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 30,
+    "question": "Infringement:",
+    "options": [
+      "EP",
+      "Council",
+      "Court",
+      "Commission"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 31,
+    "question": "Work Programme:",
+    "options": [
+      "Binding law",
+      "EP",
+      "College of Commissioners adopts it",
+      "Council"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 32,
+    "question": "European Council role:",
+    "options": [
+      "Execution",
+      "Law drafting",
+      "Political direction",
+      "Delegated acts"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 33,
+    "question": "CJEU:",
+    "options": [
+      "Lawmaking",
+      "Execution",
+      "Interpretation of EU law",
+      "Budget"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 34,
+    "question": "Better Regulation:",
+    "options": [
+      "More laws",
+      "Less Treaty",
+      "Quality + evidence-based policymaking",
+      "MS transfer"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 35,
+    "question": "Semester ends with:",
+    "options": [
+      "Treaty revision",
+      "Budgets",
+      "Council CSRs adoption",
+      "Commission taxes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 36,
+    "question": "RRF financed via:",
+    "options": [
+      "MFF only",
+      "ECB",
+      "NextGenerationEU borrowing",
+      "EIB capital"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 37,
+    "question": "Commission President nominated by:",
+    "options": [
+      "EP",
+      "Council",
+      "European Council (EP elections considered)",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 38,
+    "question": "Executive agencies:",
+    "options": [
+      "Treaty bodies",
+      "Independent regulators",
+      "Commission-managed programme execution bodies",
+      "Council bodies"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "question": "Sincere cooperation:",
+    "options": [
+      "Commission dominance",
+      "MS independence",
+      "Mutual assistance EU–MS",
+      "EP supremacy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 40,
+    "question": "EU budget must respect:",
+    "options": [
+      "Politics",
+      "Commission",
+      "MFF ceilings",
+      "MS budgets"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 41,
+    "question": "EP can:",
+    "options": [
+      "Infringement",
+      "Delegated acts",
+      "Approve/reject Commission College",
+      "Draft Treaties"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 42,
+    "question": "Council consists of:",
+    "options": [
+      "Heads of State",
+      "Commissioners",
+      "National ministers",
+      "Judges"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 43,
+    "question": "Commission has:",
+    "options": [
+      "Judicial power",
+      "Legislative power",
+      "Right of initiative",
+      "Tax power"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 44,
+    "question": "Monetary policy:",
+    "options": [
+      "Commission",
+      "Council",
+      "ECB",
+      "EIB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 45,
+    "question": "MFF duration:",
+    "options": [
+      "1 year",
+      "3 years",
+      "7 years",
+      "10 years"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 46,
+    "question": "Implementing acts used when:",
+    "options": [
+      "Treaty change",
+      "Uniform implementation needed",
+      "EP request",
+      "Council veto"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "Proportionality:",
+    "options": [
+      "EU always acts",
+      "MS always act",
+      "EU action limited to what is necessary",
+      "Commission free"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 48,
+    "question": "Court of Auditors:",
+    "options": [
+      "Law",
+      "Enforcement",
+      "Audit EU finances",
+      "Approval"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "Commission is:",
+    "options": [
+      "Legislative",
+      "Judicial",
+      "Executive institution",
+      "MS body"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 50,
+    "question": "Political priorities set by:",
+    "options": [
+      "Commission",
+      "EP",
+      "European Council (Strategic Agenda)",
+      "Court"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 51,
+    "question": "The Commission’s right to withdraw a legislative proposal is:",
+    "options": [
+      "Unlimited and requires no justification",
+      "Possible under institutional balance and must respect sincere cooperation with Parliament and Council",
+      "Only possible before Parliament’s first reading",
+      "Requires unanimous Council approval"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 52,
+    "question": "The “Better Regulation Toolbox” is primarily used to:",
+    "options": [
+      "Draft Treaty amendments",
+      "Guide Commission services in preparing impact assessments and evaluations",
+      "Approve national laws",
+      "Replace interservice consultation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 53,
+    "question": "The principle of “institutional balance” in the EU means:",
+    "options": [
+      "Equal power between Member States",
+      "Parliament supremacy",
+      "Each institution acts within limits set by the Treaties without encroaching on others’ prerogatives",
+      "Commission dominance in legislation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 54,
+    "question": "The “comitology” system refers to:",
+    "options": [
+      "Parliamentary committees drafting legislation",
+      "Member State committees assisting the Commission in implementing acts",
+      "Court of Justice advisory panels",
+      "Council working groups adopting laws"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 55,
+    "question": "The European Commission’s annual Rule of Law Report:",
+    "options": [
+      "Is legally binding on Member States",
+      "Assesses rule of law developments in all Member States on a preventive basis",
+      "Replaces infringement procedures",
+      "Is adopted by the European Council"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 56,
+    "question": "The European Anti-Fraud Office (OLAF):",
+    "options": [
+      "Is part of the Court of Justice",
+      "Investigates fraud affecting the EU budget administratively",
+      "Prosecutes criminal cases in Member States",
+      "Approves EU spending programmes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 57,
+    "question": "The European Public Prosecutor’s Office (EPPO):",
+    "options": [
+      "Replaces OLAF",
+      "Conducts criminal investigations into offences affecting the EU budget in participating Member States",
+      "Is a Commission DG",
+      "Handles all EU criminal law"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 58,
+    "question": "The principle of “mutual recognition” mainly applies to:",
+    "options": [
+      "EU budget procedures",
+      "Recognition of national rules across Member States in the internal market",
+      "External trade agreements",
+      "Commission internal procedures"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 59,
+    "question": "The “Single Market” is based primarily on:",
+    "options": [
+      "Fiscal harmonisation",
+      "Free movement of goods, services, capital and persons",
+      "Common defence policy",
+      "Judicial cooperation only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 60,
+    "question": "The European Semester is coordinated primarily by:",
+    "options": [
+      "European Parliament",
+      "ECB",
+      "European Commission",
+      "European Court of Auditors"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 61,
+    "question": "The Commission may propose legislation:",
+    "options": [
+      "Only when requested by Parliament",
+      "Only when requested by Council",
+      "On its own initiative or following Treaty obligations/political priorities",
+      "Only during the European Semester"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 62,
+    "question": "The “right of initiative monopoly” of the Commission means:",
+    "options": [
+      "Only Commission can adopt laws",
+      "Parliament cannot amend laws",
+      "Most EU legislation must be initiated by the Commission",
+      "Council drafts all legislation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 63,
+    "question": "The EU Budget discharge procedure is granted by:",
+    "options": [
+      "Council",
+      "European Parliament, on recommendation of the Council",
+      "Commission",
+      "ECB"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 64,
+    "question": "The European Investment Bank (EIB):",
+    "options": [
+      "Is a Commission Directorate-General",
+      "Provides long-term financing for EU policy objectives",
+      "Adopts EU legislation",
+      "Manages EU customs policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 65,
+    "question": "The “Own Resources Decision” relates to:",
+    "options": [
+      "Appointment of Commissioners",
+      "How the EU is financed (revenue system of the EU budget)",
+      "ECB monetary policy",
+      "Court of Justice procedures"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 66,
+    "question": "The Digital Europe Programme focuses on:",
+    "options": [
+      "Agricultural subsidies",
+      "Digital capacities such as AI, cybersecurity, HPC and digital skills",
+      "Border control",
+      "Trade defence"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 67,
+    "question": "Horizon Europe is primarily:",
+    "options": [
+      "A cohesion fund",
+      "EU research and innovation framework programme",
+      "A defence fund",
+      "A migration fund"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 68,
+    "question": "The Connecting Europe Facility (CEF) finances:",
+    "options": [
+      "Social policy",
+      "Transport, energy and digital infrastructure networks",
+      "Agriculture",
+      "Rule of law mechanisms"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 69,
+    "question": "Erasmus+ is mainly linked to:",
+    "options": [
+      "Defence cooperation",
+      "Education, training, youth and sport mobility",
+      "Energy policy",
+      "Competition policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 70,
+    "question": "The European Social Fund Plus (ESF+) supports:",
+    "options": [
+      "Infrastructure only",
+      "Employment, social inclusion and skills development",
+      "Defence industry",
+      "Trade policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 71,
+    "question": "The “Green Deal” is primarily:",
+    "options": [
+      "A trade agreement",
+      "EU strategy for climate neutrality and sustainable growth",
+      "A budget regulation",
+      "A migration framework"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 72,
+    "question": "The Net-Zero Industry Act aims to:",
+    "options": [
+      "Increase fossil fuel subsidies",
+      "Strengthen manufacturing capacity for clean technologies in the EU",
+      "Replace the MFF",
+      "Reform the ECB"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 73,
+    "question": "CBAM (Carbon Border Adjustment Mechanism) is designed to:",
+    "options": [
+      "Reduce VAT rates",
+      "Prevent carbon leakage by pricing carbon on imports of certain goods",
+      "Replace customs duties entirely",
+      "Regulate banking supervision"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 74,
+    "question": "The “Strategic autonomy” concept refers to:",
+    "options": [
+      "EU military independence only",
+      "EU capacity to act independently in critical sectors and reduce external dependencies",
+      "Abolition of trade policy",
+      "Replacement of the Commission"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 75,
+    "question": "The European Council meets:",
+    "options": [
+      "Monthly",
+      "Weekly",
+      "At least four times per year (regular summits)",
+      "Only during crises"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 76,
+    "question": "The Commission’s structure is based on:",
+    "options": [
+      "Member State quotas",
+      "One Commissioner per Member State",
+      "Parliament representation",
+      "GDP weighting"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 77,
+    "question": "The Secretariat-General of the Commission:",
+    "options": [
+      "Drafts legislation alone",
+      "Coordinates Commission work and ensures coherence across services",
+      "Represents the EU externally",
+      "Manages monetary policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 78,
+    "question": "DGs in the Commission are:",
+    "options": [
+      "Independent agencies",
+      "National bodies",
+      "Administrative services responsible for policy preparation and implementation",
+      "Court bodies"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 79,
+    "question": "The President of the Commission assigns portfolios to:",
+    "options": [
+      "Council",
+      "Parliament",
+      "Individual Commissioners-designate (with College approval)",
+      "Court of Justice"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 80,
+    "question": "The “lead DG” principle means:",
+    "options": [
+      "All DGs draft laws equally",
+      "Council leads Commission work",
+      "One DG coordinates a proposal, with input from others (interservice consultation)",
+      "Parliament leads Commission drafting"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 81,
+    "question": "The European External Action Service (EEAS):",
+    "options": [
+      "Is part of the Commission",
+      "Is part of Parliament",
+      "Supports the EU’s foreign and security policy under High Representative",
+      "Manages EU budget"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 82,
+    "question": "The High Representative of the Union for Foreign Affairs:",
+    "options": [
+      "Chairs European Council",
+      "Combines roles in Council and Commission (dual-hatted role)",
+      "Leads ECB",
+      "Is elected by Parliament"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 83,
+    "question": "The Stability and Growth Pact relates to:",
+    "options": [
+      "Trade policy",
+      "Fiscal discipline and budgetary rules for Member States",
+      "Agriculture",
+      "Digital policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 84,
+    "question": "The “six priorities” of the current Commission include:",
+    "options": [
+      "Only climate policy",
+      "Green transition, digital transformation, economy, security, democracy, global Europe (structure varies by mandate)",
+      "Only migration",
+      "Only agriculture"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 85,
+    "question": "The European Court of Auditors reports to:",
+    "options": [
+      "Commission",
+      "Council",
+      "European Parliament and Council",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 86,
+    "question": "The EU’s legal acts include:",
+    "options": [
+      "Only directives",
+      "Only regulations",
+      "Regulations, directives, decisions, recommendations and opinions",
+      "Only treaties"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 87,
+    "question": "A regulation is:",
+    "options": [
+      "Binding only for Member States",
+      "Non-binding",
+      "Directly applicable and binding in all Member States",
+      "Requires national transposition"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 88,
+    "question": "A directive is:",
+    "options": [
+      "Directly applicable",
+      "Binding as to result but requires national transposition",
+      "Non-binding",
+      "Adopted only by Commission"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 89,
+    "question": "A decision is:",
+    "options": [
+      "Always general",
+      "Binding in its entirety on those to whom it is addressed",
+      "Non-binding",
+      "Requires national ratification"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 90,
+    "question": "Recommendations:",
+    "options": [
+      "Binding",
+      "Legal acts with sanctions",
+      "Non-binding guidance instruments",
+      "Directly enforceable"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 91,
+    "question": "Opinions:",
+    "options": [
+      "Binding law",
+      "Non-binding legal instruments expressing institutional views",
+      "Regulations",
+      "Directives"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 92,
+    "question": "The principle of proportionality requires that:",
+    "options": [
+      "EU acts always override national law",
+      "EU action does not exceed what is necessary to achieve objectives",
+      "Member States decide everything",
+      "Commission always legislates"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 93,
+    "question": "The EU Charter of Fundamental Rights:",
+    "options": [
+      "Applies only to Member States",
+      "Applies when EU law is implemented or applied",
+      "Replaces Treaties",
+      "Applies only to Parliament"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 94,
+    "question": "The Court of Justice ensures:",
+    "options": [
+      "Political balance",
+      "Uniform interpretation and application of EU law",
+      "Budget adoption",
+      "Commission staffing"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 95,
+    "question": "The General Court primarily handles:",
+    "options": [
+      "Monetary policy",
+      "Actions brought by individuals and companies against EU institutions",
+      "Treaty amendments",
+      "National constitutions"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 96,
+    "question": "The Commission can be politically dismissed by:",
+    "options": [
+      "Council",
+      "European Council",
+      "European Parliament via motion of censure",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 97,
+    "question": "The EU’s legal order is characterised by:",
+    "options": [
+      "National supremacy",
+      "Primacy and direct effect (developed by CJEU jurisprudence)",
+      "Optional application",
+      "Intergovernmental exclusivity"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 98,
+    "question": "The principle of direct effect means:",
+    "options": [
+      "Only treaties apply",
+      "Individuals can invoke EU law before national courts under certain conditions",
+      "Only Commission applies law",
+      "Only directives apply"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 99,
+    "question": "The EU budget is primarily financed through:",
+    "options": [
+      "ECB",
+      "National courts",
+      "Own resources (customs duties, VAT-based, GNI-based contributions)",
+      "Private donations"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 100,
+    "question": "The European Commission is:",
+    "options": [
+      "Legislative institution",
+      "Judicial institution",
+      "Executive institution of the EU responsible for policy implementation and initiative",
+      "Member State body"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 101,
+    "question": "The European Commission’s “right of initiative” does NOT apply when:",
+    "options": [
+      "The Commission decides not to legislate",
+      "The Treaties assign the initiative to another actor or procedure (e.g. Member States or ECB in specific cases)",
+      "Parliament requests legislation",
+      "Council requests legislation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 102,
+    "question": "The principle of subsidiarity is assessed primarily by:",
+    "options": [
+      "Court of Justice only",
+      "National Parliaments and EU institutions during the legislative process",
+      "ECB",
+      "Commission alone"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 103,
+    "question": "A “yellow card” procedure refers to:",
+    "options": [
+      "ECB sanctions",
+      "National Parliaments objecting to subsidiarity breaches in draft legislation",
+      "Court of Justice rulings",
+      "Council veto mechanism"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 104,
+    "question": "A “green card” initiative (informal EU usage) refers to:",
+    "options": [
+      "Binding veto by Parliament",
+      "Voluntary national parliamentary suggestions to the Commission for legislative action",
+      "Court procedure",
+      "Commission withdrawal of proposals"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 105,
+    "question": "The “orange card” procedure means:",
+    "options": [
+      "Commission withdrawal",
+      "Stronger subsidiarity objection requiring review by Commission and possible rejection if thresholds met",
+      "ECB alert system",
+      "Council emergency powers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 106,
+    "question": "The European Commission’s political legitimacy primarily derives from:",
+    "options": [
+      "Direct elections",
+      "Indirect democratic legitimacy via European Parliament approval and Council nomination process",
+      "Court of Justice appointment",
+      "National parliaments directly"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 107,
+    "question": "The “spitzenkandidat” process refers to:",
+    "options": [
+      "Appointment of Commissioners by Council",
+      "Linking Commission President selection to European Parliament elections (political practice, not binding law)",
+      "Appointment of ECB President",
+      "Election of Council President"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 108,
+    "question": "The Commission can enforce EU law against Member States through:",
+    "options": [
+      "Political declarations",
+      "Infringement proceedings under Articles 258–260 TFEU",
+      "Direct police powers",
+      "National courts only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 109,
+    "question": "Article 260 TFEU relates to:",
+    "options": [
+      "Budget approval",
+      "Financial penalties for non-compliance with Court rulings in infringement cases",
+      "ECB policy",
+      "Parliament elections"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 110,
+    "question": "The Commission’s “annual rule of law cycle” is:",
+    "options": [
+      "Binding enforcement mechanism",
+      "Preventive monitoring and reporting tool across Member States",
+      "Court procedure",
+      "Treaty revision process"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 111,
+    "question": "The European Semester begins with:",
+    "options": [
+      "Council adoption of budgets",
+      "Commission’s Annual Sustainable Growth Strategy (or equivalent economic guidance document)",
+      "Court rulings",
+      "ECB decisions"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 112,
+    "question": "National Reform Programmes are submitted to:",
+    "options": [
+      "Parliament",
+      "ECB",
+      "European Commission",
+      "Court of Justice"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 113,
+    "question": "Stability Programmes are submitted by:",
+    "options": [
+      "Commission",
+      "ECB",
+      "Euro area Member States to the Commission and Council",
+      "Parliament"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 114,
+    "question": "The “Six-Pack” and “Two-Pack” refer to:",
+    "options": [
+      "Migration policy tools",
+      "EU economic governance legislation strengthening fiscal surveillance",
+      "Trade agreements",
+      "Defence instruments"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 115,
+    "question": "The Recovery and Resilience Facility is linked to:",
+    "options": [
+      "CAP reform",
+      "European Semester policy coordination framework",
+      "ECB monetary policy",
+      "Schengen governance"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 116,
+    "question": "The Commission’s role in RRF payments is to:",
+    "options": [
+      "Approve national taxes",
+      "Assess milestones and targets before authorising disbursements",
+      "Set national budgets",
+      "Print EU money"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 117,
+    "question": "The MFF Regulation is adopted by:",
+    "options": [
+      "Commission alone",
+      "Parliament alone",
+      "Council unanimously with Parliament consent",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 118,
+    "question": "Flexibility instruments in the MFF are used to:",
+    "options": [
+      "Increase ECB lending",
+      "Allow response to unforeseen needs within budget limits",
+      "Replace own resources",
+      "Override Parliament decisions"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 119,
+    "question": "“NextGenerationEU” is:",
+    "options": [
+      "Permanent EU budget",
+      "Temporary recovery instrument financed by borrowing",
+      "ECB monetary policy",
+      "Trade agreement"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 120,
+    "question": "EU borrowing under NextGenerationEU is done by:",
+    "options": [
+      "ECB",
+      "EIB",
+      "European Commission on behalf of the EU",
+      "Council"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 121,
+    "question": "The European Investment Bank primarily:",
+    "options": [
+      "Enforces EU law",
+      "Provides long-term financing for EU policy objectives",
+      "Drafts legislation",
+      "Controls national budgets"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 122,
+    "question": "The EIB is:",
+    "options": [
+      "Commission DG",
+      "Court body",
+      "EU financial institution owned by Member States",
+      "Parliament agency"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 123,
+    "question": "The European Central Bank is responsible for:",
+    "options": [
+      "Fiscal policy",
+      "Monetary policy of euro area",
+      "Trade policy",
+      "Agriculture policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 124,
+    "question": "Inflation targeting in the euro area is primarily:",
+    "options": [
+      "Commission responsibility",
+      "Council responsibility",
+      "ECB mandate objective",
+      "EIB responsibility"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 125,
+    "question": "The Single Market is based on:",
+    "options": [
+      "Fiscal harmonisation only",
+      "Four freedoms of movement",
+      "Common defence",
+      "Agricultural subsidies"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 126,
+    "question": "State aid control is exercised by:",
+    "options": [
+      "Council",
+      "Parliament",
+      "European Commission",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 127,
+    "question": "Competition policy is enforced by:",
+    "options": [
+      "Member States",
+      "Court of Justice",
+      "European Commission (DG COMP)",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 128,
+    "question": "Merger control at EU level is handled by:",
+    "options": [
+      "Council",
+      "Parliament",
+      "European Commission",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 129,
+    "question": "The “Green Deal Industrial Plan” aims to:",
+    "options": [
+      "Reduce EU industry",
+      "Support clean tech and industrial competitiveness in the EU",
+      "Replace MFF",
+      "End trade policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 130,
+    "question": "CBAM applies to:",
+    "options": [
+      "Services only",
+      "Carbon-intensive imports (to prevent carbon leakage)",
+      "Agricultural subsidies",
+      "Banking sector"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 131,
+    "question": "The Digital Markets Act (DMA) targets:",
+    "options": [
+      "Agriculture",
+      "Large online platforms acting as “gatekeepers”",
+      "ECB regulation",
+      "Border control"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 132,
+    "question": "The Digital Services Act (DSA) focuses on:",
+    "options": [
+      "Monetary policy",
+      "Online platform governance and illegal content regulation",
+      "Agriculture subsidies",
+      "Transport infrastructure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 133,
+    "question": "Horizon Europe supports:",
+    "options": [
+      "Social welfare",
+      "Research and innovation across scientific fields",
+      "Border control",
+      "Monetary policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 134,
+    "question": "Erasmus+ promotes:",
+    "options": [
+      "Defence cooperation",
+      "Education, mobility and training",
+      "Banking supervision",
+      "Agriculture reform"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 135,
+    "question": "The Cohesion Policy aims to:",
+    "options": [
+      "Centralise ECB powers",
+      "Reduce regional disparities across EU regions",
+      "Replace CAP",
+      "Control inflation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 136,
+    "question": "The Common Agricultural Policy (CAP) is:",
+    "options": [
+      "Defence policy",
+      "EU agricultural support and rural development framework",
+      "Monetary policy",
+      "Trade policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 137,
+    "question": "The European Social Fund Plus supports:",
+    "options": [
+      "Defence industry",
+      "Employment and social inclusion",
+      "Monetary policy",
+      "Trade sanctions"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 138,
+    "question": "The Connecting Europe Facility funds:",
+    "options": [
+      "Social programmes",
+      "Transport, energy and digital infrastructure",
+      "ECB operations",
+      "Agriculture only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 139,
+    "question": "The European Labour Authority is based in:",
+    "options": [
+      "Brussels",
+      "Luxembourg",
+      "Bratislava",
+      "Strasbourg"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 140,
+    "question": "The European Medicines Agency is based in:",
+    "options": [
+      "Paris",
+      "Brussels",
+      "Amsterdam",
+      "Frankfurt"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 141,
+    "question": "The European Banking Authority is based in:",
+    "options": [
+      "Frankfurt",
+      "Paris",
+      "Paris",
+      "Luxembourg"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 142,
+    "question": "Frontex is responsible for:",
+    "options": [
+      "Monetary policy",
+      "EU border and coast guard coordination",
+      "Agriculture subsidies",
+      "Trade negotiations"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 143,
+    "question": "Europol deals with:",
+    "options": [
+      "Agriculture",
+      "Law enforcement cooperation",
+      "Monetary policy",
+      "Budget execution"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 144,
+    "question": "Eurojust supports:",
+    "options": [
+      "ECB",
+      "Judicial cooperation in criminal matters",
+      "Agriculture policy",
+      "Trade policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 145,
+    "question": "The Commission is composed of:",
+    "options": [
+      "Ministers",
+      "Judges",
+      "One Commissioner per Member State",
+      "ECB governors"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 146,
+    "question": "Commissioners are:",
+    "options": [
+      "Directly elected",
+      "National ministers",
+      "Politically independent at EU level, but nominated by Member States",
+      "Judges"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 147,
+    "question": "The Commission is accountable to:",
+    "options": [
+      "ECB",
+      "Council only",
+      "European Parliament",
+      "National courts"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 148,
+    "question": "The motion of censure applies to:",
+    "options": [
+      "Council",
+      "ECB",
+      "European Commission",
+      "Court of Justice"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 149,
+    "question": "The Commission can:",
+    "options": [
+      "Pass national laws",
+      "Propose legislation and implement EU policy",
+      "Issue binding criminal sentences",
+      "Replace Member States"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 150,
+    "question": "The EU legal system is based on:",
+    "options": [
+      "National supremacy",
+      "Primacy and direct effect of EU law",
+      "Optional compliance",
+      "Treaty soft law only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 151,
+    "question": "The principle of “loyal cooperation” (Article 4(3) TEU) implies that:",
+    "options": [
+      "Member States must follow Commission instructions",
+      "Institutions may act independently without coordination",
+      "Member States and EU institutions must assist each other in carrying out Treaty tasks",
+      "Only the Commission is bound by it"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 152,
+    "question": "The Commission’s right to withdraw a proposal is constrained by:",
+    "options": [
+      "Parliament veto",
+      "Council veto",
+      "Institutional balance and duty of sincere cooperation",
+      "CJEU approval"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 153,
+    "question": "The Commission’s “political accountability” primarily takes the form of:",
+    "options": [
+      "Judicial review",
+      "National parliamentary control",
+      "Parliamentary control including hearings and motion of censure",
+      "Council supervision"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 154,
+    "question": "The European Parliament can reject the Commission:",
+    "options": [
+      "Individually per Commissioner",
+      "DG by DG",
+      "Only as a College (not individual Commissioners)",
+      "Only via Council agreement"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 155,
+    "question": "The Commission’s executive role includes:",
+    "options": [
+      "Judicial interpretation",
+      "Treaty revision",
+      "Implementation of EU policies and budget execution",
+      "National law adoption"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 156,
+    "question": "The EU budget is executed primarily by:",
+    "options": [
+      "Parliament",
+      "Council",
+      "European Commission (shared management with Member States)",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 157,
+    "question": "Shared management means:",
+    "options": [
+      "Commission alone executes funds",
+      "Member States alone execute funds",
+      "Commission and Member States jointly implement EU spending programmes",
+      "ECB manages funds"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 158,
+    "question": "Direct management of EU funds means:",
+    "options": [
+      "Member States execute funds",
+      "ECB executes funds",
+      "Commission directly implements programmes and payments",
+      "Parliament executes funds"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 159,
+    "question": "Indirect management refers to:",
+    "options": [
+      "ECB management",
+      "Parliament management",
+      "Delegation to third countries, international organisations or agencies",
+      "Council management"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 160,
+    "question": "The Commission’s Annual Sustainable Growth Strategy is part of:",
+    "options": [
+      "CAP",
+      "MFF negotiation",
+      "European Semester cycle",
+      "ECB strategy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 161,
+    "question": "The “alert mechanism report” is associated with:",
+    "options": [
+      "ECB monetary policy",
+      "Macroeconomic imbalance procedure",
+      "Trade policy",
+      "CAP reform"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 162,
+    "question": "The Macroeconomic Imbalance Procedure is part of:",
+    "options": [
+      "Justice policy",
+      "EU economic governance framework",
+      "Foreign policy",
+      "Digital policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 163,
+    "question": "The Commission can issue a reasoned opinion in:",
+    "options": [
+      "Budget procedure",
+      "Infringement procedure before Court referral",
+      "ECB decisions",
+      "Parliament elections"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 164,
+    "question": "If a Member State does not comply with a Court judgment:",
+    "options": [
+      "Nothing happens",
+      "Parliament intervenes",
+      "Financial penalties under Article 260 TFEU may be imposed",
+      "ECB sanctions apply"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 165,
+    "question": "The EU Court of Auditors examines:",
+    "options": [
+      "Legislation",
+      "Monetary policy",
+      "EU revenue and expenditure legality and sound financial management",
+      "Treaties"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 166,
+    "question": "The European Anti-Fraud Office (OLAF) investigates:",
+    "options": [
+      "Monetary policy fraud",
+      "National budgets",
+      "Fraud affecting EU financial interests",
+      "Treaty amendments"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 167,
+    "question": "The European Public Prosecutor’s Office (EPPO) operates:",
+    "options": [
+      "In all EU Member States automatically",
+      "Only under ECB supervision",
+      "In participating Member States to prosecute crimes affecting EU budget",
+      "Under Council presidency"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 168,
+    "question": "The Commission’s “competitiveness agenda” focuses on:",
+    "options": [
+      "Agricultural subsidies",
+      "Innovation, industrial capacity, and reducing strategic dependencies",
+      "ECB reform",
+      "Judicial cooperation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 169,
+    "question": "The “Clean Industrial Deal” relates to:",
+    "options": [
+      "Trade tariffs",
+      "Industrial decarbonisation and clean technology scale-up",
+      "Migration policy",
+      "Monetary policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 170,
+    "question": "The Green Deal objective is:",
+    "options": [
+      "Economic contraction",
+      "Climate neutrality by 2050",
+      "Defence integration",
+      "Fiscal union"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 171,
+    "question": "The Carbon Border Adjustment Mechanism (CBAM) applies to:",
+    "options": [
+      "Services exports",
+      "Imports of carbon-intensive goods",
+      "Agricultural subsidies",
+      "Banking services"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 172,
+    "question": "The EU Single Market ensures:",
+    "options": [
+      "Fiscal harmonisation",
+      "Free movement of goods, services, capital and persons",
+      "ECB control",
+      "Defence integration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 173,
+    "question": "The principle of “mutual recognition” applies mainly in:",
+    "options": [
+      "Monetary policy",
+      "Internal market regulation of goods/services",
+      "Budget law",
+      "Treaty law"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 174,
+    "question": "The Schengen area relates to:",
+    "options": [
+      "Currency union",
+      "Free movement without internal border controls",
+      "Trade tariffs",
+      "Agricultural policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 175,
+    "question": "The euro area refers to:",
+    "options": [
+      "All EU Member States",
+      "Member States using the euro as currency",
+      "Schengen states",
+      "EEA countries only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 176,
+    "question": "The European Central Bank’s primary objective is:",
+    "options": [
+      "Employment",
+      "Growth",
+      "Price stability",
+      "Budget balance"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 177,
+    "question": "The ECB is independent from:",
+    "options": [
+      "Member States only",
+      "Parliament only",
+      "Political institutions of the EU and Member States",
+      "Court of Justice"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 178,
+    "question": "The Commission’s role in enlargement policy is to:",
+    "options": [
+      "Decide accession alone",
+      "Assess candidates and recommend accession steps",
+      "Vote in Council",
+      "Ratify treaties"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 179,
+    "question": "Accession of new Member States requires:",
+    "options": [
+      "Commission decision only",
+      "ECB approval",
+      "Unanimity of Member States and ratification",
+      "Parliament alone"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 180,
+    "question": "The European External Action Service supports:",
+    "options": [
+      "ECB",
+      "Commission only",
+      "High Representative in EU foreign policy",
+      "Parliament"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 181,
+    "question": "The High Representative:",
+    "options": [
+      "Chairs Parliament",
+      "Chairs ECB",
+      "Leads CFSP and Vice-President of Commission",
+      "Heads Court of Justice"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 182,
+    "question": "Common Foreign and Security Policy decisions are taken by:",
+    "options": [
+      "Commission alone",
+      "Parliament alone",
+      "Council (often unanimity)",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 183,
+    "question": "The Commission’s “right of initiative” in CFSP is:",
+    "options": [
+      "Exclusive",
+      "Non-existent",
+      "Shared with High Representative and Member States under specific rules",
+      "Controlled by ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 184,
+    "question": "EU agencies are generally:",
+    "options": [
+      "Treaty institutions",
+      "Independent legislators",
+      "Bodies assisting implementation of EU policies",
+      "Member State bodies"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 185,
+    "question": "Frontex is responsible for:",
+    "options": [
+      "Trade policy",
+      "Border management and coast guard coordination",
+      "Monetary policy",
+      "Agriculture"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 186,
+    "question": "Europol deals with:",
+    "options": [
+      "Agriculture",
+      "Law enforcement cooperation",
+      "Budget execution",
+      "Trade policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 187,
+    "question": "Eurojust supports:",
+    "options": [
+      "ECB operations",
+      "Judicial cooperation in criminal matters",
+      "Agriculture subsidies",
+      "Monetary policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 188,
+    "question": "The Commission’s “Better Regulation” approach includes:",
+    "options": [
+      "More legislation",
+      "Less consultation",
+      "Impact assessment, evaluation, and simplification",
+      "Centralisation of lawmaking in Council"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 189,
+    "question": "The Commission can propose EU legislation:",
+    "options": [
+      "Only at Parliament request",
+      "Only at Council request",
+      "On its own initiative or Treaty obligation",
+      "Only during Semester"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 190,
+    "question": "The Commission Work Programme reflects:",
+    "options": [
+      "ECB priorities",
+      "Council decisions only",
+      "Commission Political Guidelines",
+      "Court rulings"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 191,
+    "question": "The EU budget is adopted annually by:",
+    "options": [
+      "Commission only",
+      "ECB only",
+      "Parliament and Council jointly",
+      "Court of Justice"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 192,
+    "question": "The MFF is:",
+    "options": [
+      "Annual budget",
+      "Non-binding plan",
+      "Multiannual binding financial framework",
+      "ECB strategy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 193,
+    "question": "The EU legal order is characterised by:",
+    "options": [
+      "National supremacy",
+      "Primacy of EU law",
+      "Optional compliance",
+      "Soft coordination only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 194,
+    "question": "Direct effect means:",
+    "options": [
+      "Only treaties apply",
+      "Individuals can invoke EU law before national courts",
+      "Only Commission applies law",
+      "Only directives apply"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 195,
+    "question": "Regulations are:",
+    "options": [
+      "Non-binding",
+      "Require transposition",
+      "Directly applicable in all Member States",
+      "Only recommendations"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 196,
+    "question": "Directives are:",
+    "options": [
+      "Directly applicable",
+      "Binding as to result but require national transposition",
+      "Non-binding",
+      "Adopted by Parliament only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 197,
+    "question": "Decisions are:",
+    "options": [
+      "Always general",
+      "Non-binding",
+      "Binding on those to whom they are addressed",
+      "Require transposition"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 198,
+    "question": "Recommendations are:",
+    "options": [
+      "Binding law",
+      "Non-binding guidance instruments",
+      "Regulations",
+      "Directives"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 199,
+    "question": "Opinions are:",
+    "options": [
+      "Binding",
+      "Non-binding institutional views",
+      "Regulations",
+      "Decisions"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 200,
+    "question": "The European Commission is best described as:",
+    "options": [
+      "Legislative institution",
+      "Judicial institution",
+      "Executive institution responsible for implementing EU policies and initiating legislation",
+      "Member State body"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 201,
+    "question": "Under the ordinary legislative procedure, if the Commission amends its proposal after the Council has established its position, the amendment must:",
+    "options": [
+      "Be approved by the European Council",
+      "Comply with the procedural stage and Treaty rules governing amendments",
+      "Be approved unanimously by Member States",
+      "Be endorsed by the Court of Justice"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 202,
+    "question": "Which principle is most closely associated with the Commission's internal decision-making?",
+    "options": [
+      "Subsidiarity",
+      "Collegiality",
+      "Proportionality",
+      "Mutual recognition"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 203,
+    "question": "The principle of collegiality means that:",
+    "options": [
+      "Each Commissioner acts independently of the College",
+      "The President alone adopts decisions",
+      "The College assumes collective political responsibility for its decisions",
+      "Commissioners vote according to nationality"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 204,
+    "question": "The Secretariat-General mainly:",
+    "options": [
+      "Audits EU expenditure",
+      "Coordinates the work of the Commission and supports the College",
+      "Negotiates trade agreements",
+      "Represents the Commission before the Court of Justice"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 205,
+    "question": "Which of the following is not one of the Commission's Better Regulation tools?",
+    "options": [
+      "Impact assessments",
+      "Fitness checks",
+      "Monetary policy reviews",
+      "Public consultations"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 206,
+    "question": "REFIT aims primarily to:",
+    "options": [
+      "Increase the number of legislative proposals",
+      "Simplify EU legislation and reduce unnecessary burdens",
+      "Reform the Treaties",
+      "Coordinate monetary policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 207,
+    "question": "An evaluation differs from an impact assessment because it:",
+    "options": [
+      "Examines future proposals only",
+      "Assesses the performance of existing legislation or programmes",
+      "Is carried out only by the Council",
+      "Is legally binding"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 208,
+    "question": "Which institution formally adopts delegated acts?",
+    "options": [
+      "Parliament",
+      "Council",
+      "Commission",
+      "Court of Justice"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 209,
+    "question": "A delegated act may:",
+    "options": [
+      "Amend essential elements of legislation",
+      "Amend or supplement non-essential elements of a legislative act",
+      "Amend the Treaties",
+      "Replace a regulation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 210,
+    "question": "A key purpose of public consultations is to:",
+    "options": [
+      "Replace legislative proposals",
+      "Gather evidence and stakeholder views before policymaking",
+      "Approve delegated acts",
+      "Ratify international agreements"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 211,
+    "question": "Which EU institution has the power to approve the entire College of Commissioners?",
+    "options": [
+      "European Council",
+      "Council of the EU",
+      "European Parliament",
+      "Court of Auditors"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 212,
+    "question": "Before taking office, Commissioners-designate normally:",
+    "options": [
+      "Are confirmed by national parliaments",
+      "Appear before European Parliament committees for hearings",
+      "Are confirmed by the ECB",
+      "Must be approved by the Court of Justice"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 213,
+    "question": "Which DG is primarily responsible for competition policy?",
+    "options": [
+      "DG GROW",
+      "DG TRADE",
+      "DG COMP",
+      "DG ECFIN"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 214,
+    "question": "DG ECFIN mainly deals with:",
+    "options": [
+      "Agriculture",
+      "Environment",
+      "Economic and financial affairs",
+      "Competition enforcement"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 215,
+    "question": "DG BUDG is responsible for:",
+    "options": [
+      "Tax harmonisation",
+      "Preparation and implementation of the EU budget",
+      "Monetary policy",
+      "External relations"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 216,
+    "question": "The Commission's internal consultation among DGs is called:",
+    "options": [
+      "Comitology",
+      "Interservice consultation",
+      "Trilogue",
+      "Conciliation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 217,
+    "question": "The Legal Service primarily:",
+    "options": [
+      "Audits EU programmes",
+      "Provides legal advice and represents the Commission before the CJEU",
+      "Drafts the EU budget",
+      "Supervises agencies"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 218,
+    "question": "The principle of evidence-based policymaking is reflected mainly through:",
+    "options": [
+      "Treaty amendments",
+      "Impact assessments, evaluations and consultations",
+      "ECB opinions",
+      "Council conclusions"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 219,
+    "question": "Which of the following is an executive agency?",
+    "options": [
+      "Europol",
+      "EMA",
+      "CINEA",
+      "Frontex"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 220,
+    "question": "Executive agencies:",
+    "options": [
+      "Adopt legislation",
+      "Manage specific EU programmes on behalf of the Commission",
+      "Conduct monetary policy",
+      "Negotiate trade agreements"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 221,
+    "question": "Which programme primarily funds research and innovation?",
+    "options": [
+      "Erasmus+",
+      "LIFE",
+      "Horizon Europe",
+      "Creative Europe"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 222,
+    "question": "LIFE primarily supports:",
+    "options": [
+      "Border management",
+      "Environment and climate projects",
+      "Banking supervision",
+      "Customs cooperation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 223,
+    "question": "Creative Europe mainly supports:",
+    "options": [
+      "Agriculture",
+      "Defence",
+      "Culture and audiovisual sectors",
+      "Fisheries"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 224,
+    "question": "Which programme supports cross-border transport infrastructure?",
+    "options": [
+      "ESF+",
+      "Horizon Europe",
+      "Connecting Europe Facility",
+      "LIFE"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 225,
+    "question": "Erasmus+ includes support for:",
+    "options": [
+      "Only university students",
+      "Education, vocational training, youth and sport",
+      "Customs authorities only",
+      "Only researchers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 226,
+    "question": "The European Climate Law establishes:",
+    "options": [
+      "A binding carbon tax",
+      "The objective of climate neutrality by 2050",
+      "Annual emission quotas for citizens",
+      "A new EU institution"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 227,
+    "question": "Which institution monitors the implementation of EU law?",
+    "options": [
+      "Parliament",
+      "Council",
+      "Commission",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 228,
+    "question": "A Letter of Formal Notice is:",
+    "options": [
+      "The final stage of infringement proceedings",
+      "Usually the first formal step in an infringement procedure",
+      "Issued by the Court",
+      "Adopted by Parliament"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 229,
+    "question": "The reasoned opinion in an infringement procedure:",
+    "options": [
+      "Ends the procedure automatically",
+      "Explains why the Commission considers that EU law has been breached",
+      "Is issued by the Court",
+      "Is adopted by the ECB"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 230,
+    "question": "The Commission may refer a Member State to the Court when:",
+    "options": [
+      "Parliament requests it",
+      "The Member State fails to comply after the administrative phase",
+      "The ECB approves",
+      "Any citizen requests it"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 231,
+    "question": "Which institution adopts the annual EU budget together with the Council?",
+    "options": [
+      "Commission",
+      "European Parliament",
+      "Court of Auditors",
+      "ECB"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 232,
+    "question": "The EU budget must respect:",
+    "options": [
+      "National constitutions",
+      "The ceilings established in the MFF",
+      "ECB recommendations",
+      "NATO commitments"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 233,
+    "question": "The discharge procedure concerns:",
+    "options": [
+      "Treaty revision",
+      "Approval of the implementation of the EU budget",
+      "Appointment of Commissioners",
+      "Adoption of regulations"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 234,
+    "question": "Which institution grants discharge?",
+    "options": [
+      "Commission",
+      "Council",
+      "European Parliament",
+      "Court of Justice"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 235,
+    "question": "The European Court of Auditors:",
+    "options": [
+      "Can annul EU legislation",
+      "Provides independent audit of EU finances",
+      "Conducts infringement procedures",
+      "Drafts legislation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 236,
+    "question": "Which agency is based in Frankfurt?",
+    "options": [
+      "Europol",
+      "European Central Bank",
+      "EMA",
+      "ELA"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 237,
+    "question": "Which agency is based in The Hague?",
+    "options": [
+      "EBA",
+      "Europol",
+      "EMA",
+      "Frontex"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 238,
+    "question": "Which agency is based in Warsaw?",
+    "options": [
+      "Eurojust",
+      "Frontex",
+      "EASA",
+      "ACER"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 239,
+    "question": "Which agency is based in Ljubljana?",
+    "options": [
+      "ECHA",
+      "ACER",
+      "CEPOL",
+      "EUSPA"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 240,
+    "question": "Which agency is based in Cologne?",
+    "options": [
+      "EFSA",
+      "EASA",
+      "ECDC",
+      "eu-LISA"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 241,
+    "question": "The Commission's Political Guidelines are presented:",
+    "options": [
+      "After the College leaves office",
+      "At the beginning of the Commission mandate",
+      "Every six months",
+      "Before European elections"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 242,
+    "question": "The Commission Work Programme is normally:",
+    "options": [
+      "Adopted every seven years",
+      "Updated annually",
+      "Adopted every legislative term only",
+      "Adopted by the Council"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 243,
+    "question": "Which principle requires EU action not to exceed what is necessary?",
+    "options": [
+      "Conferral",
+      "Subsidiarity",
+      "Proportionality",
+      "Mutual recognition"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 244,
+    "question": "The Charter of Fundamental Rights became legally binding with:",
+    "options": [
+      "Maastricht Treaty",
+      "Amsterdam Treaty",
+      "Treaty of Lisbon",
+      "Nice Treaty"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 245,
+    "question": "Which institution ensures uniform interpretation of EU law?",
+    "options": [
+      "Parliament",
+      "Council",
+      "Court of Justice of the European Union",
+      "Commission"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 246,
+    "question": "The General Court mainly hears:",
+    "options": [
+      "Criminal appeals",
+      "Actions brought by individuals and companies against EU institutions",
+      "Treaty amendment disputes",
+      "National constitutional cases"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 247,
+    "question": "Which Treaty introduced the ordinary legislative procedure as the standard legislative procedure?",
+    "options": [
+      "Maastricht",
+      "Nice",
+      "Lisbon",
+      "Rome"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 248,
+    "question": "Which of the following is an exclusive EU competence?",
+    "options": [
+      "Public health",
+      "Education",
+      "Customs union",
+      "Tourism"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 249,
+    "question": "Which institution represents the citizens of the European Union directly?",
+    "options": [
+      "Council of the EU",
+      "European Council",
+      "European Parliament",
+      "Committee of the Regions"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 250,
+    "question": "Which statement best summarises the Commission's institutional role?",
+    "options": [
+      "It is primarily a judicial institution.",
+      "It represents national governments.",
+      "It legislates independently.",
+      "It promotes the general interest of the Union by proposing legislation, implementing policies, enforcing EU law and managing the EU budget."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 251,
+    "question": "Which Treaty formally established the European Union?",
+    "options": [
+      "Single European Act (1986)",
+      "Treaty on European Union (Maastricht Treaty, 1992)",
+      "Treaty of Amsterdam (1997)",
+      "Treaty of Lisbon (2007)"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 252,
+    "question": "Which Treaty abolished the pillar structure of the European Union?",
+    "options": [
+      "Maastricht Treaty",
+      "Treaty of Nice",
+      "Treaty of Lisbon",
+      "Single European Act"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 253,
+    "question": "Approximately what share of EU GDP is generated within the euro area?",
+    "options": [
+      "Around 50%",
+      "Around 65%",
+      "Around 75–80%",
+      "More than 95%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 254,
+    "question": "The euro was introduced as:",
+    "options": [
+      "Coins only in 1999",
+      "Banknotes only in 2000",
+      "Book money in 1999; cash in 2002",
+      "Cash and book money simultaneously"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 255,
+    "question": "Which country became the 20th member of the euro area?",
+    "options": [
+      "Croatia",
+      "Lithuania",
+      "Croatia was the 20th (2023)",
+      "Bulgaria"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 256,
+    "question": "Which of the following remains outside both the euro area and Schengen?",
+    "options": [
+      "Ireland",
+      "Denmark",
+      "Romania (before full Schengen accession)",
+      "Croatia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 257,
+    "question": "The current Multiannual Financial Framework covers:",
+    "options": [
+      "2020–2026",
+      "2021–2027",
+      "2022–2028",
+      "2023–2029"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 258,
+    "question": "The annual EU budget corresponds approximately to:",
+    "options": [
+      "5% of EU GDP",
+      "3% of EU GDP",
+      "Around 1% of EU GNI",
+      "Around 10% of EU GDP"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 259,
+    "question": "Which own resource provides the largest share of EU revenue?",
+    "options": [
+      "Customs duties",
+      "VAT-based resource",
+      "ETS revenues",
+      "GNI-based contributions"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 260,
+    "question": "The European Commission currently consists of:",
+    "options": [
+      "26 Commissioners",
+      "28 Commissioners",
+      "27 Commissioners, including the President",
+      "One Commissioner per euro-area Member State"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 261,
+    "question": "Which institution adopts the Commission Work Programme?",
+    "options": [
+      "European Parliament",
+      "European Council",
+      "Council of the EU",
+      "College of Commissioners"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 262,
+    "question": "The Commission adopts most decisions under the principle of:",
+    "options": [
+      "Qualified majority",
+      "Consensus",
+      "Collegiality",
+      "Unanimity"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 263,
+    "question": "Which DG primarily coordinates the Commission's overall policy agenda?",
+    "options": [
+      "DG BUDG",
+      "DG ECFIN",
+      "Secretariat-General",
+      "DG COMM"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 264,
+    "question": "Which DG is mainly responsible for enforcing EU competition law?",
+    "options": [
+      "DG GROW",
+      "DG TRADE",
+      "DG COMP",
+      "DG JUST"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 265,
+    "question": "Which EU agency is located in Amsterdam?",
+    "options": [
+      "Europol",
+      "European Medicines Agency",
+      "Eurojust",
+      "Frontex"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 266,
+    "question": "Europol is headquartered in:",
+    "options": [
+      "Brussels",
+      "Luxembourg",
+      "The Hague",
+      "Strasbourg"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 267,
+    "question": "Frontex is headquartered in:",
+    "options": [
+      "Vienna",
+      "Prague",
+      "Warsaw",
+      "Bratislava"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 268,
+    "question": "The European Labour Authority is located in:",
+    "options": [
+      "Vienna",
+      "Brussels",
+      "Bratislava",
+      "Luxembourg"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 269,
+    "question": "ACER (Agency for the Cooperation of Energy Regulators) is located in:",
+    "options": [
+      "Copenhagen",
+      "Riga",
+      "Ljubljana",
+      "Helsinki"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 270,
+    "question": "EASA is headquartered in:",
+    "options": [
+      "Paris",
+      "Frankfurt",
+      "Cologne",
+      "Munich"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 271,
+    "question": "Which policy currently accounts for the largest share of traditional EU spending?",
+    "options": [
+      "Research",
+      "Defence",
+      "Common Agricultural Policy",
+      "Digital Europe"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 272,
+    "question": "Cohesion Policy primarily aims to:",
+    "options": [
+      "Harmonise tax rates",
+      "Finance defence procurement",
+      "Reduce regional disparities",
+      "Support monetary policy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 273,
+    "question": "Horizon Europe is worth approximately:",
+    "options": [
+      "€20 billion",
+      "€45 billion",
+      "About €95 billion over 2021–2027",
+      "€180 billion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 274,
+    "question": "Erasmus+ has an overall budget of approximately:",
+    "options": [
+      "€8 billion",
+      "€15 billion",
+      "Around €26 billion (2021–2027)",
+      "€60 billion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 275,
+    "question": "The LIFE Programme mainly finances:",
+    "options": [
+      "Border infrastructure",
+      "Railways",
+      "Environment and climate projects",
+      "Agriculture subsidies"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 276,
+    "question": "The European Green Deal aims to make the EU climate-neutral by:",
+    "options": [
+      "2030",
+      "2040",
+      "2050",
+      "2060"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 277,
+    "question": "The EU target for reducing net greenhouse-gas emissions by 2030 is:",
+    "options": [
+      "40%",
+      "50%",
+      "At least 55% compared with 1990",
+      "70%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 278,
+    "question": "The \"Fit for 55\" package is primarily designed to:",
+    "options": [
+      "Reform the CAP",
+      "Complete Banking Union",
+      "Deliver the 2030 climate target",
+      "Reform the euro area"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 279,
+    "question": "CBAM stands for:",
+    "options": [
+      "Carbon Banking Adjustment Mechanism",
+      "Carbon Border Adjustment Mechanism",
+      "Climate Budget Allocation Mechanism",
+      "Carbon Balance Assessment Model"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 280,
+    "question": "The Digital Markets Act mainly regulates:",
+    "options": [
+      "Telecommunications operators",
+      "Public broadcasters",
+      "Large online gatekeeper platforms",
+      "National regulators"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 281,
+    "question": "The Digital Services Act mainly concerns:",
+    "options": [
+      "VAT on e-commerce",
+      "Responsibilities of online intermediaries and platforms",
+      "Digital taxation",
+      "Electronic signatures"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 282,
+    "question": "The European Semester is primarily concerned with:",
+    "options": [
+      "Migration policy",
+      "Competition policy",
+      "Economic policy coordination",
+      "Trade negotiations"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 283,
+    "question": "Country-Specific Recommendations are formally adopted by:",
+    "options": [
+      "Commission",
+      "Parliament",
+      "Council",
+      "European Council"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 284,
+    "question": "The Recovery and Resilience Facility is financed through:",
+    "options": [
+      "ECB profits",
+      "CAP savings",
+      "NextGenerationEU borrowing",
+      "Customs duties"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 285,
+    "question": "The Commission authorises RRF payments after:",
+    "options": [
+      "Council approval",
+      "Parliament approval",
+      "Verification of milestones and targets",
+      "ECB recommendation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 286,
+    "question": "Which institution represents Member States' governments in the legislative process?",
+    "options": [
+      "European Council",
+      "Council of the European Union",
+      "Committee of the Regions",
+      "European Economic and Social Committee"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 287,
+    "question": "Which institution represents EU citizens directly?",
+    "options": [
+      "Commission",
+      "Council",
+      "European Parliament",
+      "Court of Auditors"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 288,
+    "question": "The Commission is often described as:",
+    "options": [
+      "Legislative authority",
+      "Judicial authority",
+      "Guardian of the Treaties",
+      "Monetary authority"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 289,
+    "question": "The right of legislative initiative belongs primarily to:",
+    "options": [
+      "Parliament",
+      "Council",
+      "Commission",
+      "European Council"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 290,
+    "question": "Delegated acts under Article 290 TFEU may:",
+    "options": [
+      "Implement national legislation",
+      "Amend or supplement non-essential elements of legislation",
+      "Amend the Treaties",
+      "Replace regulations entirely"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 291,
+    "question": "Implementing acts under Article 291 TFEU are intended to:",
+    "options": [
+      "Amend legislation",
+      "Ensure uniform implementation of legally binding EU acts",
+      "Modify Treaties",
+      "Interpret judgments"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 292,
+    "question": "Which principle requires that the EU act only when objectives cannot be sufficiently achieved by Member States?",
+    "options": [
+      "Conferral",
+      "Proportionality",
+      "Subsidiarity",
+      "Primacy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 293,
+    "question": "Which principle requires that EU action should not go beyond what is necessary?",
+    "options": [
+      "Conferral",
+      "Proportionality",
+      "Subsidiarity",
+      "Sincere cooperation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 294,
+    "question": "The Court of Justice ensures:",
+    "options": [
+      "Budget implementation",
+      "Monetary stability",
+      "Uniform interpretation and application of EU law",
+      "Legislative drafting"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 295,
+    "question": "The European Court of Auditors:",
+    "options": [
+      "Is part of the CJEU",
+      "Audits EU finances",
+      "Approves legislation",
+      "Conducts criminal investigations"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 296,
+    "question": "Which institution grants discharge for implementation of the EU budget?",
+    "options": [
+      "Commission",
+      "Council",
+      "European Parliament",
+      "European Council"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 297,
+    "question": "Approximately how many official languages does the European Union have?",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "27"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 298,
+    "question": "Approximately how many people live in the European Union?",
+    "options": [
+      "350 million",
+      "390 million",
+      "Around 450 million",
+      "Around 520 million"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 299,
+    "question": "Which enlargement brought ten new Member States into the EU?",
+    "options": [
+      "1995",
+      "2004",
+      "2007",
+      "2013"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 300,
+    "question": "Which statement best describes the European Commission?",
+    "options": [
+      "It represents the governments of the Member States.",
+      "It is the EU's supreme judicial authority.",
+      "It is responsible solely for implementing the EU budget.",
+      "It promotes the general interest of the Union by proposing legislation, enforcing EU law, managing the budget and implementing EU policies."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 301,
+    "question": "The Treaty of Rome entered into force in:",
+    "options": [
+      "1951",
+      "1958",
+      "1957",
+      "1960"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 302,
+    "question": "The European Economic Community originally consisted of:",
+    "options": [
+      "Five Member States",
+      "Six Member States",
+      "Nine Member States",
+      "Twelve Member States"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 303,
+    "question": "Which country did not belong to the original six founding members?",
+    "options": [
+      "Belgium",
+      "Netherlands",
+      "Luxembourg",
+      "Ireland"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 304,
+    "question": "The first enlargement of the European Communities took place in:",
+    "options": [
+      "1979",
+      "1973",
+      "1981",
+      "1986"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 305,
+    "question": "Which country joined the EU in 1981?",
+    "options": [
+      "Portugal",
+      "Spain",
+      "Greece",
+      "Austria"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 306,
+    "question": "Austria, Finland and Sweden joined in:",
+    "options": [
+      "1993",
+      "1995",
+      "1998",
+      "2000"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 307,
+    "question": "Croatia became the EU's newest Member State in:",
+    "options": [
+      "2007",
+      "2010",
+      "2013",
+      "2015"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 308,
+    "question": "Approximately what percentage of world GDP does the EU account for?",
+    "options": [
+      "About 8%",
+      "About 12%",
+      "About 15–17%",
+      "About 30%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 309,
+    "question": "The EU is:",
+    "options": [
+      "The world's third-largest trading bloc.",
+      "One of the world's largest trading blocs and the largest trader in goods and services combined.",
+      "Smaller than ASEAN in GDP.",
+      "Mainly an agricultural economy."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 310,
+    "question": "Roughly what percentage of EU trade is conducted within the Single Market?",
+    "options": [
+      "Around 25%",
+      "Around 40%",
+      "Around 60%",
+      "Around 90%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 311,
+    "question": "Which institution negotiates EU trade agreements?",
+    "options": [
+      "Council",
+      "Parliament",
+      "European Commission",
+      "European Council"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 312,
+    "question": "International trade agreements are concluded by:",
+    "options": [
+      "Commission alone",
+      "Council, usually after Parliament's consent where required",
+      "ECB",
+      "European Council alone"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 313,
+    "question": "DG TRADE is mainly responsible for:",
+    "options": [
+      "Competition enforcement",
+      "Agriculture",
+      "EU common commercial policy",
+      "Budget implementation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 314,
+    "question": "DG CLIMA is responsible for:",
+    "options": [
+      "Energy markets",
+      "Environment only",
+      "EU climate policy",
+      "Agriculture"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 315,
+    "question": "DG ENER mainly deals with:",
+    "options": [
+      "Transport",
+      "Competition",
+      "Energy policy",
+      "Fisheries"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 316,
+    "question": "Which Commissioner portfolio is most closely linked to the European Semester?",
+    "options": [
+      "Agriculture",
+      "Economy and Productivity (or equivalent economic portfolio)",
+      "Fisheries",
+      "Culture"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 317,
+    "question": "The European Semester normally begins in:",
+    "options": [
+      "June",
+      "September",
+      "Autumn (with the Commission's annual economic guidance)",
+      "March"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 318,
+    "question": "Which institution issues Country Reports?",
+    "options": [
+      "Council",
+      "ECB",
+      "European Commission",
+      "Parliament"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 319,
+    "question": "The Macroeconomic Imbalance Procedure aims to identify:",
+    "options": [
+      "Climate risks",
+      "Migration flows",
+      "Potential economic imbalances that could affect the EU economy",
+      "Trade deficits only"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 320,
+    "question": "Which institution monitors implementation of the Recovery and Resilience Plans?",
+    "options": [
+      "Parliament",
+      "Council",
+      "European Commission",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 321,
+    "question": "Approximately how much was allocated to NextGenerationEU?",
+    "options": [
+      "€350 billion",
+      "€500 billion",
+      "Around €800 billion (current prices, approximately)",
+      "€1.5 trillion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 322,
+    "question": "The Recovery and Resilience Facility is the largest component of:",
+    "options": [
+      "Horizon Europe",
+      "Cohesion Policy",
+      "NextGenerationEU",
+      "LIFE"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 323,
+    "question": "Which expenditure heading is most closely linked to Cohesion Policy?",
+    "options": [
+      "Heading 1",
+      "Heading 2 (Cohesion, Resilience and Values)",
+      "Heading 3",
+      "Heading 6"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 324,
+    "question": "Which heading contains the Common Agricultural Policy?",
+    "options": [
+      "Heading 2",
+      "Heading 3 (Natural Resources and Environment)",
+      "Heading 4",
+      "Heading 6"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 325,
+    "question": "Approximately what proportion of the EU budget is devoted to agriculture today?",
+    "options": [
+      "Around 15%",
+      "Around 25%",
+      "Around 30%",
+      "Around 50%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 326,
+    "question": "Compared with the 1980s, the CAP today represents:",
+    "options": [
+      "A larger share of the EU budget",
+      "Roughly the same share",
+      "A significantly smaller share of the EU budget",
+      "Less than 5%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 327,
+    "question": "Which programme primarily supports cross-border scientific excellence?",
+    "options": [
+      "Erasmus+",
+      "Horizon Europe",
+      "CEF",
+      "LIFE"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 328,
+    "question": "Which programme mainly supports digital capacity and AI deployment?",
+    "options": [
+      "Horizon Europe",
+      "Erasmus+",
+      "Digital Europe Programme",
+      "Creative Europe"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 329,
+    "question": "The European Chips Act aims primarily to:",
+    "options": [
+      "Reduce food imports",
+      "Strengthen Europe's semiconductor ecosystem",
+      "Reform financial markets",
+      "Increase agricultural production"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 330,
+    "question": "The Net-Zero Industry Act seeks to:",
+    "options": [
+      "Replace the ETS",
+      "Increase EU manufacturing capacity for clean technologies",
+      "Introduce carbon taxation",
+      "Create a new EU agency"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 331,
+    "question": "Which statement best reflects the idea of \"strategic autonomy\"?",
+    "options": [
+      "The EU should cease international trade.",
+      "The EU should reduce critical dependencies while remaining open to trade.",
+      "Every Member State should pursue independent industrial policies.",
+      "The EU should leave NATO."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 332,
+    "question": "The European Innovation Council mainly supports:",
+    "options": [
+      "Farmers",
+      "Large corporations only",
+      "Breakthrough innovation and high-growth start-ups",
+      "Regional authorities"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 333,
+    "question": "The European Investment Fund specialises primarily in:",
+    "options": [
+      "Monetary policy",
+      "Support for SMEs and venture capital",
+      "Competition enforcement",
+      "Agriculture"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 334,
+    "question": "Which institution elects the President of the European Commission?",
+    "options": [
+      "Council",
+      "European Council",
+      "European Parliament",
+      "Committee of the Regions"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 335,
+    "question": "Before the Parliament votes on the Commission President, the candidate is:",
+    "options": [
+      "Selected by the ECB",
+      "Proposed by the European Council",
+      "Chosen by the Council Presidency",
+      "Appointed by Member States jointly"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 336,
+    "question": "The President of the European Commission may request a Commissioner to:",
+    "options": [
+      "Leave office only with Parliament's approval",
+      "Resign from the College",
+      "Return to the Member State government",
+      "Become an MEP"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 337,
+    "question": "The Commission adopts legislative proposals:",
+    "options": [
+      "By qualified majority",
+      "By unanimity",
+      "Under the principle of collegiality",
+      "Individually by the responsible Commissioner"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 338,
+    "question": "Which of the following is not an EU institution?",
+    "options": [
+      "European Council",
+      "Court of Auditors",
+      "Committee of the Regions",
+      "European Parliament"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 339,
+    "question": "The European Economic and Social Committee represents mainly:",
+    "options": [
+      "National governments",
+      "Regional governments",
+      "Employers, workers and other organised civil society groups",
+      "Judges"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 340,
+    "question": "The Committee of the Regions represents:",
+    "options": [
+      "Trade unions",
+      "SMEs",
+      "Regional and local authorities",
+      "National parliaments"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 341,
+    "question": "The Ombudsman investigates:",
+    "options": [
+      "Criminal offences",
+      "Fraud",
+      "Maladministration by EU institutions",
+      "Treaty breaches by Member States"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 342,
+    "question": "OLAF differs from the EPPO because OLAF:",
+    "options": [
+      "Conducts criminal prosecutions",
+      "Carries out administrative investigations",
+      "Is part of Europol",
+      "Is an ECB body"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 343,
+    "question": "Which institution sets the EU's overall political direction?",
+    "options": [
+      "Council of the EU",
+      "Commission",
+      "European Council",
+      "Parliament"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 344,
+    "question": "The ordinary legislative procedure generally requires agreement between:",
+    "options": [
+      "Commission and European Council",
+      "European Parliament and Council",
+      "Commission and ECB",
+      "Council and Court of Justice"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 345,
+    "question": "Which institution can bring infringement proceedings against a Member State?",
+    "options": [
+      "Parliament",
+      "European Commission",
+      "Court of Auditors",
+      "Committee of the Regions"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 346,
+    "question": "Approximately how many legal acts does the Commission adopt each year (including implementing and delegated acts)?",
+    "options": [
+      "Around 200",
+      "Around 1,000",
+      "Several thousand",
+      "More than 100,000"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 347,
+    "question": "Which of the following best describes the EU budget?",
+    "options": [
+      "It routinely runs deficits.",
+      "It must be balanced: expenditure cannot exceed revenue.",
+      "It is financed exclusively through national contributions.",
+      "It is financed by the ECB."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 348,
+    "question": "Which statement about EU borrowing is correct?",
+    "options": [
+      "The EU has always borrowed extensively.",
+      "Large-scale common borrowing was significantly expanded through NextGenerationEU.",
+      "Borrowing is prohibited by the Treaties.",
+      "Borrowing is carried out by the ECB."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 349,
+    "question": "Which value is explicitly listed in Article 2 TEU?",
+    "options": [
+      "Economic growth",
+      "Free trade",
+      "Rule of law",
+      "Monetary stability"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 350,
+    "question": "Which statement is most accurate?",
+    "options": [
+      "The Commission mainly represents Member States.",
+      "Parliament implements EU programmes.",
+      "The European Council adopts most legislation.",
+      "The Commission combines political leadership, legislative initiative, policy implementation, budget execution and enforcement of EU law."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 351,
+    "question": "Which statement best describes the relationship between the European Council's Strategic Agenda and the Commission's Political Guidelines?",
+    "options": [
+      "The Strategic Agenda is legally binding on the Commission.",
+      "The Commission adopts the Strategic Agenda after consulting Parliament.",
+      "The Strategic Agenda provides the political orientation that the Commission generally translates into its own Political Guidelines and Work Programmes.",
+      "Both documents are adopted jointly by the European Council and the Commission."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 352,
+    "question": "Which of the following would normally not require an impact assessment under the Better Regulation framework?",
+    "options": [
+      "A major legislative proposal with significant economic effects.",
+      "A proposal expected to have substantial environmental impacts.",
+      "A technical implementing act with limited policy discretion and negligible impacts.",
+      "A proposal introducing major new reporting obligations for businesses."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 353,
+    "question": "The Regulatory Scrutiny Board (RSB):",
+    "options": [
+      "Approves Commission legislative proposals before adoption.",
+      "Reviews only impact assessments prepared by DG ECFIN.",
+      "Provides an independent quality control of impact assessments, major evaluations and fitness checks.",
+      "Is composed of representatives from all Member States."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 354,
+    "question": "Under Article 17 TEU, the Commission shall:",
+    "options": [
+      "Represent Member States collectively.",
+      "Coordinate national fiscal policies.",
+      "Promote the general interest of the Union and ensure the application of the Treaties.",
+      "Interpret EU law."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 355,
+    "question": "Which of the following best illustrates the principle of proportionality?",
+    "options": [
+      "The EU legislates whenever it has competence.",
+      "EU action should not go beyond what is necessary to achieve Treaty objectives.",
+      "Member States may disregard EU law where national law is more detailed.",
+      "The Commission must always choose a regulation instead of a directive."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 356,
+    "question": "Which statement regarding the annual EU budget is most accurate?",
+    "options": [
+      "The Commission may spend beyond the authorised appropriations during emergencies.",
+      "The annual budget may exceed the ceilings of the MFF with Parliament's consent.",
+      "The annual budget must remain within the expenditure ceilings established by the MFF, subject to flexibility instruments provided for in EU law.",
+      "The Council alone determines the final annual budget."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 357,
+    "question": "Which of the following is not a traditional own resource of the EU?",
+    "options": [
+      "Customs duties.",
+      "Sugar levies (historically).",
+      "Gross National Income (GNI)-based contributions.",
+      "Agricultural duties (historically)."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 358,
+    "question": "The Commission's infringement procedure is intended primarily to:",
+    "options": [
+      "Punish Member States financially.",
+      "Replace judicial review.",
+      "Secure compliance with EU law, with litigation before the CJEU being a last resort.",
+      "Resolve disputes between private companies."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 359,
+    "question": "Which sequence correctly reflects the usual stages of an infringement procedure?",
+    "options": [
+      "Reasoned Opinion → Letter of Formal Notice → Court.",
+      "Court → Letter of Formal Notice → Reasoned Opinion.",
+      "Letter of Formal Notice → Reasoned Opinion → Referral to the Court of Justice.",
+      "Commission Decision → Court → Financial Penalty."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 360,
+    "question": "Which statement concerning the Court of Justice of the European Union is correct?",
+    "options": [
+      "It may initiate legislation where it identifies legal gaps.",
+      "It audits the EU budget.",
+      "It ensures that EU law is interpreted and applied uniformly across the Union.",
+      "It reviews every delegated act automatically before entry into force."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 361,
+    "question": "Which statement about delegated and implementing acts is most accurate?",
+    "options": [
+      "Delegated acts are adopted by the Council, implementing acts by the Commission.",
+      "Both delegated and implementing acts may amend the essential elements of legislation.",
+      "Delegated acts supplement or amend non-essential elements, whereas implementing acts ensure uniform implementation.",
+      "Implementing acts require Parliament's approval before adoption."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 362,
+    "question": "Why does the Commission normally launch a public consultation before proposing major legislation?",
+    "options": [
+      "Because consultation results are legally binding.",
+      "Because the Council requires unanimous stakeholder support.",
+      "To improve the evidence base, transparency and quality of policymaking.",
+      "Because consultations replace impact assessments."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 363,
+    "question": "Which statement regarding the European Semester is most accurate?",
+    "options": [
+      "It coordinates monetary policy within the euro area.",
+      "It replaces national budgetary procedures.",
+      "It provides a framework for coordinating economic, fiscal, employment and structural policies across the EU.",
+      "It applies exclusively to euro-area Member States."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 364,
+    "question": "Which institution is responsible for conducting monetary policy in the euro area?",
+    "options": [
+      "European Commission.",
+      "Eurogroup.",
+      "Council of the European Union.",
+      "European Central Bank."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 365,
+    "question": "The euro became physical currency in:",
+    "options": [
+      "1999.",
+      "2000.",
+      "2001.",
+      "2002."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 366,
+    "question": "Which country introduced the euro most recently?",
+    "options": [
+      "Lithuania.",
+      "Latvia.",
+      "Bulgaria.",
+      "Croatia."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 367,
+    "question": "Which programme is specifically designed to strengthen Europe's digital capacities?",
+    "options": [
+      "Erasmus+.",
+      "Horizon Europe.",
+      "LIFE.",
+      "Digital Europe Programme."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 368,
+    "question": "Which institution formally elects the President of the European Commission?",
+    "options": [
+      "European Council.",
+      "Council of the EU.",
+      "European Parliament.",
+      "Committee of the Regions."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 369,
+    "question": "Which Treaty introduced EU citizenship?",
+    "options": [
+      "Treaty of Rome.",
+      "Single European Act.",
+      "Maastricht Treaty.",
+      "Treaty of Amsterdam."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 370,
+    "question": "Which statement is most accurate regarding the Commission's role?",
+    "options": [
+      "It mainly represents the interests of Member States.",
+      "It acts as the legislative branch of the Union.",
+      "It combines legislative initiative, executive implementation, budget execution and enforcement of EU law in pursuit of the Union's general interest.",
+      "It exercises judicial review over national legislation."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 371,
+    "question": "Which of the following is NOT an exclusive competence of the EU?",
+    "options": [
+      "Customs Union",
+      "Common commercial policy",
+      "Competition rules necessary for the functioning of the internal market",
+      "Environment"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 372,
+    "question": "Which statement on the principle of conferral is most accurate?",
+    "options": [
+      "The Commission determines the limits of EU competences.",
+      "The European Council may extend EU competences by Conclusions.",
+      "The Union acts only within the competences conferred upon it by the Treaties.",
+      "The CJEU allocates competences between Member States."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 373,
+    "question": "Which institution is responsible for ensuring consistency between the Commission's different policy initiatives?",
+    "options": [
+      "DG BUDG",
+      "European Parliament",
+      "The Secretariat-General",
+      "European Council"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 374,
+    "question": "Under the Better Regulation framework, a \"Fitness Check\" primarily:",
+    "options": [
+      "Evaluates a single legislative proposal before adoption.",
+      "Assesses whether a group of related laws remains fit for purpose.",
+      "Reviews Member States' implementation of directives.",
+      "Audits EU expenditure."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 375,
+    "question": "Which statement concerning the European Green Deal is most accurate?",
+    "options": [
+      "It is exclusively an environmental strategy.",
+      "It is a cross-cutting growth strategy integrating climate, industry, energy, transport and competitiveness.",
+      "It replaces the Fit for 55 package.",
+      "It applies only to euro-area countries."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 376,
+    "question": "Which institution formally appoints the European Commission?",
+    "options": [
+      "European Council alone.",
+      "Council alone.",
+      "European Council, by qualified majority, with Parliament's approval of the College.",
+      "Parliament alone."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 377,
+    "question": "Which statement regarding the Commission President is correct?",
+    "options": [
+      "The President allocates portfolios among Commissioners.",
+      "The President defines the Commission's political priorities.",
+      "The President may request a Commissioner's resignation.",
+      "All of the above."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 378,
+    "question": "Which of the following programmes is primarily intended to improve military mobility and dual-use infrastructure?",
+    "options": [
+      "LIFE",
+      "Erasmus+",
+      "Connecting Europe Facility",
+      "Creative Europe"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 379,
+    "question": "Which institution is known as the \"Guardian of the Treaties\"?",
+    "options": [
+      "European Parliament",
+      "Council",
+      "European Commission",
+      "Court of Auditors"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 380,
+    "question": "Which institution has the final say in interpreting EU law?",
+    "options": [
+      "European Commission",
+      "European Parliament",
+      "Court of Justice of the European Union",
+      "European Council"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 381,
+    "question": "Approximately how many legislative proposals does the Commission present each year through its Work Programme?",
+    "options": [
+      "Around 10",
+      "Around 30",
+      "Usually several dozen, depending on political priorities",
+      "More than 500"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 382,
+    "question": "The EU budget represents approximately:",
+    "options": [
+      "5% of EU GDP.",
+      "10% of EU GDP.",
+      "Around 1% of EU GNI.",
+      "20% of public expenditure in the EU."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 383,
+    "question": "Which statement about the Recovery and Resilience Facility is most accurate?",
+    "options": [
+      "Funds are automatically transferred every year.",
+      "Payments depend on satisfactory achievement of agreed milestones and targets.",
+      "The ECB approves all disbursements.",
+      "Parliament directly manages national plans."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 384,
+    "question": "Which country hosted the signing of the Maastricht Treaty?",
+    "options": [
+      "Brussels",
+      "Luxembourg",
+      "Maastricht (Netherlands)",
+      "Strasbourg"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 385,
+    "question": "Which Treaty first introduced the co-decision procedure (now the ordinary legislative procedure)?",
+    "options": [
+      "Treaty of Rome",
+      "Single European Act",
+      "Maastricht Treaty",
+      "Lisbon Treaty"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 386,
+    "question": "Which statement about the Lisbon Treaty is correct?",
+    "options": [
+      "It created the European Communities.",
+      "It introduced the euro.",
+      "It gave the Charter of Fundamental Rights binding legal force.",
+      "It established the Single Market."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 387,
+    "question": "Which enlargement brought Bulgaria and Romania into the EU?",
+    "options": [
+      "2004",
+      "2007",
+      "2013",
+      "1995"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 388,
+    "question": "Which enlargement brought Croatia into the EU?",
+    "options": [
+      "2007",
+      "2010",
+      "2013",
+      "2015"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 389,
+    "question": "Which of the following is NOT an EU institution under Article 13 TEU?",
+    "options": [
+      "European Council",
+      "European Central Bank",
+      "Committee of the Regions",
+      "European Ombudsman"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 390,
+    "question": "The European Ombudsman investigates:",
+    "options": [
+      "Fraud affecting the EU budget.",
+      "Criminal offences.",
+      "Cases of maladministration in EU institutions, bodies, offices and agencies.",
+      "Treaty infringements by Member States."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 391,
+    "question": "Which statement best describes OLAF?",
+    "options": [
+      "It prosecutes criminal offences before national courts.",
+      "It conducts administrative investigations into fraud affecting the EU's financial interests.",
+      "It supervises national police authorities.",
+      "It replaces the EPPO."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 392,
+    "question": "The EPPO differs from OLAF because the EPPO:",
+    "options": [
+      "Audits EU expenditure.",
+      "Conducts policy evaluations.",
+      "Can investigate and prosecute criminal offences affecting the EU budget in participating Member States.",
+      "Negotiates international anti-fraud agreements."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 393,
+    "question": "Which agency is headquartered in Paris?",
+    "options": [
+      "EMA",
+      "Europol",
+      "European Banking Authority",
+      "Frontex"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 394,
+    "question": "Which statement concerning subsidiarity is correct?",
+    "options": [
+      "It applies only to exclusive competences.",
+      "It applies where competences are shared, assessing whether action is better taken at EU level.",
+      "It is enforced exclusively by the Court of Auditors.",
+      "It concerns proportionality of expenditure."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 395,
+    "question": "Which institution formally adopts the Commission Work Programme?",
+    "options": [
+      "President alone.",
+      "European Council.",
+      "College of Commissioners.",
+      "Council."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 396,
+    "question": "Which statement concerning interservice consultation is correct?",
+    "options": [
+      "It occurs after legislative proposals are adopted.",
+      "It helps ensure coherence across Commission departments before adoption.",
+      "It is managed by the European Parliament.",
+      "It is mandatory only for delegated acts."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 397,
+    "question": "Which of the following best describes the role of the Regulatory Scrutiny Board?",
+    "options": [
+      "It approves legislative proposals politically.",
+      "It reviews the quality of impact assessments and major evaluations.",
+      "It coordinates DGs during interservice consultation.",
+      "It audits Member States' implementation."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 398,
+    "question": "Which statement about the Multiannual Financial Framework is most accurate?",
+    "options": [
+      "It determines annual expenditure ceilings and policy headings for several years.",
+      "It replaces the annual budget.",
+      "Parliament adopts it alone.",
+      "It provides multiannual expenditure ceilings within which annual budgets are adopted."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 399,
+    "question": "Which statement about EU own resources is correct?",
+    "options": [
+      "Customs duties are no longer part of EU own resources.",
+      "The EU budget is financed exclusively through GNI contributions.",
+      "The system combines several own resources, with GNI contributions currently representing the largest share.",
+      "VAT-based own resources have been abolished."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 400,
+    "question": "Which statement best summarises the Commission's constitutional role under the Treaties?",
+    "options": [
+      "It acts mainly as the administrative secretariat of the Council.",
+      "It shares judicial authority with the Court of Justice.",
+      "It represents national governments in legislative negotiations.",
+      "It promotes the Union's general interest by exercising legislative initiative, ensuring application of Union law, executing the budget and coordinating Union policies."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 401,
+    "question": "Mario Draghi was asked by the European Commission to prepare a report primarily on:",
+    "options": [
+      "Reform of the Common Agricultural Policy",
+      "The future of EU enlargement",
+      "The future of European competitiveness",
+      "Reform of the Stability and Growth Pact"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 402,
+    "question": "The Draghi Report argues that Europe's competitiveness challenge is mainly driven by:",
+    "options": [
+      "Excessive agricultural expenditure",
+      "Weak productivity growth, fragmentation and underinvestment",
+      "Excessive population growth",
+      "Excessive monetary integration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 403,
+    "question": "According to the Draghi Report, Europe faces an annual investment gap of approximately:",
+    "options": [
+      "€100 billion",
+      "€300 billion",
+      "Around €750–800 billion",
+      "More than €2 trillion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 404,
+    "question": "Which document translates many of the Draghi Report's recommendations into the Commission's policy roadmap?",
+    "options": [
+      "Green Deal",
+      "REPowerEU",
+      "Competitiveness Compass",
+      "Better Regulation Guidelines"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 405,
+    "question": "The Competitiveness Compass is organised around:",
+    "options": [
+      "Four freedoms",
+      "Five missions",
+      "Three strategic imperatives",
+      "Seven Treaty objectives"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 406,
+    "question": "Which of the following is NOT one of the three pillars of the Competitiveness Compass?",
+    "options": [
+      "Closing the innovation gap",
+      "Decarbonisation and competitiveness",
+      "Reducing excessive dependencies",
+      "Expanding the euro area"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 407,
+    "question": "Enrico Letta's report focuses primarily on:",
+    "options": [
+      "Climate neutrality",
+      "Monetary policy",
+      "The future of the Single Market",
+      "EU defence procurement"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 408,
+    "question": "One of Letta's central recommendations is to deepen integration in:",
+    "options": [
+      "Agriculture only",
+      "Fisheries",
+      "Capital, energy, telecommunications and financial markets",
+      "Fisheries and tourism"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 409,
+    "question": "Letta argues that the Single Market should increasingly include:",
+    "options": [
+      "Agriculture only",
+      "Knowledge, innovation and finance alongside the traditional four freedoms",
+      "Fisheries",
+      "Foreign policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 410,
+    "question": "According to the Draghi Report, innovation in Europe is held back particularly by:",
+    "options": [
+      "Excessive labour mobility",
+      "Excessive immigration",
+      "Fragmented capital markets and difficulties scaling innovative firms",
+      "Excessive agricultural production"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 411,
+    "question": "Which EU initiative aims to complete the integration of capital markets?",
+    "options": [
+      "Banking Union",
+      "Digital Europe",
+      "Capital Markets Union (now evolving toward the Savings and Investments Union)",
+      "REPowerEU"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 412,
+    "question": "Approximately how many countries currently have trade agreements with the EU?",
+    "options": [
+      "Around 30",
+      "Around 45",
+      "Around 75–76",
+      "More than 150"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 413,
+    "question": "Which report places particular emphasis on creating a genuine European market for savings and investment?",
+    "options": [
+      "Sapir Report",
+      "Niinistö Report",
+      "Letta Report",
+      "Delors Report"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 414,
+    "question": "The Competitiveness Compass identifies Europe's largest structural challenge as:",
+    "options": [
+      "Population growth",
+      "Agricultural productivity",
+      "Closing the productivity and innovation gap",
+      "Monetary fragmentation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 415,
+    "question": "According to Draghi, Europe cannot rely as in the past on:",
+    "options": [
+      "High inflation",
+      "Agricultural exports",
+      "Cheap Russian energy, expanding global trade and favourable geopolitics",
+      "Tourism"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 416,
+    "question": "The report by Sauli Niinistö primarily concerns:",
+    "options": [
+      "Taxation",
+      "Preparedness and security",
+      "Fisheries",
+      "Monetary policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 417,
+    "question": "Which horizontal priority appears repeatedly in the 2025 Commission Work Programme?",
+    "options": [
+      "CAP reform",
+      "Enlargement only",
+      "Simplification",
+      "VAT harmonisation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 418,
+    "question": "Which concept is strongly emphasised in both the Draghi and Letta Reports?",
+    "options": [
+      "Reducing the Single Market",
+      "Completing and deepening the Single Market",
+      "Leaving WTO agreements",
+      "Renationalising industrial policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 419,
+    "question": "The \"28th regime\", discussed in Commission competitiveness initiatives, aims primarily to:",
+    "options": [
+      "Create a new Member State",
+      "Harmonise VAT rates",
+      "Provide a single legal framework for companies operating across the EU",
+      "Reform Schengen"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 420,
+    "question": "Which flagship initiative seeks to facilitate the scaling-up of innovative European firms?",
+    "options": [
+      "LIFE",
+      "CAP Strategic Plans",
+      "EU Start-up and Scale-up Strategy",
+      "Erasmus+"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 421,
+    "question": "Which country joined the European Communities together with Denmark and Ireland?",
+    "options": [
+      "Greece",
+      "Portugal",
+      "United Kingdom",
+      "Spain"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 422,
+    "question": "Which enlargement is commonly referred to as the \"Big Bang\" enlargement?",
+    "options": [
+      "1995",
+      "2004",
+      "2007",
+      "2013"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 423,
+    "question": "How many countries joined the EU in 2004?",
+    "options": [
+      "Eight",
+      "Nine",
+      "Ten",
+      "Twelve"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 424,
+    "question": "Which country joined the EU in 2013?",
+    "options": [
+      "Serbia",
+      "Romania",
+      "Croatia",
+      "North Macedonia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 425,
+    "question": "Which of the following is currently an official EU candidate country?",
+    "options": [
+      "Norway",
+      "Switzerland",
+      "Moldova",
+      "Iceland"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 426,
+    "question": "Which country applied for EU membership shortly after Russia's full-scale invasion in 2022?",
+    "options": [
+      "Albania",
+      "Montenegro",
+      "Ukraine",
+      "Bosnia and Herzegovina"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 427,
+    "question": "Which Western Balkan country has progressed furthest in accession negotiations?",
+    "options": [
+      "Kosovo",
+      "Serbia",
+      "Montenegro",
+      "North Macedonia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 428,
+    "question": "Which country is recognised as a potential candidate, but not universally recognised by all EU Member States?",
+    "options": [
+      "Albania",
+      "Montenegro",
+      "Kosovo",
+      "Moldova"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 429,
+    "question": "Which institution publishes the annual Enlargement Package?",
+    "options": [
+      "Parliament",
+      "European Council",
+      "European Commission",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 430,
+    "question": "Annual Country Reports assess candidate countries mainly against:",
+    "options": [
+      "Maastricht convergence criteria",
+      "The Copenhagen criteria and the EU acquis",
+      "WTO rules",
+      "OECD standards"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 431,
+    "question": "The European Economic Area (EEA) includes:",
+    "options": [
+      "EU + Switzerland",
+      "EU Member States plus Iceland, Liechtenstein and Norway",
+      "EU and the UK",
+      "EU and all candidate countries"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 432,
+    "question": "Switzerland participates in the Single Market primarily through:",
+    "options": [
+      "EEA membership",
+      "Customs Union",
+      "A network of bilateral agreements",
+      "Eurozone membership"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 433,
+    "question": "Which country belongs to Schengen but not the EU?",
+    "options": [
+      "Croatia",
+      "Romania",
+      "Norway",
+      "Bulgaria"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 434,
+    "question": "Which country belongs to the EU but has an opt-out from adopting the euro?",
+    "options": [
+      "Sweden",
+      "Poland",
+      "Denmark",
+      "Czechia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 435,
+    "question": "Which agreement largely governs post-Brexit EU-UK relations?",
+    "options": [
+      "EEA Agreement",
+      "Schengen Agreement",
+      "EU-UK Trade and Cooperation Agreement",
+      "Association Agreement"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 436,
+    "question": "The EU Customs Union means:",
+    "options": [
+      "A common VAT rate.",
+      "No customs duties between Member States and a common external tariff.",
+      "Free movement of labour only.",
+      "A common corporate tax."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 437,
+    "question": "Which of the following is not part of the four freedoms of the Single Market?",
+    "options": [
+      "Goods",
+      "Services",
+      "Capital",
+      "Taxation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 438,
+    "question": "Article 49 TEU concerns:",
+    "options": [
+      "Withdrawal from the EU.",
+      "Treaty revision.",
+      "Accession of new Member States.",
+      "Enhanced cooperation."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 439,
+    "question": "Article 50 TEU concerns:",
+    "options": [
+      "Enlargement.",
+      "Budget.",
+      "Withdrawal from the European Union.",
+      "Own resources."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 440,
+    "question": "The Withdrawal Agreement with the United Kingdom entered into force in:",
+    "options": [
+      "2016",
+      "2018",
+      "2020",
+      "2022"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 441,
+    "question": "Which statement is most accurate?",
+    "options": [
+      "The Draghi Report is an official Commission Communication.",
+      "The Letta Report is legally binding.",
+      "Both reports are independent reports that have significantly influenced the Commission's policy agenda.",
+      "Both reports amend the Treaties."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 442,
+    "question": "Which institution requested Mario Draghi to prepare his report?",
+    "options": [
+      "European Parliament",
+      "Council",
+      "European Commission President Ursula von der Leyen",
+      "ECB"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 443,
+    "question": "Which statement best reflects the philosophy of the Letta Report?",
+    "options": [
+      "Reduce the scope of the Single Market.",
+      "Complete the Single Market in sectors where fragmentation still limits growth.",
+      "Abolish cohesion policy.",
+      "Replace the euro."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 444,
+    "question": "Which recommendation appears in both the Draghi and Letta reports?",
+    "options": [
+      "Abolish competition policy.",
+      "Leave the WTO.",
+      "Mobilise significantly more private investment within Europe.",
+      "Reduce research funding."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 445,
+    "question": "According to recent Commission priorities, simplification aims primarily to:",
+    "options": [
+      "Reduce environmental ambition.",
+      "Reduce unnecessary administrative burdens while maintaining policy objectives.",
+      "Eliminate delegated acts.",
+      "Replace regulations with directives."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 446,
+    "question": "Which Commissioner priority is directly linked to Draghi's recommendations?",
+    "options": [
+      "Reforming fisheries.",
+      "Strengthening European competitiveness.",
+      "Harmonising education.",
+      "Reforming the CAP only."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 447,
+    "question": "Which statement is FALSE?",
+    "options": [
+      "The Commission publishes annual Enlargement Reports.",
+      "Candidate countries must adopt the acquis.",
+      "The European Parliament alone decides on accession.",
+      "Every accession treaty requires ratification by all Member States."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 448,
+    "question": "Which event occurred first?",
+    "options": [
+      "Lisbon Treaty",
+      "Maastricht Treaty",
+      "Single European Act",
+      "Euro banknotes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 449,
+    "question": "Which occurred last?",
+    "options": [
+      "Croatia joined the EU.",
+      "Lisbon Treaty entered into force.",
+      "Euro banknotes introduced.",
+      "Publication of the Draghi Report (2024)."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 450,
+    "question": "Which statement best reflects today's Commission agenda?",
+    "options": [
+      "Growth and climate policy are treated as competing objectives.",
+      "Industrial policy has largely replaced the Single Market.",
+      "Competitiveness, simplification, security, innovation and decarbonisation are increasingly pursued together as mutually reinforcing objectives.",
+      "Environmental Policies"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 451,
+    "question": "Which former President of the European Commission is most closely associated with the completion of the Single Market?",
+    "options": [
+      "Roy Jenkins",
+      "Jacques Delors",
+      "Romano Prodi",
+      "José Manuel Barroso"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 452,
+    "question": "Which Commission President served the longest?",
+    "options": [
+      "Walter Hallstein",
+      "Jean-Claude Juncker",
+      "Jacques Delors",
+      "Romano Prodi"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 453,
+    "question": "Which President immediately preceded Ursula von der Leyen?",
+    "options": [
+      "José Manuel Barroso",
+      "Romano Prodi",
+      "Jean-Claude Juncker",
+      "Jacques Santer"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 454,
+    "question": "Which Commission President served from 2004 to 2014?",
+    "options": [
+      "Romano Prodi",
+      "José Manuel Barroso",
+      "Jean-Claude Juncker",
+      "Jacques Delors"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 455,
+    "question": "Which former Commission President later became Prime Minister of Italy?",
+    "options": [
+      "Jacques Delors",
+      "Jean Rey",
+      "Romano Prodi",
+      "Walter Hallstein"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 456,
+    "question": "Which Commission President resigned collectively with the College in 1999?",
+    "options": [
+      "José Manuel Barroso",
+      "Jacques Delors",
+      "Jacques Santer",
+      "Romano Prodi"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 457,
+    "question": "Who is the current President of the European Commission?",
+    "options": [
+      "Roberta Metsola",
+      "António Costa",
+      "Ursula von der Leyen",
+      "Kaja Kallas"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 458,
+    "question": "Who is the current President of the European Parliament?",
+    "options": [
+      "António Costa",
+      "Roberta Metsola",
+      "Ursula von der Leyen",
+      "Christine Lagarde"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 459,
+    "question": "Who is the current President of the European Council?",
+    "options": [
+      "Charles Michel",
+      "Donald Tusk",
+      "António Costa",
+      "Herman Van Rompuy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 460,
+    "question": "Who immediately preceded António Costa as President of the European Council?",
+    "options": [
+      "Donald Tusk",
+      "Herman Van Rompuy",
+      "Charles Michel",
+      "José Manuel Barroso"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 461,
+    "question": "Who was the first permanent President of the European Council after the Lisbon Treaty?",
+    "options": [
+      "Donald Tusk",
+      "Charles Michel",
+      "Herman Van Rompuy",
+      "José Manuel Durão Barroso"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 462,
+    "question": "Donald Tusk served as President of the European Council between:",
+    "options": [
+      "2009–2014",
+      "2014–2019",
+      "2019–2024",
+      "2020–2025"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 463,
+    "question": "Which institution adopts the EU's overall political priorities but normally does not legislate?",
+    "options": [
+      "Council of the EU",
+      "Commission",
+      "European Council",
+      "Parliament"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 464,
+    "question": "Which institution currently rotates its presidency every six months?",
+    "options": [
+      "European Council",
+      "European Parliament",
+      "Council of the European Union",
+      "European Commission"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 465,
+    "question": "Which country held the first rotating Presidency of the Council in 2025?",
+    "options": [
+      "Denmark",
+      "Cyprus",
+      "Poland",
+      "Ireland"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 466,
+    "question": "The trio presidency system aims primarily to:",
+    "options": [
+      "Elect the Commission President.",
+      "Ensure continuity over an 18-month legislative period.",
+      "Coordinate ECB decisions.",
+      "Prepare European elections."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 467,
+    "question": "Which of the following is one of the Commission's current flagship priorities?",
+    "options": [
+      "Completing Monetary Union through a single treasury.",
+      "Closing the innovation gap with global competitors.",
+      "Harmonising pension systems.",
+      "Creating an EU Ministry of Finance."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 468,
+    "question": "Which policy objective links both the Draghi Report and the Competitiveness Compass?",
+    "options": [
+      "Reducing cohesion spending.",
+      "Boosting productivity through innovation and investment.",
+      "Leaving the WTO.",
+      "Abolishing State aid rules."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 469,
+    "question": "Which initiative is intended to reduce regulatory burdens for businesses?",
+    "options": [
+      "CAP Strategic Plans.",
+      "Simplification Omnibus packages.",
+      "Erasmus+.",
+      "LIFE."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 470,
+    "question": "Which concept has become central to recent Commission policy?",
+    "options": [
+      "Economic isolation.",
+      "Competitiveness through decarbonisation.",
+      "Agricultural protectionism.",
+      "Fixed exchange rates."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 471,
+    "question": "Which report argues that Europe should mobilise much more private investment?",
+    "options": [
+      "Werner Report.",
+      "Cecchini Report.",
+      "Draghi Report.",
+      "White Paper on Governance."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 472,
+    "question": "Which report places particular emphasis on completing the Single Market for services and capital?",
+    "options": [
+      "Sapir Report.",
+      "Niinistö Report.",
+      "Letta Report.",
+      "Werner Report."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 473,
+    "question": "Which report focuses primarily on European preparedness, resilience and security?",
+    "options": [
+      "Draghi.",
+      "Letta.",
+      "Niinistö.",
+      "Monti."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 474,
+    "question": "Which Treaty first introduced the concept of EU citizenship?",
+    "options": [
+      "Single European Act.",
+      "Maastricht Treaty.",
+      "Amsterdam Treaty.",
+      "Lisbon Treaty."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 475,
+    "question": "Which Treaty substantially increased the powers of the European Parliament through co-decision?",
+    "options": [
+      "Treaty of Rome.",
+      "Maastricht Treaty.",
+      "Nice Treaty.",
+      "ECSC Treaty."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 476,
+    "question": "Which enlargement brought Austria, Finland and Sweden into the EU?",
+    "options": [
+      "1986.",
+      "1995.",
+      "2004.",
+      "2007."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 477,
+    "question": "Which enlargement is commonly called the \"Big Bang\"?",
+    "options": [
+      "1995.",
+      "2004.",
+      "2007.",
+      "2013."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 478,
+    "question": "Which of these countries joined in 2004?",
+    "options": [
+      "Romania.",
+      "Bulgaria.",
+      "Croatia.",
+      "Slovakia."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 479,
+    "question": "Which country joined together with Bulgaria in 2007?",
+    "options": [
+      "Croatia.",
+      "Romania.",
+      "Slovenia.",
+      "Slovakia."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 480,
+    "question": "Which country joined the euro before Croatia?",
+    "options": [
+      "Romania.",
+      "Poland.",
+      "Lithuania.",
+      "Bulgaria."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 481,
+    "question": "Which candidate country opened accession negotiations first?",
+    "options": [
+      "Ukraine.",
+      "Albania.",
+      "Montenegro.",
+      "Moldova."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 482,
+    "question": "Which of these is not currently an official candidate country?",
+    "options": [
+      "Albania.",
+      "Moldova.",
+      "Serbia.",
+      "Norway."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 483,
+    "question": "Which institution publishes the annual Enlargement Package?",
+    "options": [
+      "Parliament.",
+      "Council.",
+      "Commission.",
+      "European Council."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 484,
+    "question": "Which criterion is not part of the Copenhagen criteria?",
+    "options": [
+      "Stable democratic institutions.",
+      "Functioning market economy.",
+      "Acceptance of the acquis.",
+      "Membership of the euro area."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 485,
+    "question": "Which agreement created the European Economic Area?",
+    "options": [
+      "Maastricht Treaty.",
+      "EEA Agreement.",
+      "Schengen Agreement.",
+      "Nice Treaty."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 486,
+    "question": "Switzerland participates in many aspects of the Single Market through:",
+    "options": [
+      "EEA membership.",
+      "Customs Union.",
+      "Sectoral bilateral agreements.",
+      "Eurozone membership."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 487,
+    "question": "Which agreement governs most EU-UK relations after Brexit?",
+    "options": [
+      "Withdrawal Treaty.",
+      "EEA Agreement.",
+      "Trade and Cooperation Agreement (TCA).",
+      "Schengen Convention."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 488,
+    "question": "Which institution negotiates international trade agreements?",
+    "options": [
+      "Parliament.",
+      "Council.",
+      "European Commission.",
+      "ECB."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 489,
+    "question": "Which institution ultimately authorises the conclusion of most international agreements?",
+    "options": [
+      "Commission alone.",
+      "Council (often with Parliament's consent).",
+      "ECB.",
+      "Court of Justice."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 490,
+    "question": "Which institution gives consent to many major international agreements?",
+    "options": [
+      "Court of Auditors.",
+      "ECB.",
+      "European Parliament.",
+      "Committee of the Regions."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 491,
+    "question": "Which former President of the Commission was formerly Prime Minister of Luxembourg?",
+    "options": [
+      "Romano Prodi.",
+      "Jean-Claude Juncker.",
+      "Jacques Delors.",
+      "Roy Jenkins."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 492,
+    "question": "Roy Jenkins is particularly remembered for:",
+    "options": [
+      "The Lisbon Treaty.",
+      "Launching the European Monetary System.",
+      "The Green Deal.",
+      "The euro banknotes."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 493,
+    "question": "Jacques Delors is strongly associated with:",
+    "options": [
+      "Brexit.",
+      "The Single Market and the Delors Report on EMU.",
+      "The Treaty of Nice.",
+      "The AI Act."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 494,
+    "question": "The Delors Report (1989) provided the blueprint for:",
+    "options": [
+      "Schengen.",
+      "CAP reform.",
+      "Economic and Monetary Union.",
+      "EU enlargement."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 495,
+    "question": "Which institution currently has the exclusive right of legislative initiative in most EU policy areas?",
+    "options": [
+      "European Parliament.",
+      "Council.",
+      "European Commission.",
+      "European Council."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 496,
+    "question": "Which current Commission priority is closely linked to reducing administrative burden?",
+    "options": [
+      "REPowerEU.",
+      "Simplification.",
+      "Erasmus+.",
+      "Creative Europe."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 497,
+    "question": "Which theme increasingly links competitiveness, defence and industrial policy?",
+    "options": [
+      "Monetary integration.",
+      "Strategic autonomy / economic security.",
+      "Agricultural reform.",
+      "VAT harmonisation."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 498,
+    "question": "Which statement is FALSE?",
+    "options": [
+      "The Commission adopts an annual Work Programme.",
+      "The European Council sets the Union's broad political direction.",
+      "Parliament elects the Commission President.",
+      "The Council of the EU elects the President of the European Parliament."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 500,
+    "question": "Which statement best captures the current strategic direction of the Union?",
+    "options": [
+      "Prioritising climate objectives over all other objectives.",
+      "Returning competences systematically to Member States.",
+      "Expanding agricultural expenditure as the main growth strategy.",
+      "Combining competitiveness, innovation, simplification, security, decarbonisation and enlargement into a coherent long-term agenda."
+    ],
+    "correctAnswer": 3
+  }
+]
