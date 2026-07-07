@@ -1,55 +1,58 @@
 const fs = require("fs");
+const cheerio = require("cheerio");
 
 const html = fs.readFileSync("raw.html", "utf8");
+const $ = cheerio.load(html);
 
-const blocks = html.split(/<p><strong>\d+\./).slice(1);
+const paragraphs = $("p").toArray();
 
 const questions = [];
+let i = 0;
 
-blocks.forEach((block, index) => {
-  const full = (index + 1) + "." + block;
+while (i < paragraphs.length) {
+    const text = $(paragraphs[i]).text().trim();
 
-  const qMatch = full.match(/^(\d+)\.\s*(.*?)<\/strong><\/p>/s);
-  if (!qMatch) return;
+    // Inizio domanda
+    if (/^\d+\./.test(text)) {
 
-  const id = Number(qMatch[1]);
-  const question = qMatch[2].trim();
+        const question = text.replace(/^\d+\.\s*/, "");
 
-  const options = [];
-  let correctAnswer = -1;
+        const answers = [];
+        let correct = -1;
 
-  const optionRegex =
-    /([A-D])\.\s*(?:<strong>)?([\s\S]*?)(?:<\/strong>)?(?=<br\s*\/?>[A-D]\.|<\/p>)/g;
+        for (let j = 1; j <= 4; j++) {
 
-  let m;
+            const p = paragraphs[i + j];
+            if (!p) break;
 
-  while ((m = optionRegex.exec(full)) !== null) {
-    let text = m[2]
-      .replace(/<[^>]+>/g, "")
-      .replace(/&nbsp;/g, " ")
-      .trim();
+            const answerText = $(p).text().trim();
 
-    options.push(text);
+            const clean = answerText.replace(/^[A-D]\.\s*/, "");
 
-    if (m[0].includes("<strong>")) {
-      correctAnswer = options.length - 1;
+            answers.push(clean);
+
+            if ($(p).find("strong").length > 0) {
+                correct = j - 1;
+            }
+        }
+
+        if (answers.length === 4) {
+            questions.push({
+                question,
+                answers,
+                correct
+            });
+        }
+
+        i += 5;
+    } else {
+        i++;
     }
-  }
-
-  if (options.length === 4) {
-    questions.push({
-      id,
-      question,
-      options,
-      correctAnswer,
-    });
-  }
-});
+}
 
 fs.writeFileSync(
-  "app/data/questions.json",
-  JSON.stringify(questions, null, 2)
+    "questions.json",
+    JSON.stringify(questions, null, 2)
 );
 
-console.log(`Questions: ${questions.length}`);
-console.log("Done.");
+console.log(`✅ Convertite ${questions.length} domande`);

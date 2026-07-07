@@ -9,7 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "cheerio": "^1.2.0",
+    "domutils": "^4.0.2",
     "fast-xml-parser": "^5.9.3",
+    "htmlparser2": "^12.0.0",
     "jszip": "^3.10.1",
     "mammoth": "^1.12.0",
     "next": "16.2.10",
