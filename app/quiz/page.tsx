@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
 import questions from "../data/questions.json";
 
 type Question = (typeof questions)[number];
@@ -65,6 +65,15 @@ export default function QuizPage() {
   const q = quizQuestions[current];
   const selected = answers[current];
 
+  const shuffledOptions = useMemo(() => {
+    return shuffle(
+      q.options.map((option, index) => ({
+        text: option,
+        originalIndex: index,
+      }))
+    );
+  }, [current]);
+
   const score = answers.reduce<number>((total, answer, index) => {
     return answer === quizQuestions[index]?.correctAnswer ? total + 1 : total;
   }, 0);
@@ -112,25 +121,25 @@ export default function QuizPage() {
       </h1>
 
       <div className="flex flex-col gap-4">
-        {q.options.map((option, i) => {
+        {shuffledOptions.map(({ text, originalIndex }) => {
           let color = "bg-gray-100 hover:bg-gray-200";
 
           if (selected !== null) {
-            if (i === q.correctAnswer) {
+            if (originalIndex === q.correctAnswer) {
               color = "bg-green-400";
-            } else if (i === selected) {
+            } else if (originalIndex === selected) {
               color = "bg-red-400";
             }
           }
 
           return (
             <button
-              key={i}
-              onClick={() => answer(i)}
+              key={originalIndex}
+              onClick={() => answer(originalIndex)}
               disabled={selected !== null}
               className={`${color} rounded-xl p-4 text-left transition`}
             >
-              {option}
+              {text}
             </button>
           );
         })}
