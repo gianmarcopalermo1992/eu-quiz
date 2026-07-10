@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, useMemo } from "react";
+import { useEffect, useState } from "react";
 import questions from "../data/questions.json";
 
 type Question = (typeof questions)[number];
@@ -16,15 +16,33 @@ function shuffle<T>(array: T[]): T[] {
   return arr;
 }
 
+function shuffleQuestion(question: Question): Question {
+  const options = question.options.map((option, index) => ({
+    option,
+    index,
+  }));
+
+  const shuffled = shuffle(options);
+
+  return {
+    ...question,
+    options: shuffled.map((o) => o.option),
+    correctAnswer: shuffled.findIndex(
+      (o) => o.index === question.correctAnswer
+    ),
+  };
+}
+
 export default function QuizPage() {
   const [quizQuestions, setQuizQuestions] = useState<Question[]>([]);
   const [answers, setAnswers] = useState<(number | null)[]>([]);
   const [current, setCurrent] = useState(0);
 
   useEffect(() => {
-    const shuffled = shuffle(questions);
-    setQuizQuestions(shuffled);
-    setAnswers(Array(shuffled.length).fill(null));
+    const randomized = shuffle(questions).map(shuffleQuestion);
+
+    setQuizQuestions(randomized);
+    setAnswers(Array(randomized.length).fill(null));
   }, []);
 
   if (quizQuestions.length === 0) {
@@ -37,7 +55,9 @@ export default function QuizPage() {
 
   if (current >= quizQuestions.length) {
     const score = answers.reduce<number>((total, answer, index) => {
-      return answer === quizQuestions[index].correctAnswer ? total + 1 : total;
+      return answer === quizQuestions[index].correctAnswer
+        ? total + 1
+        : total;
     }, 0);
 
     return (
@@ -65,17 +85,10 @@ export default function QuizPage() {
   const q = quizQuestions[current];
   const selected = answers[current];
 
-  const shuffledOptions = useMemo(() => {
-    return shuffle(
-      q.options.map((option, index) => ({
-        text: option,
-        originalIndex: index,
-      }))
-    );
-  }, [current]);
-
   const score = answers.reduce<number>((total, answer, index) => {
-    return answer === quizQuestions[index]?.correctAnswer ? total + 1 : total;
+    return answer === quizQuestions[index]?.correctAnswer
+      ? total + 1
+      : total;
   }, 0);
 
   function answer(index: number) {
@@ -100,7 +113,6 @@ export default function QuizPage() {
 
   return (
     <main className="max-w-3xl mx-auto p-8">
-      {/* Progress bar */}
       <div className="mb-8">
         <div className="h-3 rounded-full bg-gray-200 overflow-hidden">
           <div
@@ -121,25 +133,25 @@ export default function QuizPage() {
       </h1>
 
       <div className="flex flex-col gap-4">
-        {shuffledOptions.map(({ text, originalIndex }) => {
+        {q.options.map((option, i) => {
           let color = "bg-gray-100 hover:bg-gray-200";
 
           if (selected !== null) {
-            if (originalIndex === q.correctAnswer) {
+            if (i === q.correctAnswer) {
               color = "bg-green-400";
-            } else if (originalIndex === selected) {
+            } else if (i === selected) {
               color = "bg-red-400";
             }
           }
 
           return (
             <button
-              key={originalIndex}
-              onClick={() => answer(originalIndex)}
+              key={i}
+              onClick={() => answer(i)}
               disabled={selected !== null}
               className={`${color} rounded-xl p-4 text-left transition`}
             >
-              {text}
+              {option}
             </button>
           );
         })}
