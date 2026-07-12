@@ -1,6 +1,666 @@
 [
   {
     "id": 1,
+    "question": "Which case established the principle of direct effect?",
+    "options": [
+      "Costa v ENEL",
+      "Van Gend en Loos",
+      "Francovich",
+      "Simmenthal"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Which case established the primacy of EU law?",
+    "options": [
+      "Van Gend en Loos",
+      "Cassis de Dijon",
+      "Costa v ENEL",
+      "ERTA"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "Which case required national courts to disapply conflicting national law immediately?",
+    "options": [
+      "Keck",
+      "Simmenthal",
+      "Plaumann",
+      "Ratti"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "State liability was first recognised in:",
+    "options": [
+      "Francovich",
+      "Brasserie du Pêcheur",
+      "Mangold",
+      "Bosman"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Which case introduced the Dassonville formula?",
+    "options": [
+      "Keck",
+      "Dassonville",
+      "Gebhard",
+      "Cassis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "Mutual recognition of goods is associated with:",
+    "options": [
+      "Cassis de Dijon",
+      "Bosman",
+      "ERTA",
+      "Pringle"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "Keck mainly limited which doctrine?",
+    "options": [
+      "Direct effect",
+      "Measures having equivalent effect",
+      "State liability",
+      "Directives"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Which case concerns free movement of workers in football?",
+    "options": [
+      "Gebhard",
+      "Bosman",
+      "Defrenne II",
+      "Mangold"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "The Gebhard test concerns:",
+    "options": [
+      "Goods",
+      "Workers",
+      "Freedom of establishment",
+      "Citizenship"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Plaumann is famous for:",
+    "options": [
+      "Direct effect",
+      "Individual concern",
+      "State liability",
+      "Data protection"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "Foto-Frost held that:",
+    "options": [
+      "National courts may annul EU acts",
+      "Only the CJEU may declare EU acts invalid",
+      "Directives have horizontal effect",
+      "Treaties prevail over constitutions"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "Les Verts confirmed:",
+    "options": [
+      "Complete system of legal remedies",
+      "Mutual recognition",
+      "State liability",
+      "Citizenship"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "ERTA (AETR) recognised:",
+    "options": [
+      "Implied external powers",
+      "Horizontal effect",
+      "Direct applicability",
+      "Subsidiarity"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "Kadi is mainly about:",
+    "options": [
+      "Competition law",
+      "Fundamental rights and UN sanctions",
+      "Agriculture",
+      "EMU"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "Defrenne II established:",
+    "options": [
+      "Equal pay direct effect",
+      "State liability",
+      "Mutual recognition",
+      "Primacy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "Von Colson is linked to:",
+    "options": [
+      "Indirect effect",
+      "Direct effect",
+      "Primacy",
+      "Citizenship"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "Marleasing strengthened:",
+    "options": [
+      "Consistent interpretation",
+      "Free movement of goods",
+      "Data protection",
+      "Standing"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "Foster v British Gas clarified:",
+    "options": [
+      "State emanation",
+      "Article 267",
+      "External competence",
+      "Consumer rights"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "Ratti confirmed that an unimplemented directive cannot be relied upon by:",
+    "options": [
+      "The State",
+      "Individuals vertically",
+      "An individual against another individual",
+      "National courts"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "CILFIT concerns:",
+    "options": [
+      "Acte clair",
+      "State liability",
+      "Standing",
+      "Citizenship"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "Digital Rights Ireland concerned:",
+    "options": [
+      "Data retention",
+      "Competition",
+      "VAT",
+      "EMU"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "Google Spain established:",
+    "options": [
+      "Right to be forgotten",
+      "Primacy",
+      "External powers",
+      "Direct taxation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "Schrems I invalidated:",
+    "options": [
+      "Privacy Shield",
+      "Safe Harbor",
+      "GDPR",
+      "Data Act"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "Schrems II invalidated:",
+    "options": [
+      "Safe Harbor",
+      "Privacy Shield",
+      "ECHR",
+      "Directive 95/46"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "Pringle concerned:",
+    "options": [
+      "ESM compatibility",
+      "CBAM",
+      "CAP",
+      "Schengen"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "Opinion 2/13 dealt with:",
+    "options": [
+      "EU accession to the ECHR",
+      "Brexit",
+      "ECB independence",
+      "Budget"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "Wightman clarified:",
+    "options": [
+      "Revocation of Article 50 notification",
+      "State liability",
+      "QMV",
+      "Citizenship"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "Mangold is associated with:",
+    "options": [
+      "Age discrimination",
+      "Equal pay",
+      "Goods",
+      "VAT"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "Brasserie du Pêcheur developed:",
+    "options": [
+      "State liability conditions",
+      "Direct effect",
+      "Mutual recognition",
+      "Standing"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "Which case came first chronologically?",
+    "options": [
+      "Costa v ENEL",
+      "Francovich",
+      "Van Gend en Loos",
+      "Simmenthal"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 31,
+    "question": "Which institution appoints the Judges of the Court of Justice of the EU?",
+    "options": [
+      "European Parliament",
+      "European Council",
+      "Governments of the Member States by common accord",
+      "European Commission"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 32,
+    "question": "How long is a Judge's term at the Court of Justice?",
+    "options": [
+      "5 years",
+      "6 years",
+      "8 years",
+      "9 years"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "question": "Which court hears preliminary rulings under Article 267 TFEU?",
+    "options": [
+      "General Court",
+      "Court of Justice",
+      "Court of Auditors",
+      "ECtHR"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "Who may refer a question under Article 267 TFEU?",
+    "options": [
+      "Only supreme courts",
+      "Only constitutional courts",
+      "Any national court meeting EU criteria",
+      "Only governments"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 35,
+    "question": "Where is the Court of Justice seated?",
+    "options": [
+      "Brussels",
+      "Luxembourg",
+      "Strasbourg",
+      "Frankfurt"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "Advocates General primarily:",
+    "options": [
+      "Vote on judgments",
+      "Represent Member States",
+      "Deliver independent Opinions",
+      "Chair hearings"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 37,
+    "question": "The General Court mainly hears:",
+    "options": [
+      "Direct actions",
+      "Treaty revisions",
+      "Preliminary references",
+      "Criminal cases"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "Appeals from the General Court go to the:",
+    "options": [
+      "European Council",
+      "Court of Justice",
+      "Commission",
+      "Council"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "question": "Judges are chosen for:",
+    "options": [
+      "Political affiliation",
+      "Independence and qualifications",
+      "Nationality only",
+      "Parliamentary experience"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "The Court of Auditors interprets EU law:",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Only budget law",
+      "Never"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 41,
+    "question": "Who elects the Commission President?",
+    "options": [
+      "Council",
+      "European Parliament",
+      "Commission",
+      "ECB"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "question": "The Commission generally has:",
+    "options": [
+      "Judicial power",
+      "Legislative initiative",
+      "Treaty revision power",
+      "Budget discharge"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "The College includes:",
+    "options": [
+      "One Commissioner per Member State",
+      "Only euro area Commissioners",
+      "25 Commissioners",
+      "Only DGs"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "The High Representative is also:",
+    "options": [
+      "ECB Vice-President",
+      "Commission Vice-President",
+      "Council President",
+      "EP President"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "Commissioners serve:",
+    "options": [
+      "4 years",
+      "5 years",
+      "6 years",
+      "7 years"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "question": "The Secretariat-General mainly:",
+    "options": [
+      "Coordinates Commission work",
+      "Audits the ECB",
+      "Represents Council",
+      "Elects Commissioners"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "ECB Executive Board members:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "question": "ECB Executive Board term:",
+    "options": [
+      "8 years non-renewable",
+      "6 renewable",
+      "5 years",
+      "7 renewable"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 49,
+    "question": "The Governing Council includes:",
+    "options": [
+      "Executive Board only",
+      "Executive Board and euro-area governors",
+      "All EU ministers",
+      "General Council"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 50,
+    "question": "The General Council includes:",
+    "options": [
+      "All EU central bank governors",
+      "Euro-area governors only",
+      "Commissioners",
+      "MEPs"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 51,
+    "question": "Who appoints the ECB Executive Board?",
+    "options": [
+      "Commission",
+      "European Council",
+      "Member State governments",
+      "Council after EP/ECB consultation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 52,
+    "question": "Who shares legislative power with Parliament?",
+    "options": [
+      "European Council",
+      "Council of the EU",
+      "Commission",
+      "ECB"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 53,
+    "question": "The European Council:",
+    "options": [
+      "Adopts laws",
+      "Sets political direction",
+      "Approves judgments",
+      "Conducts monetary policy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 54,
+    "question": "MEPs are elected by:",
+    "options": [
+      "National parliaments",
+      "Direct universal suffrage",
+      "Commission",
+      "Council"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 55,
+    "question": "Budget discharge is granted by:",
+    "options": [
+      "Commission",
+      "European Parliament",
+      "Council",
+      "Court"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 56,
+    "question": "The Court of Auditors has:",
+    "options": [
+      "One member per Member State",
+      "15 members",
+      "20 members",
+      "One judge per State"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 57,
+    "question": "The Ombudsman is elected by:",
+    "options": [
+      "Council",
+      "Parliament",
+      "Commission",
+      "Court"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 58,
+    "question": "The Committee of the Regions represents:",
+    "options": [
+      "Regions and local authorities",
+      "Banks",
+      "Courts",
+      "Agencies"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 59,
+    "question": "The EESC represents:",
+    "options": [
+      "Civil society",
+      "Judges",
+      "Governments",
+      "Central banks"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "question": "The EEAS supports:",
+    "options": [
+      "ECB President",
+      "High Representative",
+      "Court President",
+      "Parliament President"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 61,
     "question": "Which target is legally binding under the European Climate Law?",
     "options": [
       "25% organic farming by 2030",
@@ -11,7 +671,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 2,
+    "id": 62,
     "question": "RED III sets a binding renewable energy target of:",
     "options": [
       "40%",
@@ -22,7 +682,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 3,
+    "id": 63,
     "question": "The EU aspires to reach what renewable share by 2030?",
     "options": [
       "42.5%",
@@ -33,7 +693,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 4,
+    "id": 64,
     "question": "Farm to Fork organic farming target:",
     "options": [
       "20%",
@@ -44,7 +704,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 5,
+    "id": 65,
     "question": "Farm to Fork fertilizer use target:",
     "options": [
       "20% reduction",
@@ -55,7 +715,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 6,
+    "id": 66,
     "question": "Farm to Fork nutrient losses target:",
     "options": [
       "20%",
@@ -66,7 +726,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 7,
+    "id": 67,
     "question": "Farm to Fork chemical pesticide target:",
     "options": [
       "20% reduction",
@@ -77,7 +737,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 8,
+    "id": 68,
     "question": "Farm to Fork antimicrobial sales target:",
     "options": [
       "30% reduction",
@@ -88,7 +748,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 9,
+    "id": 69,
     "question": "Biodiversity Strategy protects:",
     "options": [
       "20% land and sea",
@@ -99,7 +759,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 10,
+    "id": 70,
     "question": "Strict protection applies to:",
     "options": [
       "10% of EU territory by law",
@@ -110,7 +770,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 11,
+    "id": 71,
     "question": "Nature Restoration Regulation requires restoration measures covering:",
     "options": [
       "20% land and sea by 2030",
@@ -121,7 +781,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 12,
+    "id": 72,
     "question": "All ecosystems in need should be covered by:",
     "options": [
       "2035",
@@ -132,7 +792,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 13,
+    "id": 73,
     "question": "Zero Pollution air pollution health impacts:",
     "options": [
       "50% reduction",
@@ -143,7 +803,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 14,
+    "id": 74,
     "question": "Zero Pollution marine plastic litter:",
     "options": [
       "30% reduction",
@@ -154,7 +814,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 15,
+    "id": 75,
     "question": "Green Deal is:",
     "options": [
       "A regulation",
@@ -165,7 +825,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 16,
+    "id": 76,
     "question": "Fit for 55 aims primarily to:",
     "options": [
       "2050 neutrality",
@@ -176,7 +836,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 17,
+    "id": 77,
     "question": "REPowerEU primarily addresses:",
     "options": [
       "Agriculture",
@@ -187,7 +847,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 18,
+    "id": 78,
     "question": "European Climate Law intermediate target:",
     "options": [
       "40%",
@@ -198,7 +858,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 19,
+    "id": 79,
     "question": "Circular Economy Action Plan focuses on:",
     "options": [
       "Product durability",
@@ -209,7 +869,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 20,
+    "id": 80,
     "question": "Which is NOT a Farm to Fork target?",
     "options": [
       "25% organic farming",
@@ -220,7 +880,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 21,
+    "id": 81,
     "question": "Which initiative introduced the 20% restoration coverage by 2030?",
     "options": [
       "Biodiversity Strategy",
@@ -231,7 +891,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 22,
+    "id": 82,
     "question": "Which policy is NOT legally binding itself?",
     "options": [
       "European Climate Law",
@@ -242,7 +902,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 23,
+    "id": 83,
     "question": "42.5% refers to:",
     "options": [
       "Energy efficiency",
@@ -253,7 +913,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 24,
+    "id": 84,
     "question": "45% in EU energy policy is:",
     "options": [
       "Binding RED III target",
@@ -264,7 +924,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 25,
+    "id": 85,
     "question": "55% net emissions reduction is compared with:",
     "options": [
       "1980",
@@ -275,7 +935,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 26,
+    "id": 86,
     "question": "25,000 km of free-flowing rivers belongs to:",
     "options": [
       "Zero Pollution",
@@ -286,7 +946,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 27,
+    "id": 87,
     "question": "80% adults with basic digital skills belongs to:",
     "options": [
       "Digital Decade",
@@ -297,7 +957,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 28,
+    "id": 88,
     "question": "100% online key public services belongs to:",
     "options": [
       "RED III",
@@ -308,7 +968,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 29,
+    "id": 89,
     "question": "90% SMEs with basic digital intensity belongs to:",
     "options": [
       "Digital Decade",
@@ -319,7 +979,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 30,
+    "id": 90,
     "question": "Climate neutrality target year:",
     "options": [
       "2030",
@@ -330,7 +990,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 31,
+    "id": 91,
     "question": "Which initiative introduced the 20% restoration coverage by 2030?",
     "options": [
       "Biodiversity Strategy",
@@ -341,7 +1001,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 32,
+    "id": 92,
     "question": "Which policy is NOT legally binding itself?",
     "options": [
       "European Climate Law",
@@ -352,7 +1012,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 33,
+    "id": 93,
     "question": "42.5% refers to:",
     "options": [
       "Energy efficiency",
@@ -363,7 +1023,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 34,
+    "id": 94,
     "question": "45% in EU energy policy is:",
     "options": [
       "Binding RED III target",
@@ -374,7 +1034,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 35,
+    "id": 95,
     "question": "55% net emissions reduction is compared with:",
     "options": [
       "1980",
@@ -385,7 +1045,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 36,
+    "id": 96,
     "question": "25,000 km of free-flowing rivers belongs to:",
     "options": [
       "Zero Pollution",
@@ -396,7 +1056,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 37,
+    "id": 97,
     "question": "80% adults with basic digital skills belongs to:",
     "options": [
       "Digital Decade",
@@ -407,7 +1067,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 38,
+    "id": 98,
     "question": "100% online key public services belongs to:",
     "options": [
       "RED III",
@@ -418,7 +1078,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 39,
+    "id": 99,
     "question": "90% SMEs with basic digital intensity belongs to:",
     "options": [
       "Digital Decade",
@@ -429,7 +1089,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 40,
+    "id": 100,
     "question": "Climate neutrality target year:",
     "options": [
       "2030",
@@ -440,7 +1100,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 41,
+    "id": 101,
     "question": "Which initiative introduced the 20% restoration coverage by 2030?",
     "options": [
       "Biodiversity Strategy",
@@ -451,7 +1111,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 42,
+    "id": 102,
     "question": "Which policy is NOT legally binding itself?",
     "options": [
       "European Climate Law",
@@ -462,7 +1122,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 43,
+    "id": 103,
     "question": "42.5% refers to:",
     "options": [
       "Energy efficiency",
@@ -473,7 +1133,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 44,
+    "id": 104,
     "question": "45% in EU energy policy is:",
     "options": [
       "Binding RED III target",
@@ -484,7 +1144,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 45,
+    "id": 105,
     "question": "55% net emissions reduction is compared with:",
     "options": [
       "1980",
@@ -495,7 +1155,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 46,
+    "id": 106,
     "question": "25,000 km of free-flowing rivers belongs to:",
     "options": [
       "Zero Pollution",
@@ -506,7 +1166,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 47,
+    "id": 107,
     "question": "80% adults with basic digital skills belongs to:",
     "options": [
       "Digital Decade",
@@ -517,7 +1177,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 48,
+    "id": 108,
     "question": "100% online key public services belongs to:",
     "options": [
       "RED III",
@@ -528,7 +1188,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 49,
+    "id": 109,
     "question": "90% SMEs with basic digital intensity belongs to:",
     "options": [
       "Digital Decade",
@@ -539,7 +1199,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 50,
+    "id": 110,
     "question": "Climate neutrality target year:",
     "options": [
       "2030",
@@ -550,7 +1210,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 51,
+    "id": 111,
     "question": "Which institution formally elects the President of the European Commission after the European Council has proposed a candidate, taking into account the elections to the European Parliament?",
     "options": [
       "Council of the European Union",
@@ -561,7 +1221,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 52,
+    "id": 112,
     "question": "Which statement BEST reflects the role of the European Council under Article 15 TEU?",
     "options": [
       "It exercises legislative functions jointly with the Council of the European Union.",
@@ -572,7 +1232,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 53,
+    "id": 113,
     "question": "Which Treaty first introduced Union citizenship?",
     "options": [
       "Treaty of Amsterdam",
@@ -583,7 +1243,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 54,
+    "id": 114,
     "question": "Which Member State most recently adopted the euro?",
     "options": [
       "Lithuania",
@@ -594,7 +1254,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 55,
+    "id": 115,
     "question": "The Luxembourg Compromise of 1966 is primarily associated with:",
     "options": [
       "the first direct elections to the European Parliament.",
@@ -605,7 +1265,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 56,
+    "id": 116,
     "question": "Which institution appoints the Members of the European Court of Auditors?",
     "options": [
       "European Parliament.",
@@ -616,7 +1276,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 57,
+    "id": 117,
     "question": "Judges of the Court of Justice of the European Union are appointed for a renewable term of:",
     "options": [
       "Four years.",
@@ -627,7 +1287,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 58,
+    "id": 118,
     "question": "Before Judges and Advocates General of the Court of Justice are appointed, their suitability is assessed by:",
     "options": [
       "the Conference of Presidents of the European Parliament.",
@@ -638,7 +1298,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 59,
+    "id": 119,
     "question": "Which institution grants discharge to the Commission for the implementation of the Union budget?",
     "options": [
       "European Parliament, acting on a recommendation from the Council.",
@@ -649,7 +1309,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 60,
+    "id": 120,
     "question": "According to the Political Guidelines 2024–2029, the proposed Union of Skills primarily aims to:",
     "options": [
       "establish a single European curriculum.",
@@ -660,7 +1320,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 61,
+    "id": 121,
     "question": "Which statement BEST distinguishes delegated acts from implementing acts?",
     "options": [
       "Delegated acts require approval by national parliaments before entering into force.",
@@ -671,7 +1331,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 62,
+    "id": 122,
     "question": "Which institution has the power to request the Commission to submit an appropriate legislative proposal under Article 225 TFEU?",
     "options": [
       "European Council.",
@@ -682,7 +1342,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 63,
+    "id": 123,
     "question": "Which city hosts the headquarters of the European Union Agency for Asylum (EUAA)?",
     "options": [
       "Vienna.",
@@ -693,7 +1353,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 64,
+    "id": 124,
     "question": "Which event occurred FIRST?",
     "options": [
       "Entry into force of the Maastricht Treaty.",
@@ -704,7 +1364,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 65,
+    "id": 125,
     "question": "Which institution nominates the candidate for President of the European Commission?",
     "options": [
       "Council of the European Union.",
@@ -715,7 +1375,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 66,
+    "id": 126,
     "question": "Which statement BEST reflects the relationship between the European Parliament and the Commission?",
     "options": [
       "Parliament may individually dismiss Commissioners by absolute majority.",
@@ -726,7 +1386,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 67,
+    "id": 127,
     "question": "Which Member State has a permanent opt-out from adopting the euro under the Treaties?",
     "options": [
       "Sweden.",
@@ -737,7 +1397,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 68,
+    "id": 128,
     "question": "Which Treaty first substantially extended qualified majority voting in order to facilitate completion of the internal market?",
     "options": [
       "Maastricht Treaty.",
@@ -748,7 +1408,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 69,
+    "id": 129,
     "question": "Which institution formally appoints the European Commission after the President and the College have obtained the consent of the European Parliament?",
     "options": [
       "Council of the European Union.",
@@ -759,7 +1419,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 70,
+    "id": 130,
     "question": "Which statement BEST describes the role of the Court of Justice of the European Union in preliminary rulings under Article 267 TFEU?",
     "options": [
       "It reviews only the validity of Regulations.",
@@ -770,7 +1430,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 71,
+    "id": 131,
     "question": "Which institution adopts the Commission Work Programme?",
     "options": [
       "European Council.",
@@ -781,7 +1441,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 72,
+    "id": 132,
     "question": "Which city was designated a European Capital of Culture for 2025 together with Chemnitz?",
     "options": [
       "Tartu.",
@@ -792,7 +1452,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 73,
+    "id": 133,
     "question": "Which statement BEST reflects the purpose of the principle of subsidiarity?",
     "options": [
       "The Union must legislate whenever a cross-border element exists.",
@@ -803,7 +1463,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 74,
+    "id": 134,
     "question": "Which institution is responsible for ensuring the application of Union law under the Treaties?",
     "options": [
       "European Parliament.",
@@ -814,7 +1474,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 75,
+    "id": 135,
     "question": "Which Member State does NOT participate in the euro area?",
     "options": [
       "Croatia.",
@@ -825,7 +1485,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 76,
+    "id": 136,
     "question": "Which body is composed of one judge from each Member State?",
     "options": [
       "European Court of Auditors.",
@@ -836,7 +1496,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 77,
+    "id": 137,
     "question": "Which institution formally elects the European Ombudsman?",
     "options": [
       "Council of the European Union.",
@@ -847,7 +1507,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 78,
+    "id": 138,
     "question": "Which of the following is one of the seven priorities set out in the Political Guidelines 2024–2029?",
     "options": [
       "Completing Political Union.",
@@ -858,7 +1518,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 79,
+    "id": 139,
     "question": "The annual EU budget is adopted jointly by:",
     "options": [
       "European Council and European Parliament.",
@@ -869,7 +1529,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 80,
+    "id": 140,
     "question": "Which statement BEST reflects the Commission's right of legislative initiative?",
     "options": [
       "The Commission has an exclusive right of initiative in every field without exception.",
@@ -880,7 +1540,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 81,
+    "id": 141,
     "question": "Which institution appoints the Members of the European Economic and Social Committee?",
     "options": [
       "European Parliament.",
@@ -891,7 +1551,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 82,
+    "id": 142,
     "question": "Which statement BEST reflects the role of the European Commission during the ordinary legislative procedure?",
     "options": [
       "It adopts legislative acts jointly with the Council.",
@@ -902,7 +1562,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 83,
+    "id": 143,
     "question": "Which Member State adopted the euro on 1 January 2011?",
     "options": [
       "Latvia.",
@@ -913,7 +1573,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 84,
+    "id": 144,
     "question": "Which institution formally appoints the Members of the European Commission?",
     "options": [
       "Council of the European Union.",
@@ -924,7 +1584,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 85,
+    "id": 145,
     "question": "Which event occurred FIRST?",
     "options": [
       "Signature of the Maastricht Treaty.",
@@ -935,7 +1595,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 86,
+    "id": 146,
     "question": "Which institution is responsible for interpreting Union law to ensure its uniform application across all Member States?",
     "options": [
       "European Court of Auditors.",
@@ -946,7 +1606,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 87,
+    "id": 147,
     "question": "Which statement BEST reflects the role of national courts under Article 267 TFEU?",
     "options": [
       "They may refer questions concerning the interpretation or validity of Union law to the Court of Justice.",
@@ -957,7 +1617,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 88,
+    "id": 148,
     "question": "Which of the following agencies is headquartered in Cologne?",
     "options": [
       "European Maritime Safety Agency.",
@@ -968,7 +1628,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 89,
+    "id": 149,
     "question": "Which Treaty first established the Committee of the Regions?",
     "options": [
       "Single European Act.",
@@ -979,7 +1639,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 90,
+    "id": 150,
     "question": "Which institution adopts the annual report forming the basis for the budgetary discharge procedure?",
     "options": [
       "European Commission.",
@@ -990,7 +1650,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 91,
+    "id": 151,
     "question": "Which statement BEST reflects the legal effect of a Directive under Article 288 TFEU?",
     "options": [
       "It is directly applicable in all Member States.",
@@ -1001,7 +1661,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 92,
+    "id": 152,
     "question": "Which institution formally appoints the European Ombudsman?",
     "options": [
       "Council of the European Union.",
@@ -1012,7 +1672,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 93,
+    "id": 153,
     "question": "Which country held the rotating Presidency of the Council of the European Union immediately before Denmark in the second half of 2025?",
     "options": [
       "Hungary.",
@@ -1023,7 +1683,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 94,
+    "id": 154,
     "question": "Which statement BEST describes the role of COREPER?",
     "options": [
       "It adopts legislative acts where the Council cannot reach agreement.",
@@ -1034,7 +1694,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 95,
+    "id": 155,
     "question": "Which institution appoints the Members of the General Court?",
     "options": [
       "European Parliament.",
@@ -1045,7 +1705,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 96,
+    "id": 156,
     "question": "Which of the following agencies is headquartered in Prague?",
     "options": [
       "ACER.",
@@ -1056,7 +1716,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 97,
+    "id": 157,
     "question": "Which event occurred FIRST?",
     "options": [
       "Entry into force of the Treaty of Lisbon.",
@@ -1067,7 +1727,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 98,
+    "id": 158,
     "question": "Which statement BEST reflects the role of the European Commission in infringement proceedings under Article 258 TFEU?",
     "options": [
       "It must refer every complaint received to the Court of Justice.",
@@ -1078,7 +1738,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 99,
+    "id": 159,
     "question": "Which city hosts the headquarters of the European Food Safety Authority (EFSA)?",
     "options": [
       "Amsterdam.",
@@ -1089,7 +1749,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 100,
+    "id": 160,
     "question": "According to the Political Guidelines 2024–2029, which objective is MOST closely associated with the proposed European Affordable Housing Plan?",
     "options": [
       "Harmonising national mortgage legislation.",
@@ -1100,7 +1760,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 101,
+    "id": 161,
     "question": "Which institution formally appoints the President of the European Central Bank?",
     "options": [
       "Council of the European Union.",
@@ -1111,7 +1771,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 102,
+    "id": 162,
     "question": "Which Treaty first formally established the office of the European Ombudsman?",
     "options": [
       "Treaty of Amsterdam.",
@@ -1122,7 +1782,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 103,
+    "id": 163,
     "question": "Which Member State has never participated in the European Defence Agency?",
     "options": [
       "Malta.",
@@ -1133,7 +1793,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 104,
+    "id": 164,
     "question": "Which statement BEST reflects the relationship between the European Parliament and the Council in the annual budgetary procedure?",
     "options": [
       "The Council alone adopts the annual budget after consulting Parliament.",
@@ -1144,7 +1804,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 105,
+    "id": 165,
     "question": "Which institution appoints the Members of the European Economic and Social Committee?",
     "options": [
       "European Parliament.",
@@ -1155,7 +1815,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 106,
+    "id": 166,
     "question": "Which of the following agencies is headquartered in Vigo?",
     "options": [
       "European Maritime Safety Agency.",
@@ -1166,7 +1826,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 107,
+    "id": 167,
     "question": "Which event occurred FIRST?",
     "options": [
       "Copenhagen criteria adopted.",
@@ -1177,7 +1837,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 108,
+    "id": 168,
     "question": "Which statement BEST reflects the role of the Regulatory Scrutiny Board?",
     "options": [
       "It adopts legislative proposals on behalf of the Commission.",
@@ -1188,7 +1848,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 109,
+    "id": 169,
     "question": "Which city hosts the headquarters of the European Maritime Safety Agency (EMSA)?",
     "options": [
       "Athens.",
@@ -1199,7 +1859,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 110,
+    "id": 170,
     "question": "According to the Political Guidelines 2024–2029, the proposed European Water Resilience Strategy is primarily intended to:",
     "options": [
       "Establish a single European water regulator.",
@@ -1210,7 +1870,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 111,
+    "id": 171,
     "question": "Which statement BEST reflects the role of the European Council in the appointment of the President of the European Commission?",
     "options": [
       "It appoints the President by unanimity.",
@@ -1221,7 +1881,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 112,
+    "id": 172,
     "question": "Which Treaty first introduced the principle of subsidiarity into primary EU law?",
     "options": [
       "Single European Act.",
@@ -1232,7 +1892,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 113,
+    "id": 173,
     "question": "Which country joined the euro area on 1 January 2009?",
     "options": [
       "Slovenia.",
@@ -1243,7 +1903,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 114,
+    "id": 174,
     "question": "Which statement BEST describes the role of the High Representative of the Union for Foreign Affairs and Security Policy?",
     "options": [
       "The High Representative chairs the European Council.",
@@ -1254,7 +1914,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 115,
+    "id": 175,
     "question": "Which institution appoints the Members of the Executive Board of the European Central Bank?",
     "options": [
       "European Parliament.",
@@ -1265,7 +1925,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 116,
+    "id": 176,
     "question": "Which agency is headquartered in Warsaw?",
     "options": [
       "Europol.",
@@ -1276,7 +1936,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 117,
+    "id": 177,
     "question": "Which event occurred FIRST?",
     "options": [
       "Entry into force of the Treaty of Amsterdam.",
@@ -1287,7 +1947,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 118,
+    "id": 178,
     "question": "Which statement BEST reflects the principle of proportionality under Article 5 TEU?",
     "options": [
       "Union institutions must always choose a Directive instead of a Regulation.",
@@ -1298,7 +1958,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 119,
+    "id": 179,
     "question": "Which city hosts the headquarters of the European Union Intellectual Property Office (EUIPO)?",
     "options": [
       "Madrid.",
@@ -1309,7 +1969,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 120,
+    "id": 180,
     "question": "According to the Political Guidelines 2024–2029, which initiative is intended to reduce administrative burdens, particularly for businesses?",
     "options": [
       "European Administrative Code.",
@@ -1320,7 +1980,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 121,
+    "id": 181,
     "question": "Which institution may bring an action for annulment under Article 263 TFEU without having to demonstrate an interest in bringing proceedings?",
     "options": [
       "Committee of the Regions only.",
@@ -1331,7 +1991,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 122,
+    "id": 182,
     "question": "Which Treaty first introduced the ordinary revision procedure for the Treaties in its current form?",
     "options": [
       "Maastricht Treaty.",
@@ -1342,7 +2002,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 123,
+    "id": 183,
     "question": "Which Member State adopted the euro on 1 January 2014?",
     "options": [
       "Estonia.",
@@ -1353,7 +2013,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 124,
+    "id": 184,
     "question": "Which statement BEST reflects the role of the European Commission during interservice consultation?",
     "options": [
       "Only the Legal Service may comment on draft initiatives.",
@@ -1364,7 +2024,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 125,
+    "id": 185,
     "question": "Which institution appoints the Members of the Court of Justice of the European Union?",
     "options": [
       "European Council.",
@@ -1375,7 +2035,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 126,
+    "id": 186,
     "question": "Which agency is headquartered in Tallinn?",
     "options": [
       "European Labour Authority.",
@@ -1386,7 +2046,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 127,
+    "id": 187,
     "question": "Which event occurred FIRST?",
     "options": [
       "Treaty of Lisbon signed.",
@@ -1397,7 +2057,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 128,
+    "id": 188,
     "question": "Which statement BEST reflects the role of the Court of Auditors?",
     "options": [
       "It determines the annual contributions of Member States.",
@@ -1408,7 +2068,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 129,
+    "id": 189,
     "question": "Which city hosts the headquarters of the European Union Agency for Fundamental Rights (FRA)?",
     "options": [
       "Prague.",
@@ -1419,7 +2079,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 130,
+    "id": 190,
     "question": "According to the Political Guidelines 2024–2029, which objective is MOST closely associated with Europe's future defence policy?",
     "options": [
       "Establishing a single European army under Commission command.",
@@ -1430,7 +2090,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 131,
+    "id": 191,
     "question": "Which institution adopts the Rules of Procedure of the European Commission?",
     "options": [
       "European Parliament.",
@@ -1441,7 +2101,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 132,
+    "id": 192,
     "question": "Which Treaty first established the office of High Representative for the Common Foreign and Security Policy?",
     "options": [
       "Maastricht Treaty.",
@@ -1452,7 +2112,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 133,
+    "id": 193,
     "question": "Which Member State adopted the euro first among the following?",
     "options": [
       "Estonia.",
@@ -1463,7 +2123,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 134,
+    "id": 194,
     "question": "Which statement BEST reflects the role of national parliaments under the subsidiarity control mechanism?",
     "options": [
       "They may veto any Commission proposal by simple majority.",
@@ -1474,7 +2134,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 135,
+    "id": 195,
     "question": "Which institution appoints the European Data Protection Supervisor?",
     "options": [
       "European Council.",
@@ -1485,7 +2145,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 136,
+    "id": 196,
     "question": "Which agency is headquartered in Stockholm?",
     "options": [
       "European Environment Agency.",
@@ -1496,7 +2156,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 137,
+    "id": 197,
     "question": "Which event occurred FIRST?",
     "options": [
       "Entry into force of the Treaty of Nice.",
@@ -1507,7 +2167,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 138,
+    "id": 198,
     "question": "Which statement BEST reflects the relationship between the European Council and the Council of the European Union?",
     "options": [
       "Both institutions exercise legislative functions under the ordinary legislative procedure.",
@@ -1518,7 +2178,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 139,
+    "id": 199,
     "question": "Which city hosted one of the European Capitals of Culture for 2024?",
     "options": [
       "Chemnitz.",
@@ -1529,7 +2189,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 140,
+    "id": 200,
     "question": "Which initiative announced in the Political Guidelines 2024–2029 is intended to improve the Union's preparedness for future crises?",
     "options": [
       "European Solidarity Mechanism.",
@@ -1540,7 +2200,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 141,
+    "id": 201,
     "question": "Which institution adopts the Multiannual Financial Framework (MFF) Regulation after obtaining the consent of the European Parliament?",
     "options": [
       "European Council.",
@@ -1551,7 +2211,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 142,
+    "id": 202,
     "question": "Which statement BEST reflects the role of the European Parliament in the appointment of the European Ombudsman?",
     "options": [
       "It confirms the Ombudsman after appointment by the Council.",
@@ -1562,7 +2222,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 143,
+    "id": 203,
     "question": "Which Member State joined the European Union together with Bulgaria on 1 January 2007?",
     "options": [
       "Croatia.",
@@ -1573,7 +2233,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 144,
+    "id": 204,
     "question": "Which statement BEST describes the role of the European Council in Article 50 TEU negotiations?",
     "options": [
       "It negotiates the withdrawal agreement on behalf of the Union.",
@@ -1584,7 +2244,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 145,
+    "id": 205,
     "question": "Which institution appoints the Members of the European Economic and Social Committee?",
     "options": [
       "European Parliament.",
@@ -1595,7 +2255,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 146,
+    "id": 206,
     "question": "Which agency is headquartered in Amsterdam?",
     "options": [
       "European Food Safety Authority.",
@@ -1606,7 +2266,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 147,
+    "id": 207,
     "question": "Which event occurred FIRST?",
     "options": [
       "Entry into force of the Treaty of Maastricht.",
@@ -1617,7 +2277,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 148,
+    "id": 208,
     "question": "Which statement BEST reflects the composition of the European Council?",
     "options": [
       "Heads of State or Government, the President of the European Council and the President of the Commission.",
@@ -1628,7 +2288,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 149,
+    "id": 209,
     "question": "Which city hosts the headquarters of the European Union Aviation Safety Agency (EASA)?",
     "options": [
       "Frankfurt.",
@@ -1639,7 +2299,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 150,
+    "id": 210,
     "question": "According to the Political Guidelines 2024–2029, the proposed European Oceans Pact primarily aims to:",
     "options": [
       "establish a common fisheries tax.",
@@ -1650,7 +2310,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 151,
+    "id": 211,
     "question": "Which institution formally appoints the Secretary-General of the European Commission?",
     "options": [
       "European Parliament.",
@@ -1661,7 +2321,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 152,
+    "id": 212,
     "question": "Which Treaty first granted the European Parliament the power to dismiss the Commission through a motion of censure?",
     "options": [
       "Treaty of Rome.",
@@ -1672,7 +2332,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 153,
+    "id": 213,
     "question": "Which Member State adopted the euro on 1 January 2008?",
     "options": [
       "Cyprus.",
@@ -1683,7 +2343,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 154,
+    "id": 214,
     "question": "Which statement BEST reflects the role of the General Affairs Council?",
     "options": [
       "It coordinates the work of the European Parliament.",
@@ -1694,7 +2354,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 155,
+    "id": 215,
     "question": "Which institution appoints the Members of the European Committee of the Regions?",
     "options": [
       "European Parliament.",
@@ -1705,7 +2365,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 156,
+    "id": 216,
     "question": "Which agency is headquartered in Copenhagen?",
     "options": [
       "European Centre for Disease Prevention and Control.",
@@ -1716,7 +2376,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 157,
+    "id": 217,
     "question": "Which event occurred FIRST?",
     "options": [
       "Entry into force of the Treaty of Lisbon.",
@@ -1727,7 +2387,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 158,
+    "id": 218,
     "question": "Which statement BEST reflects the role of the President of the European Commission?",
     "options": [
       "The President may dismiss the European Council.",
@@ -1738,7 +2398,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 159,
+    "id": 219,
     "question": "Which city hosts the headquarters of the European Securities and Markets Authority (ESMA)?",
     "options": [
       "Frankfurt.",
@@ -1749,7 +2409,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 160,
+    "id": 220,
     "question": "According to the Political Guidelines 2024–2029, which initiative is intended to strengthen Europe's biotechnology and life sciences sectors?",
     "options": [
       "European Health Union Act.",
@@ -1760,7 +2420,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 161,
+    "id": 221,
     "question": "Which institution appoints the Members of the Executive Board of the European Central Bank?",
     "options": [
       "Council of the European Union.",
@@ -1771,7 +2431,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 162,
+    "id": 222,
     "question": "Which Treaty introduced the post of a permanent President of the European Council?",
     "options": [
       "Treaty of Nice.",
@@ -1782,7 +2442,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 163,
+    "id": 223,
     "question": "Which Member State adopted the euro before Slovakia?",
     "options": [
       "Cyprus.",
@@ -1793,7 +2453,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 164,
+    "id": 224,
     "question": "Which statement BEST reflects the legal role of the European Commission under Article 17 TEU?",
     "options": [
       "It shares judicial authority with the Court of Justice.",
@@ -1804,7 +2464,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 165,
+    "id": 225,
     "question": "Which institution appoints the European Chief Prosecutor?",
     "options": [
       "European Commission.",
@@ -1815,7 +2475,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 166,
+    "id": 226,
     "question": "Which agency is headquartered in Luxembourg?",
     "options": [
       "European Banking Authority.",
@@ -1826,7 +2486,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 167,
+    "id": 227,
     "question": "Which event occurred FIRST?",
     "options": [
       "Signature of the Treaty of Amsterdam.",
@@ -1837,7 +2497,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 168,
+    "id": 228,
     "question": "Which statement BEST reflects the purpose of the annual Rule of Law Report?",
     "options": [
       "It automatically initiates Article 7 TEU proceedings.",
@@ -1848,7 +2508,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 169,
+    "id": 229,
     "question": "Which city was designated a European Capital of Culture for 2023 together with Timișoara?",
     "options": [
       "Galway.",
@@ -1859,7 +2519,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 170,
+    "id": 230,
     "question": "According to the Political Guidelines 2024–2029, which initiative is intended to improve implementation and enforcement of Union law by Member States?",
     "options": [
       "European Compliance Facility.",
@@ -1870,7 +2530,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 171,
+    "id": 231,
     "question": "Which statement BEST reflects the legal relationship between the European Council and the European Commission?",
     "options": [
       "The European Council may instruct the Commission on the content of legislative proposals.",
@@ -1881,7 +2541,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 172,
+    "id": 232,
     "question": "Which institution formally adopts the Multiannual Financial Framework only after obtaining the consent of the European Parliament?",
     "options": [
       "European Council.",
@@ -1892,7 +2552,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 173,
+    "id": 233,
     "question": "Which Treaty first introduced the office of the European Ombudsman?",
     "options": [
       "Treaty of Rome.",
@@ -1903,7 +2563,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 174,
+    "id": 234,
     "question": "Which Member State became the first former Yugoslav republic to join the European Union?",
     "options": [
       "Slovenia.",
@@ -1914,7 +2574,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 175,
+    "id": 235,
     "question": "Which statement BEST reflects the relationship between the Court of Justice and the General Court?",
     "options": [
       "The General Court may overrule judgments of the Court of Justice.",
@@ -1925,7 +2585,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 176,
+    "id": 236,
     "question": "Which institution appoints the Members of the European Court of Auditors after consulting the European Parliament?",
     "options": [
       "European Council.",
@@ -1936,7 +2596,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 177,
+    "id": 237,
     "question": "Which EU agency is headquartered in Riga?",
     "options": [
       "European Union Agency for Cybersecurity.",
@@ -1947,7 +2607,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 178,
+    "id": 238,
     "question": "Which event occurred FIRST?",
     "options": [
       "Entry into force of the Treaty of Amsterdam.",
@@ -1958,7 +2618,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 179,
+    "id": 239,
     "question": "Which statement BEST reflects the composition of the European Commission under Article 17 TEU?",
     "options": [
       "Each Member State must permanently appoint two Commissioners.",
@@ -1969,7 +2629,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 180,
+    "id": 240,
     "question": "Which city hosts the headquarters of the European Insurance and Occupational Pensions Authority (EIOPA)?",
     "options": [
       "Brussels.",
@@ -1980,7 +2640,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 181,
+    "id": 241,
     "question": "According to the Political Guidelines 2024–2029, the proposed European Competitiveness Fund is intended primarily to:",
     "options": [
       "Replace cohesion policy.",
@@ -1991,7 +2651,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 182,
+    "id": 242,
     "question": "Which institution elects the President of the European Parliament?",
     "options": [
       "European Council.",
@@ -2002,7 +2662,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 183,
+    "id": 243,
     "question": "Which Treaty first introduced the principle of transparency into primary EU law?",
     "options": [
       "Maastricht Treaty.",
@@ -2013,7 +2673,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 184,
+    "id": 244,
     "question": "Which Member State has never participated in ERM II?",
     "options": [
       "Denmark.",
@@ -2024,7 +2684,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 185,
+    "id": 245,
     "question": "Which statement BEST reflects the powers of the President of the European Commission concerning Vice-Presidents?",
     "options": [
       "Vice-Presidents are elected by the European Parliament.",
@@ -2035,7 +2695,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 186,
+    "id": 246,
     "question": "Which institution appoints the Members of the European Economic and Social Committee for renewable five-year terms?",
     "options": [
       "European Parliament.",
@@ -2046,7 +2706,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 187,
+    "id": 247,
     "question": "Which EU agency is headquartered in Vigo?",
     "options": [
       "European Maritime Safety Agency.",
@@ -2057,7 +2717,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 188,
+    "id": 248,
     "question": "Which event occurred FIRST?",
     "options": [
       "Croatia joined the European Union.",
@@ -2068,7 +2728,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 189,
+    "id": 249,
     "question": "Which statement BEST reflects the role of the Court of Justice in ensuring the autonomy of Union law?",
     "options": [
       "It reviews national constitutions for compatibility with Union law.",
@@ -2079,7 +2739,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 190,
+    "id": 250,
     "question": "Which city hosted one of the European Capitals of Culture in 2022?",
     "options": [
       "Tartu.",
@@ -2090,7 +2750,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 191,
+    "id": 251,
     "question": "According to the Political Guidelines 2024–2029, which initiative is intended to strengthen the European research and innovation ecosystem?",
     "options": [
       "European Research Directive.",
@@ -2101,7 +2761,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 192,
+    "id": 252,
     "question": "Which statement BEST reflects the relationship between the European Parliament and the Council during the ordinary legislative procedure if they fail to agree after the second reading?",
     "options": [
       "The proposal is deemed adopted by the Commission.",
@@ -2112,7 +2772,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 193,
+    "id": 253,
     "question": "Which Treaty first established the European Union as such?",
     "options": [
       "Single European Act.",
@@ -2123,7 +2783,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 194,
+    "id": 254,
     "question": "Which event occurred FIRST?",
     "options": [
       "Creation of the European Monetary Institute.",
@@ -2134,7 +2794,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 195,
+    "id": 255,
     "question": "Which statement BEST reflects the role of the European Parliament in the election of the Commission President if the proposed candidate fails to obtain the required majority?",
     "options": [
       "Parliament nominates a new candidate.",
@@ -2145,7 +2805,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 196,
+    "id": 256,
     "question": "Which institution elects the European Ombudsman?",
     "options": [
       "European Council.",
@@ -2156,7 +2816,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 197,
+    "id": 257,
     "question": "Which statement BEST reflects the legal distinction between Regulations and Decisions under Article 288 TFEU?",
     "options": [
       "Decisions always require national transposition.",
@@ -2167,7 +2827,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 198,
+    "id": 258,
     "question": "Which event occurred FIRST?",
     "options": [
       "Croatia joined the European Union.",
@@ -2178,7 +2838,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 199,
+    "id": 259,
     "question": "Which statement BEST reflects the role of the Commission during the annual budgetary procedure?",
     "options": [
       "It adopts the annual budget jointly with Parliament.",
@@ -2189,7 +2849,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 200,
+    "id": 260,
     "question": "Which Treaty first introduced the principle of Union citizenship?",
     "options": [
       "Treaty of Rome.",
@@ -2200,7 +2860,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 201,
+    "id": 261,
     "question": "Which statement BEST reflects the legal effect of a motion of censure adopted by the European Parliament?",
     "options": [
       "Only the President of the Commission must resign.",
@@ -2211,7 +2871,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 202,
+    "id": 262,
     "question": "Which sequence is chronologically correct?",
     "options": [
       "Maastricht → Single European Act → Amsterdam → Lisbon",
@@ -2222,7 +2882,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 203,
+    "id": 263,
     "question": "Which statement BEST reflects the role of the President of the Commission in organising the College?",
     "options": [
       "The portfolios are determined by the European Council.",
@@ -2233,7 +2893,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 204,
+    "id": 264,
     "question": "Which institution appoints the Members of the Committee of the Regions?",
     "options": [
       "European Parliament.",
@@ -2244,7 +2904,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 205,
+    "id": 265,
     "question": "Which event occurred FIRST?",
     "options": [
       "Entry into force of the Treaty of Nice.",
@@ -2255,7 +2915,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 206,
+    "id": 266,
     "question": "Which statement BEST reflects the legal purpose of Article 17 TEU?",
     "options": [
       "It regulates the powers of the Court of Justice.",
@@ -2266,7 +2926,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 207,
+    "id": 267,
     "question": "Which institution adopts the Commission Work Programme?",
     "options": [
       "European Council.",
@@ -2277,7 +2937,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 208,
+    "id": 268,
     "question": "Which Treaty first made co-decision the ordinary legislative procedure under its current name?",
     "options": [
       "Maastricht Treaty.",
@@ -2288,7 +2948,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 209,
+    "id": 269,
     "question": "Which statement BEST reflects the role of the European Council under Article 50 TEU?",
     "options": [
       "It negotiates the withdrawal agreement.",
@@ -2299,7 +2959,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 210,
+    "id": 270,
     "question": "Which event occurred FIRST?",
     "options": [
       "Signature of the Treaty of Amsterdam.",
@@ -2310,7 +2970,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 211,
+    "id": 271,
     "question": "Which statement BEST reflects the purpose of the Commission's Better Regulation agenda?",
     "options": [
       "To reduce the number of Regulations adopted each year.",
@@ -2321,7 +2981,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 212,
+    "id": 272,
     "question": "Which statement BEST reflects the legal consequences of the principle of primacy of EU law?",
     "options": [
       "National constitutions automatically cease to apply where Union law exists.",
@@ -2332,7 +2992,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 213,
+    "id": 273,
     "question": "Which Treaty first created the office of a permanent President of the European Council?",
     "options": [
       "Treaty of Amsterdam.",
@@ -2343,7 +3003,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 214,
+    "id": 274,
     "question": "Which event occurred FIRST?",
     "options": [
       "Signature of the Treaty of Lisbon.",
@@ -2354,7 +3014,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 215,
+    "id": 275,
     "question": "Which statement BEST reflects the role of the Council when the Commission does not accept amendments proposed during the legislative procedure?",
     "options": [
       "The Council may adopt those amendments by simple majority.",
@@ -2365,7 +3025,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 216,
+    "id": 276,
     "question": "Which institution formally appoints the members of the European Commission after the consent of the European Parliament has been obtained?",
     "options": [
       "Council of the European Union.",
@@ -2376,7 +3036,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 217,
+    "id": 277,
     "question": "Which statement BEST reflects the role of the Court of Justice in preliminary ruling proceedings?",
     "options": [
       "It decides the dispute pending before the national court.",
@@ -2387,7 +3047,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 218,
+    "id": 278,
     "question": "Which event occurred FIRST?",
     "options": [
       "Accession of Spain and Portugal.",
@@ -2398,7 +3058,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 219,
+    "id": 279,
     "question": "Which statement BEST reflects the role of the European Parliament in international agreements concluded by the Union?",
     "options": [
       "Parliament negotiates agreements jointly with the Commission.",
@@ -2409,7 +3069,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 220,
+    "id": 280,
     "question": "Which sequence is chronologically correct?",
     "options": [
       "Maastricht → Nice → Amsterdam → Lisbon",
@@ -2420,7 +3080,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 221,
+    "id": 281,
     "question": "Which statement BEST reflects the legal distinction between exclusive and shared competences?",
     "options": [
       "Shared competences always require unanimity in the Council.",
@@ -2431,7 +3091,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 222,
+    "id": 282,
     "question": "Which institution appoints the judges of the General Court?",
     "options": [
       "European Parliament.",
@@ -2442,7 +3102,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 223,
+    "id": 283,
     "question": "Which statement BEST reflects the role of the European Council in Treaty revision under Article 48 TEU?",
     "options": [
       "It may amend the Treaties by qualified majority.",
@@ -2453,7 +3113,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 224,
+    "id": 284,
     "question": "Which event occurred FIRST?",
     "options": [
       "Euro introduced as book money.",
@@ -2464,7 +3124,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 225,
+    "id": 285,
     "question": "Which statement BEST reflects the role of the President of the Commission regarding Commissioners?",
     "options": [
       "The President may dismiss Commissioners without restriction.",
@@ -2475,7 +3135,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 226,
+    "id": 286,
     "question": "Which institution elects the President of the European Parliament?",
     "options": [
       "European Council.",
@@ -2486,7 +3146,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 227,
+    "id": 287,
     "question": "Which Treaty first introduced the Committee of the Regions?",
     "options": [
       "Single European Act.",
@@ -2497,7 +3157,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 228,
+    "id": 288,
     "question": "Which event occurred FIRST?",
     "options": [
       "Croatia adopted the euro.",
@@ -2508,7 +3168,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 229,
+    "id": 289,
     "question": "Which statement BEST reflects the function of the European Semester?",
     "options": [
       "It coordinates only monetary policy within the euro area.",
@@ -2519,7 +3179,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 230,
+    "id": 290,
     "question": "Which statement BEST reflects the legal effect of a Regulation under Article 288 TFEU?",
     "options": [
       "It is binding only upon the Member States.",
@@ -2530,7 +3190,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 231,
+    "id": 291,
     "question": "According to the Political Guidelines 2024–2029, which objective is MOST closely associated with reducing strategic dependencies?",
     "options": [
       "Eliminating the internal market.",
@@ -2541,7 +3201,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 232,
+    "id": 292,
     "question": "Which statement BEST reflects the role of the European Parliament in the appointment of the European Commission?",
     "options": [
       "It approves each Commissioner individually before the President is nominated.",
@@ -2552,7 +3212,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 233,
+    "id": 293,
     "question": "Which Treaty first introduced the procedure that later evolved into the ordinary legislative procedure?",
     "options": [
       "Treaty of Rome.",
@@ -2563,7 +3223,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 234,
+    "id": 294,
     "question": "Which event occurred FIRST?",
     "options": [
       "Treaty of Nice entered into force.",
@@ -2574,7 +3234,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 235,
+    "id": 295,
     "question": "Which statement BEST reflects the powers of the European Parliament in relation to the Commission?",
     "options": [
       "Parliament may dismiss individual Commissioners by simple majority.",
@@ -2585,7 +3245,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 236,
+    "id": 296,
     "question": "Which institution appoints the Members of the Executive Board of the European Central Bank?",
     "options": [
       "Council of the European Union.",
@@ -2596,7 +3256,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 237,
+    "id": 297,
     "question": "Which statement BEST reflects the role of the Commission in delegated acts?",
     "options": [
       "It may amend essential elements of legislative acts.",
@@ -2607,7 +3267,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 238,
+    "id": 298,
     "question": "Which event occurred FIRST?",
     "options": [
       "Entry into force of the Treaty of Lisbon.",
@@ -2618,7 +3278,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 239,
+    "id": 299,
     "question": "Which statement BEST reflects the role of the European Council during the appointment of the Commission President?",
     "options": [
       "It appoints the President directly after consulting the Commission.",
@@ -2629,7 +3289,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 240,
+    "id": 300,
     "question": "Which sequence is chronologically correct?",
     "options": [
       "Amsterdam → Maastricht → Nice → Lisbon",
@@ -2640,7 +3300,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 241,
+    "id": 301,
     "question": "According to the Political Guidelines 2024–2029, which objective is MOST closely associated with the future Union of Skills?",
     "options": [
       "Harmonising university admission requirements across the Union.",
@@ -2651,7 +3311,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 242,
+    "id": 302,
     "question": "Which institution may request the Commission to submit a legislative proposal under Article 225 TFEU?",
     "options": [
       "European Council.",
@@ -2662,7 +3322,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 243,
+    "id": 303,
     "question": "Which Treaty first introduced the office of High Representative for the Common Foreign and Security Policy?",
     "options": [
       "Maastricht Treaty.",
@@ -2673,7 +3333,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 244,
+    "id": 304,
     "question": "Which event occurred FIRST?",
     "options": [
       "Treaty of Maastricht signed.",
@@ -2684,7 +3344,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 245,
+    "id": 305,
     "question": "Which statement BEST reflects the legal consequences of a successful action for annulment under Article 263 TFEU?",
     "options": [
       "The contested act is suspended for six months.",
@@ -2695,7 +3355,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 246,
+    "id": 306,
     "question": "Which institution elects the President of the European Parliament?",
     "options": [
       "European Council.",
@@ -2706,7 +3366,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 247,
+    "id": 307,
     "question": "Which statement BEST reflects the function of the Conciliation Committee under the ordinary legislative procedure?",
     "options": [
       "It resolves disputes between Member States concerning Treaty interpretation.",
@@ -2717,7 +3377,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 248,
+    "id": 308,
     "question": "Which event occurred FIRST?",
     "options": [
       "Croatia joined the euro area.",
@@ -2728,7 +3388,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 249,
+    "id": 309,
     "question": "Which statement BEST reflects the role of the Commission under Article 17 TEU?",
     "options": [
       "It represents only the euro area internationally.",
@@ -2739,7 +3399,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 250,
+    "id": 310,
     "question": "Which Treaty first recognised the European Council as a formal institution of the European Union?",
     "options": [
       "Maastricht Treaty.",
@@ -2750,7 +3410,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 251,
+    "id": 311,
     "question": "According to the Political Guidelines 2024–2029, which initiative is intended to simplify the regulatory framework for businesses while maintaining high policy standards?",
     "options": [
       "European Competitiveness Code.",
@@ -2761,7 +3421,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 252,
+    "id": 312,
     "question": "Which statement BEST reflects the role of the European Council in the appointment of the High Representative of the Union for Foreign Affairs and Security Policy?",
     "options": [
       "It appoints the High Representative by unanimity after consulting the European Parliament.",
@@ -2772,7 +3432,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 253,
+    "id": 313,
     "question": "Which Treaty first gave the European Parliament the power to reject the Commission as a body before it takes office?",
     "options": [
       "Single European Act.",
@@ -2783,7 +3443,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 254,
+    "id": 314,
     "question": "Which event occurred FIRST?",
     "options": [
       "European Stability Mechanism established.",
@@ -2794,7 +3454,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 255,
+    "id": 315,
     "question": "Which statement BEST reflects the role of the Commission under Article 258 TFEU?",
     "options": [
       "It is required to bring infringement proceedings whenever a complaint is submitted.",
@@ -2805,7 +3465,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 256,
+    "id": 316,
     "question": "Which institution appoints the Members of the Committee of the Regions?",
     "options": [
       "European Parliament.",
@@ -2816,7 +3476,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 257,
+    "id": 317,
     "question": "Which statement BEST reflects the legal nature of a Recommendation under Article 288 TFEU?",
     "options": [
       "It is binding upon all Member States.",
@@ -2827,7 +3487,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 258,
+    "id": 318,
     "question": "Which event occurred FIRST?",
     "options": [
       "Maastricht Treaty entered into force.",
@@ -2838,7 +3498,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 259,
+    "id": 319,
     "question": "Which statement BEST reflects the role of the President of the European Parliament?",
     "options": [
       "The President participates as a voting member of the European Council.",
@@ -2849,7 +3509,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 260,
+    "id": 320,
     "question": "Which sequence is chronologically correct?",
     "options": [
       "Amsterdam → Nice → Maastricht → Lisbon",
@@ -2860,7 +3520,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 261,
+    "id": 321,
     "question": "According to the Political Guidelines 2024–2029, which objective is MOST closely associated with the future Clean Industrial Deal?",
     "options": [
       "Replacing the European Green Deal.",
@@ -2871,7 +3531,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 262,
+    "id": 322,
     "question": "Which institution is responsible for ensuring that the Commission acts as a collegiate body?",
     "options": [
       "European Parliament.",
@@ -2882,7 +3542,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 263,
+    "id": 323,
     "question": "Which Treaty first established the Court of First Instance (now the General Court)?",
     "options": [
       "Maastricht Treaty.",
@@ -2893,7 +3553,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 264,
+    "id": 324,
     "question": "Which event occurred FIRST?",
     "options": [
       "Treaty establishing a Constitution for Europe signed.",
@@ -2904,7 +3564,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 265,
+    "id": 325,
     "question": "Which statement BEST reflects the role of the European Parliament in the discharge procedure?",
     "options": [
       "It prepares the Union's annual accounts.",
@@ -2915,7 +3575,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 266,
+    "id": 326,
     "question": "Which institution elects the President of the European Commission?",
     "options": [
       "European Council.",
@@ -2926,7 +3586,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 267,
+    "id": 327,
     "question": "Which statement BEST reflects the purpose of Article 17(3) TEU?",
     "options": [
       "It establishes the legislative powers of the Commission.",
@@ -2937,7 +3597,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 268,
+    "id": 328,
     "question": "Which event occurred FIRST?",
     "options": [
       "Croatia adopted the euro.",
@@ -2948,7 +3608,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 269,
+    "id": 329,
     "question": "Which statement BEST reflects the legal role of the Court of Justice in actions for failure to act under Article 265 TFEU?",
     "options": [
       "It may impose criminal sanctions on Union institutions.",
@@ -2959,7 +3619,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 270,
+    "id": 330,
     "question": "Which Treaty first introduced the possibility of enhanced cooperation?",
     "options": [
       "Maastricht Treaty.",
@@ -2970,7 +3630,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 271,
+    "id": 331,
     "question": "According to the Political Guidelines 2024–2029, which objective is MOST closely associated with reducing unnecessary reporting obligations?",
     "options": [
       "Replacing impact assessments with political declarations.",
@@ -2981,7 +3641,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 272,
+    "id": 332,
     "question": "Which institution formally adopts a legislative act under the ordinary legislative procedure if the European Parliament approves the Council's position at second reading?",
     "options": [
       "European Commission.",
@@ -2992,7 +3652,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 273,
+    "id": 333,
     "question": "Under the European Climate Law, what is the Union's binding net greenhouse gas emissions reduction target for 2030 compared with 1990 levels?",
     "options": [
       "At least 40%.",
@@ -3003,7 +3663,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 274,
+    "id": 334,
     "question": "Which statement BEST reflects the Commission's right to withdraw a legislative proposal?",
     "options": [
       "The Commission may never withdraw a proposal once transmitted to the Council.",
@@ -3014,7 +3674,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 275,
+    "id": 335,
     "question": "Which institution adopts delegated acts under Article 290 TFEU?",
     "options": [
       "European Parliament.",
@@ -3025,7 +3685,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 276,
+    "id": 336,
     "question": "Under the Digital Decade Policy Programme 2030, what proportion of adults should possess at least basic digital skills by 2030?",
     "options": [
       "70%.",
@@ -3036,7 +3696,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 277,
+    "id": 337,
     "question": "Which statement BEST reflects the difference between consultation and consent as special legislative procedures?",
     "options": [
       "Under both procedures, Parliament may amend the proposed act.",
@@ -3047,7 +3707,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 278,
+    "id": 338,
     "question": "Under the Digital Decade Policy Programme 2030, what is the EU target for semiconductor production?",
     "options": [
       "10% of global production.",
@@ -3058,7 +3718,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 279,
+    "id": 339,
     "question": "Which statement BEST reflects the legal effect of a reasoned opinion issued by national parliaments under the subsidiarity control mechanism?",
     "options": [
       "It automatically blocks the legislative proposal.",
@@ -3069,7 +3729,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 280,
+    "id": 340,
     "question": "Under the Renewable Energy Directive (as amended in 2023), what is the EU-level target for the share of renewable energy in gross final energy consumption by 2030?",
     "options": [
       "32%.",
@@ -3080,7 +3740,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 281,
+    "id": 341,
     "question": "Which statement BEST reflects the Commission's role during the Conciliation Committee stage of the ordinary legislative procedure?",
     "options": [
       "It votes as a third co-legislator.",
@@ -3091,7 +3751,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 282,
+    "id": 342,
     "question": "What is the Union's legally binding climate-neutrality target established by the European Climate Law?",
     "options": [
       "2040.",
@@ -3102,7 +3762,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 283,
+    "id": 343,
     "question": "Which statement BEST reflects the role of the Commission in implementing Union law?",
     "options": [
       "It may amend national legislation directly.",
@@ -3113,7 +3773,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 284,
+    "id": 344,
     "question": "Under the Digital Decade Policy Programme 2030, what proportion of EU enterprises should use cloud computing, big data and artificial intelligence?",
     "options": [
       "50%.",
@@ -3124,7 +3784,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 285,
+    "id": 345,
     "question": "Which statement BEST reflects the legal distinction between essential and non-essential elements of legislation?",
     "options": [
       "Essential elements may be amended through delegated acts.",
@@ -3135,7 +3795,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 286,
+    "id": 346,
     "question": "Under the Digital Decade Policy Programme 2030, what is the target for the deployment of edge nodes across the Union?",
     "options": [
       "At least 5,000.",
@@ -3146,7 +3806,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 287,
+    "id": 347,
     "question": "Which institution may object to a delegated act if the empowering legislative act so provides?",
     "options": [
       "European Council only.",
@@ -3157,7 +3817,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 288,
+    "id": 348,
     "question": "Which statement BEST reflects the purpose of impact assessments within the Better Regulation framework?",
     "options": [
       "To determine whether a proposal is politically acceptable to the Council.",
@@ -3168,7 +3828,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 289,
+    "id": 349,
     "question": "Under the Digital Decade Policy Programme 2030, what is the target regarding unicorn start-ups?",
     "options": [
       "Double the number of EU unicorns.",
@@ -3179,7 +3839,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 290,
+    "id": 350,
     "question": "Which statement BEST reflects the purpose of implementing acts under Article 291 TFEU?",
     "options": [
       "To amend essential provisions of legislative acts.",
@@ -3190,7 +3850,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 291,
+    "id": 351,
     "question": "Under the Digital Decade Policy Programme 2030, what is the target for key public services?",
     "options": [
       "80% available online.",
@@ -3201,7 +3861,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 292,
+    "id": 352,
     "question": "Under the Energy Efficiency Directive (EU) 2023/1791, what is the Union's overall energy efficiency target for 2030 compared with projected energy use?",
     "options": [
       "At least 9%.",
@@ -3212,7 +3872,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 293,
+    "id": 353,
     "question": "Which statement BEST reflects the legal effect of a Commission proposal once adopted by the College?",
     "options": [
       "It automatically becomes Union law.",
@@ -3223,7 +3883,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 294,
+    "id": 354,
     "question": "Under the European Climate Law, the Commission is required to propose an intermediate climate target for which year?",
     "options": [
       "2035.",
@@ -3234,7 +3894,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 295,
+    "id": 355,
     "question": "Which statement BEST reflects the distinction between legislative acts and non-legislative acts?",
     "options": [
       "Legislative acts may only be adopted by the Commission.",
@@ -3245,7 +3905,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 296,
+    "id": 356,
     "question": "Under the Digital Decade Policy Programme 2030, what is the target for households covered by a gigabit network?",
     "options": [
       "80%.",
@@ -3256,7 +3916,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 297,
+    "id": 357,
     "question": "Which institution decides whether to maintain, amend or withdraw a proposal after a subsidiarity \"yellow card\" procedure has been triggered?",
     "options": [
       "European Parliament.",
@@ -3267,7 +3927,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 298,
+    "id": 358,
     "question": "Under the Nature Restoration Regulation, by 2030 the EU aims to restore at least what proportion of areas covered by the Regulation that are in need of restoration?",
     "options": [
       "15%.",
@@ -3278,7 +3938,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 299,
+    "id": 359,
     "question": "Which statement BEST reflects the role of trilogues?",
     "options": [
       "They are mandatory under the Treaties before every legislative act.",
@@ -3289,7 +3949,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 300,
+    "id": 360,
     "question": "Which institution has the exclusive right to initiate Union legislation in most policy areas?",
     "options": [
       "European Parliament.",
@@ -3300,7 +3960,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 301,
+    "id": 361,
     "question": "Under the European Chips Act, what is the Union's stated objective regarding global semiconductor production by 2030?",
     "options": [
       "10%.",
@@ -3311,7 +3971,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 302,
+    "id": 362,
     "question": "Which statement BEST reflects the purpose of ex post evaluations under the Better Regulation Guidelines?",
     "options": [
       "To replace impact assessments.",
@@ -3322,7 +3982,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 303,
+    "id": 363,
     "question": "Under the EU Biodiversity Strategy for 2030, what proportion of the EU's land area should be legally protected?",
     "options": [
       "20%.",
@@ -3333,7 +3993,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 304,
+    "id": 364,
     "question": "Which statement BEST reflects the legal consequences where both the European Parliament and the Council object to a delegated act?",
     "options": [
       "The delegated act enters into force after six months.",
@@ -3344,7 +4004,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 305,
+    "id": 365,
     "question": "Under the EU Biodiversity Strategy for 2030, what proportion of the EU's sea area should be legally protected?",
     "options": [
       "20%.",
@@ -3355,7 +4015,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 306,
+    "id": 366,
     "question": "Which statement BEST reflects the role of the Regulatory Scrutiny Board?",
     "options": [
       "It adopts Commission legislative proposals.",
@@ -3366,7 +4026,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 307,
+    "id": 367,
     "question": "Under the EU Biodiversity Strategy for 2030, what proportion of protected areas should be under strict protection?",
     "options": [
       "5%.",
@@ -3377,7 +4037,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 308,
+    "id": 368,
     "question": "Which statement BEST reflects the role of the REFIT Platform's successor mechanisms within Better Regulation?",
     "options": [
       "They negotiate legislation with the Council.",
@@ -3388,7 +4048,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 309,
+    "id": 369,
     "question": "Under the Farm to Fork Strategy, what reduction target has been established for the overall use and risk of chemical pesticides by 2030?",
     "options": [
       "25%.",
@@ -3399,7 +4059,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 310,
+    "id": 370,
     "question": "Which statement BEST reflects the legal significance of the Commission's explanatory memoranda accompanying legislative proposals?",
     "options": [
       "They are legally binding on the Council.",
@@ -3410,7 +4070,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 311,
+    "id": 371,
     "question": "Under the Farm to Fork Strategy, what reduction target has been established for nutrient losses by 2030?",
     "options": [
       "25%.",
@@ -3421,7 +4081,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 312,
+    "id": 372,
     "question": "Under the revised TEN-T Regulation, by which year should the core TEN-T network generally be completed?",
     "options": [
       "2025.",
@@ -3432,7 +4092,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 313,
+    "id": 373,
     "question": "Which statement BEST reflects the legal effect of the principle of proportionality when drafting Union legislation?",
     "options": [
       "The Union must always adopt a Directive rather than a Regulation.",
@@ -3443,7 +4103,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 314,
+    "id": 374,
     "question": "Under the revised TEN-T Regulation, by which year should the extended core network generally be completed?",
     "options": [
       "2030.",
@@ -3454,7 +4114,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 315,
+    "id": 375,
     "question": "Which institution decides whether to object to a delegated act where the empowering legislation confers such a right?",
     "options": [
       "European Commission only.",
@@ -3465,7 +4125,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 316,
+    "id": 376,
     "question": "Under the revised TEN-T Regulation, by which year should the comprehensive network generally be completed?",
     "options": [
       "2040.",
@@ -3476,7 +4136,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 317,
+    "id": 377,
     "question": "Which statement BEST reflects the legal distinction between a Regulation and a Directive?",
     "options": [
       "Regulations require national implementing legislation in every case.",
@@ -3487,7 +4147,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 318,
+    "id": 378,
     "question": "Under the Alternative Fuels Infrastructure Regulation (AFIR), by 2030 hydrogen refuelling stations along the TEN-T core network should generally be available at intervals not exceeding:",
     "options": [
       "100 km.",
@@ -3498,7 +4158,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 319,
+    "id": 379,
     "question": "Which statement BEST reflects the Commission's right to amend its legislative proposal during the legislative process?",
     "options": [
       "It expires once the proposal is transmitted to Parliament.",
@@ -3509,7 +4169,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 320,
+    "id": 380,
     "question": "Under the Alternative Fuels Infrastructure Regulation (AFIR), by 2025 fast recharging infrastructure for light-duty vehicles on the TEN-T core network should generally be available at intervals not exceeding:",
     "options": [
       "40 km.",
@@ -3520,7 +4180,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 321,
+    "id": 381,
     "question": "Which statement BEST reflects the function of recitals in Union legislation?",
     "options": [
       "They have the same binding legal force as the articles.",
@@ -3531,7 +4191,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 322,
+    "id": 382,
     "question": "Under the Alternative Fuels Infrastructure Regulation (AFIR), by 2030 fast recharging infrastructure for light-duty vehicles on the TEN-T comprehensive network should generally be available at intervals not exceeding:",
     "options": [
       "80 km.",
@@ -3542,7 +4202,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 323,
+    "id": 383,
     "question": "Which statement BEST reflects the legal role of the Commission's explanatory memorandum accompanying a legislative proposal?",
     "options": [
       "It forms part of the legislative act once adopted.",
@@ -3553,7 +4213,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 324,
+    "id": 384,
     "question": "Under the Digital Decade Policy Programme 2030, what is the target for the number of ICT specialists employed in the Union by 2030?",
     "options": [
       "10 million.",
@@ -3564,7 +4224,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 325,
+    "id": 385,
     "question": "Which statement BEST reflects the role of the Commission after a legislative proposal has been rejected by the European Parliament at first reading?",
     "options": [
       "The Council may nevertheless adopt the proposal unchanged.",
@@ -3575,7 +4235,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 326,
+    "id": 386,
     "question": "Under the European Green Deal objectives, what is the target year for achieving zero pollution towards a toxic-free environment?",
     "options": [
       "2030.",
@@ -3586,7 +4246,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 327,
+    "id": 387,
     "question": "Which statement BEST reflects the purpose of stakeholder consultations under the Better Regulation framework?",
     "options": [
       "They are conducted only after the legislative proposal has been adopted.",
@@ -3597,7 +4257,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 328,
+    "id": 388,
     "question": "Under the Farm to Fork Strategy, what reduction target has been established for sales of antimicrobials for farmed animals and aquaculture by 2030?",
     "options": [
       "25%.",
@@ -3608,7 +4268,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 329,
+    "id": 389,
     "question": "Which statement BEST reflects the legal basis for adopting delegated acts?",
     "options": [
       "Article 291 TFEU.",
@@ -3619,7 +4279,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 330,
+    "id": 390,
     "question": "Under the Farm to Fork Strategy, what target has been established for the share of agricultural land under organic farming by 2030?",
     "options": [
       "15%.",
@@ -3630,7 +4290,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 331,
+    "id": 391,
     "question": "Which statement BEST reflects the legal basis for adopting implementing acts?",
     "options": [
       "Article 290 TFEU.",
@@ -3641,7 +4301,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 332,
+    "id": 392,
     "question": "Which institution normally exercises implementing powers under Article 291 TFEU?",
     "options": [
       "European Parliament.",
@@ -3652,7 +4312,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 333,
+    "id": 393,
     "question": "Under the European Climate Law, the Union's climate-neutrality objective applies to:",
     "options": [
       "Gross greenhouse gas emissions only.",
@@ -3663,7 +4323,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 334,
+    "id": 394,
     "question": "Which statement BEST reflects the purpose of comitology committees?",
     "options": [
       "They negotiate legislation with Parliament.",
@@ -3674,7 +4334,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 335,
+    "id": 395,
     "question": "Under the Energy Efficiency Directive, Member States are required collectively to contribute towards achieving the Union's 2030 energy efficiency target primarily through:",
     "options": [
       "Uniform national targets fixed by the Commission.",
@@ -3685,7 +4345,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 336,
+    "id": 396,
     "question": "Which statement BEST reflects the purpose of an impact assessment?",
     "options": [
       "To determine whether a proposal complies with Member States' constitutions.",
@@ -3696,7 +4356,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 337,
+    "id": 397,
     "question": "Under the European Climate Law, which institution is responsible for proposing the Union's 2040 climate target?",
     "options": [
       "European Parliament.",
@@ -3707,7 +4367,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 338,
+    "id": 398,
     "question": "Which statement BEST reflects the legal nature of an implementing Regulation?",
     "options": [
       "It supplements non-essential elements of a legislative act.",
@@ -3718,7 +4378,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 339,
+    "id": 399,
     "question": "Under the Digital Decade Policy Programme 2030, the target that all populated areas should be covered by 5G refers to achievement by:",
     "options": [
       "2025.",
@@ -3729,7 +4389,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 340,
+    "id": 400,
     "question": "Which statement BEST reflects the role of the Commission's Work Programme?",
     "options": [
       "It establishes legally binding obligations for the Council.",
@@ -3740,7 +4400,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 341,
+    "id": 401,
     "question": "Under the Digital Decade Policy Programme 2030, the objective of providing all households with gigabit connectivity is intended primarily to support:",
     "options": [
       "Harmonisation of telecommunications taxation.",
@@ -3751,7 +4411,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 342,
+    "id": 402,
     "question": "Under the Net-Zero Industry Act, what benchmark has been established for the Union's manufacturing capacity of strategic net-zero technologies by 2030?",
     "options": [
       "At least 20% of annual EU demand.",
@@ -3762,7 +4422,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 343,
+    "id": 403,
     "question": "Which statement BEST reflects the legal significance of the legal basis of a Union legislative act?",
     "options": [
       "It determines only the voting procedure in the Council.",
@@ -3773,7 +4433,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 344,
+    "id": 404,
     "question": "Under the Net-Zero Industry Act, permitting procedures for strategic net-zero projects are intended primarily to:",
     "options": [
       "Eliminate all environmental assessments.",
@@ -3784,7 +4444,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 345,
+    "id": 405,
     "question": "Which statement BEST reflects the ordinary legislative procedure at first reading if the Council approves the European Parliament's position?",
     "options": [
       "The proposal proceeds automatically to second reading.",
@@ -3795,7 +4455,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 346,
+    "id": 406,
     "question": "Under the Critical Raw Materials Act, what benchmark has been established for the Union's annual processing capacity by 2030?",
     "options": [
       "At least 20% of annual consumption.",
@@ -3806,7 +4466,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 347,
+    "id": 407,
     "question": "Which statement BEST reflects the Commission's role during trilogue negotiations?",
     "options": [
       "It acts as a third co-legislator with voting rights.",
@@ -3817,7 +4477,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 348,
+    "id": 408,
     "question": "Under the Critical Raw Materials Act, what benchmark has been established for the Union's annual extraction capacity by 2030?",
     "options": [
       "At least 5% of annual consumption.",
@@ -3828,7 +4488,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 349,
+    "id": 409,
     "question": "Which statement BEST reflects the relationship between Articles 290 and 291 TFEU?",
     "options": [
       "Both provisions regulate delegated acts.",
@@ -3839,7 +4499,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 350,
+    "id": 410,
     "question": "Under the Critical Raw Materials Act, what benchmark has been established for the Union's annual recycling capacity by 2030?",
     "options": [
       "At least 15% of annual consumption.",
@@ -3850,7 +4510,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 351,
+    "id": 411,
     "question": "Which statement BEST reflects the purpose of the Commission's evaluations under the Better Regulation Guidelines?",
     "options": [
       "To determine whether the Treaties require amendment.",
@@ -3861,7 +4521,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 352,
+    "id": 412,
     "question": "Under the Critical Raw Materials Act, dependency on a single third country for any strategic raw material should generally not exceed what proportion of the Union's annual consumption at any relevant stage of processing?",
     "options": [
       "50%.",
@@ -3872,7 +4532,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 353,
+    "id": 413,
     "question": "Which statement BEST reflects the legal effect of the Commission's annual Work Programme?",
     "options": [
       "It is legally binding upon the European Parliament.",
@@ -3883,7 +4543,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 354,
+    "id": 414,
     "question": "Under the European Climate Law, Member States collectively contribute to climate neutrality through measures adopted under:",
     "options": [
       "National constitutions.",
@@ -3894,7 +4554,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 355,
+    "id": 415,
     "question": "Which statement BEST reflects the purpose of sunset clauses in Union legislation where they are included?",
     "options": [
       "They automatically repeal all related Union legislation.",
@@ -3905,7 +4565,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 356,
+    "id": 416,
     "question": "Under the revised Energy Performance of Buildings Directive, Member States are required to pursue the objective of a zero-emission building stock by:",
     "options": [
       "2035.",
@@ -3916,7 +4576,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 357,
+    "id": 417,
     "question": "Which statement BEST reflects the purpose of recasting Union legislation?",
     "options": [
       "To repeal primary law.",
@@ -3927,7 +4587,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 358,
+    "id": 418,
     "question": "Under the revised Energy Performance of Buildings Directive, from which year must all new buildings generally be zero-emission buildings?",
     "options": [
       "2028.",
@@ -3938,7 +4598,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 359,
+    "id": 419,
     "question": "Which statement BEST reflects the difference between codification and recasting?",
     "options": [
       "Both always introduce substantive amendments.",
@@ -3949,7 +4609,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 360,
+    "id": 420,
     "question": "Under the revised Energy Performance of Buildings Directive, new buildings occupied or owned by public authorities must generally be zero-emission buildings from:",
     "options": [
       "2028.",
@@ -3960,7 +4620,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 361,
+    "id": 421,
     "question": "Which statement BEST reflects the Commission's responsibility under Article 17 TEU regarding the application of Union law?",
     "options": [
       "It acts as the final court of appeal for national courts.",
@@ -3971,7 +4631,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 362,
+    "id": 422,
     "question": "Under the European Climate Law, which institution is responsible for assessing the consistency of Union measures with the climate-neutrality objective?",
     "options": [
       "European Council.",
@@ -3982,7 +4642,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 363,
+    "id": 423,
     "question": "Which statement BEST reflects the legal consequences of a successful subsidiarity \"orange card\" procedure?",
     "options": [
       "The proposal is automatically withdrawn.",
@@ -3993,7 +4653,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 364,
+    "id": 424,
     "question": "Under the Critical Raw Materials Act, Strategic Projects are primarily intended to:",
     "options": [
       "replace national mining legislation.",
@@ -4004,7 +4664,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 365,
+    "id": 425,
     "question": "Which statement BEST reflects the role of the Commission's Regulatory Scrutiny Board regarding impact assessments?",
     "options": [
       "It approves legislative proposals.",
@@ -4015,7 +4675,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 366,
+    "id": 426,
     "question": "Under the European Climate Law, Union institutions and Member States are required to take the necessary measures to enable achievement of climate neutrality by:",
     "options": [
       "2040.",
@@ -4026,7 +4686,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 367,
+    "id": 427,
     "question": "Which statement BEST reflects the legal distinction between an amendment and a compromise amendment during the legislative process?",
     "options": [
       "Both may only be proposed by the Commission.",
@@ -4037,7 +4697,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 368,
+    "id": 428,
     "question": "Under the Nature Restoration Regulation, restoration measures are intended to progressively cover at least what proportion of ecosystems in need of restoration by 2040?",
     "options": [
       "45%.",
@@ -4048,7 +4708,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 369,
+    "id": 429,
     "question": "Which statement BEST reflects the legal role of Article 296 TFEU?",
     "options": [
       "It establishes the ordinary legislative procedure.",
@@ -4059,7 +4719,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 370,
+    "id": 430,
     "question": "Under the Nature Restoration Regulation, restoration measures should progressively cover at least what proportion of ecosystems in need of restoration by 2050?",
     "options": [
       "75%.",
@@ -4070,7 +4730,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 371,
+    "id": 431,
     "question": "Which statement BEST reflects the Commission's obligation regarding consultations under the Better Regulation Guidelines?",
     "options": [
       "Consultations are required only for Regulations.",
@@ -4081,7 +4741,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 372,
+    "id": 432,
     "question": "Under the European Green Deal, the ambition to decouple economic growth from resource use is closely associated with which strategy?",
     "options": [
       "Common Agricultural Policy.",
@@ -4092,7 +4752,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 373,
+    "id": 433,
     "question": "Which statement BEST reflects the legal role of recitals when interpreting Union legislation?",
     "options": [
       "They override the operative provisions whenever inconsistencies arise.",
@@ -4103,7 +4763,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 374,
+    "id": 434,
     "question": "Under the Circular Economy Action Plan, the Sustainable Products Initiative primarily seeks to:",
     "options": [
       "replace the internal market for goods.",
@@ -4114,7 +4774,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 375,
+    "id": 435,
     "question": "Which statement BEST reflects the legal significance of the principle of institutional balance?",
     "options": [
       "Every institution exercises identical powers.",
@@ -4125,7 +4785,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 376,
+    "id": 436,
     "question": "Under the European Chips Act, public and private investment mobilised is intended to contribute primarily to:",
     "options": [
       "replacing all semiconductor imports.",
@@ -4136,7 +4796,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 377,
+    "id": 437,
     "question": "Which statement BEST reflects the purpose of Article 114 TFEU?",
     "options": [
       "It establishes the legal basis for the Common Foreign and Security Policy.",
@@ -4147,7 +4807,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 378,
+    "id": 438,
     "question": "Under the Digital Decade Policy Programme, digitalisation of public services is intended to include universal online access to:",
     "options": [
       "customs declarations only.",
@@ -4158,7 +4818,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 379,
+    "id": 439,
     "question": "Which statement BEST reflects the Commission's role during second reading under the ordinary legislative procedure?",
     "options": [
       "The Commission ceases to participate once first reading has ended.",
@@ -4169,7 +4829,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 380,
+    "id": 440,
     "question": "Under the European Climate Law, Union institutions are expected to take into account which objective when adopting relevant measures?",
     "options": [
       "Achieving balanced national budgets.",
@@ -4180,7 +4840,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 381,
+    "id": 441,
     "question": "Which statement BEST reflects the legal role of the Commission as \"Guardian of the Treaties\"?",
     "options": [
       "It has the exclusive authority to interpret the Treaties.",
@@ -4191,7 +4851,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 382,
+    "id": 442,
     "question": "Under the revised Renewable Energy Directive, Member States must contribute to achieving which overall Union renewable energy target by 2030?",
     "options": [
       "40%.",
@@ -4202,7 +4862,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 383,
+    "id": 443,
     "question": "Which statement BEST reflects the legal role of the Commission after the European Parliament adopts amendments at first reading?",
     "options": [
       "The Commission is legally required to accept all amendments.",
@@ -4213,7 +4873,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 384,
+    "id": 444,
     "question": "Under the revised Renewable Energy Directive, Member States are encouraged to achieve what indicative share of renewable energy used in buildings by 2030?",
     "options": [
       "29%.",
@@ -4224,7 +4884,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 385,
+    "id": 445,
     "question": "Which statement BEST reflects the relationship between Articles 290 and 291 TFEU and the ordinary legislative procedure?",
     "options": [
       "Delegated and implementing acts are adopted through the ordinary legislative procedure.",
@@ -4235,7 +4895,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 386,
+    "id": 446,
     "question": "Under the Governance Regulation for the Energy Union, each Member State is required to prepare and periodically update:",
     "options": [
       "A National Climate Budget.",
@@ -4246,7 +4906,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 387,
+    "id": 447,
     "question": "Which statement BEST reflects the legal function of a legal basis in Union legislation?",
     "options": [
       "It determines only the institution responsible for implementation.",
@@ -4257,7 +4917,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 388,
+    "id": 448,
     "question": "Under the Governance Regulation, Integrated National Energy and Climate Plans cover what period?",
     "options": [
       "Five years.",
@@ -4268,7 +4928,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 389,
+    "id": 449,
     "question": "Which statement BEST reflects the Commission's role where a Member State fails to correctly transpose a Directive?",
     "options": [
       "The Commission may amend the national legislation directly.",
@@ -4279,7 +4939,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 390,
+    "id": 450,
     "question": "Under the Energy Efficiency Directive, Member States must collectively ensure an annual reduction in final energy consumption through the energy savings obligation. What is the annual rate for most of the period 2024–2030?",
     "options": [
       "1.5%.",
@@ -4290,7 +4950,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 391,
+    "id": 451,
     "question": "Which statement BEST reflects the distinction between primary and secondary Union law?",
     "options": [
       "Regulations form part of primary law.",
@@ -4301,7 +4961,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 392,
+    "id": 452,
     "question": "Under the European Climate Law, adaptation to climate change is intended to become:",
     "options": [
       "An exclusive Union competence.",
@@ -4312,7 +4972,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 393,
+    "id": 453,
     "question": "Which statement BEST reflects the legal significance of Article 17(1) TEU?",
     "options": [
       "It grants the Commission exclusive legislative authority.",
@@ -4323,7 +4983,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 394,
+    "id": 454,
     "question": "Under the Digital Decade Policy Programme 2030, digital transformation should be guided by which overarching principle?",
     "options": [
       "Market integration alone.",
@@ -4334,7 +4994,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 395,
+    "id": 455,
     "question": "Which statement BEST reflects the legal role of Article 5 TEU regarding subsidiarity?",
     "options": [
       "Subsidiarity applies to exclusive Union competences.",
@@ -4345,7 +5005,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 396,
+    "id": 456,
     "question": "Under the European Green Deal, the Renovation Wave strategy primarily aims to:",
     "options": [
       "Replace national housing policies.",
@@ -4356,7 +5016,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 397,
+    "id": 457,
     "question": "Which statement BEST reflects the purpose of ex post evaluations under the Better Regulation Guidelines?",
     "options": [
       "To approve future legislative proposals.",
@@ -4367,7 +5027,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 398,
+    "id": 458,
     "question": "Under the European Green Deal, sustainable finance policies are primarily intended to:",
     "options": [
       "Replace private investment with Union funding.",
@@ -4378,7 +5038,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 399,
+    "id": 459,
     "question": "Which statement BEST reflects the role of the Commission in ensuring the application of Union law?",
     "options": [
       "It acts as the final appellate court.",
@@ -4389,7 +5049,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 400,
+    "id": 460,
     "question": "Under the Circular Economy Action Plan, priority product value chains include:",
     "options": [
       "Only agricultural products.",
@@ -4400,7 +5060,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 401,
+    "id": 461,
     "question": "Which statement BEST reflects the legal purpose of delegated powers conferred on the Commission?",
     "options": [
       "To amend essential elements of legislative acts.",
@@ -4411,7 +5071,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 402,
+    "id": 462,
     "question": "Under the European Green Deal, the Just Transition Mechanism primarily seeks to:",
     "options": [
       "Replace cohesion policy.",
@@ -4422,7 +5082,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 403,
+    "id": 463,
     "question": "Which statement BEST reflects the function of implementing acts?",
     "options": [
       "They establish new policy objectives.",
@@ -4433,7 +5093,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 404,
+    "id": 464,
     "question": "Under the Digital Decade Policy Programme, digital identity is intended to enable citizens to:",
     "options": [
       "Vote electronically in all national elections.",
@@ -4444,7 +5104,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 405,
+    "id": 465,
     "question": "Which statement BEST reflects the Commission's role after the Council adopts its position at first reading?",
     "options": [
       "The Commission automatically withdraws its proposal.",
@@ -4455,7 +5115,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 406,
+    "id": 466,
     "question": "Under the European Climate Law, climate resilience refers primarily to:",
     "options": [
       "Increasing greenhouse gas emissions.",
@@ -4466,7 +5126,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 407,
+    "id": 467,
     "question": "Under Regulation (EU) 2024/1252 (Critical Raw Materials Act), what is the benchmark for the Union's annual extraction capacity of strategic raw materials by 2030?",
     "options": [
       "5% of annual Union consumption.",
@@ -4477,7 +5137,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 408,
+    "id": 468,
     "question": "Which statement BEST reflects the legal effect of Article 294 TFEU at the end of the second reading if the European Parliament rejects the Council's position?",
     "options": [
       "The proposal proceeds to conciliation automatically.",
@@ -4488,7 +5148,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 409,
+    "id": 469,
     "question": "Under the Energy Performance of Buildings Directive (recast), by which year should Member States renovate the 16% worst-performing non-residential buildings?",
     "options": [
       "2028.",
@@ -4499,7 +5159,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 410,
+    "id": 470,
     "question": "Which statement BEST reflects the legal meaning of \"essential elements\" in Union legislation?",
     "options": [
       "They may always be amended by delegated acts.",
@@ -4510,7 +5170,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 411,
+    "id": 471,
     "question": "Under the Energy Performance of Buildings Directive (recast), by which year should Member States renovate the 26% worst-performing non-residential buildings?",
     "options": [
       "2030.",
@@ -4521,7 +5181,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 412,
+    "id": 472,
     "question": "Which statement BEST reflects the Commission's powers during the ordinary legislative procedure after the Conciliation Committee has agreed on a joint text?",
     "options": [
       "The Commission formally adopts the legislative act.",
@@ -4532,7 +5192,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 413,
+    "id": 473,
     "question": "Under the Net-Zero Industry Act, Strategic Net-Zero Projects should benefit primarily from:",
     "options": [
       "exemption from environmental legislation.",
@@ -4543,7 +5203,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 414,
+    "id": 474,
     "question": "Which statement BEST reflects the legal function of Article 17(2) TEU?",
     "options": [
       "It grants the Commission exclusive competence in environmental policy.",
@@ -4554,7 +5214,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 415,
+    "id": 475,
     "question": "Under the Critical Raw Materials Act, Strategic Projects may concern which parts of the value chain?",
     "options": [
       "Extraction only.",
@@ -4565,7 +5225,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 416,
+    "id": 476,
     "question": "Which statement BEST reflects the relationship between Article 290 TFEU and Article 291 TFEU?",
     "options": [
       "Both concern implementing acts.",
@@ -4576,7 +5236,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 417,
+    "id": 477,
     "question": "Under the Digital Decade Policy Programme, by 2030 all populated areas should be covered by:",
     "options": [
       "Fibre only.",
@@ -4587,7 +5247,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 418,
+    "id": 478,
     "question": "Which statement BEST reflects the legal role of the Commission's opinion during second reading in the Council?",
     "options": [
       "It determines the legal basis of the act.",
@@ -4598,7 +5258,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 419,
+    "id": 479,
     "question": "Under the European Climate Law, the Commission is assisted by which independent scientific body when assessing climate progress?",
     "options": [
       "European Environment Agency.",
@@ -4609,7 +5269,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 420,
+    "id": 480,
     "question": "Which statement BEST reflects the concept of EU added value used in Better Regulation evaluations?",
     "options": [
       "Whether legislation generates budgetary savings only.",
@@ -4620,7 +5280,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 421,
+    "id": 481,
     "question": "Under the Renewable Energy Directive, renewable hydrogen used by industry is promoted primarily through targets concerning:",
     "options": [
       "final household consumption.",
@@ -4631,7 +5291,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 422,
+    "id": 482,
     "question": "Which statement BEST reflects the legal significance of choosing Article 114 TFEU as the legal basis?",
     "options": [
       "It automatically requires unanimity in the Council.",
@@ -4642,7 +5302,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 423,
+    "id": 483,
     "question": "Under the Digital Decade Policy Programme, public administrations are expected to provide citizens with access to key public services through:",
     "options": [
       "paper-based procedures only.",
@@ -4653,7 +5313,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 424,
+    "id": 484,
     "question": "Which statement BEST reflects the role of explanatory memoranda accompanying Commission proposals?",
     "options": [
       "They become legally binding once the act is adopted.",
@@ -4664,7 +5324,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 425,
+    "id": 485,
     "question": "Under the Energy Efficiency Directive, the \"energy efficiency first\" principle requires policymakers primarily to:",
     "options": [
       "prioritise renewable energy over all other measures.",
@@ -4675,7 +5335,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 426,
+    "id": 486,
     "question": "Which statement BEST reflects the legal purpose of implementing Regulations?",
     "options": [
       "They establish new Union competences.",
@@ -4686,7 +5346,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 427,
+    "id": 487,
     "question": "Under the Circular Economy Action Plan, which sector is explicitly identified as one of the priority value chains?",
     "options": [
       "Insurance.",
@@ -4697,7 +5357,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 428,
+    "id": 488,
     "question": "Which statement BEST reflects the Commission's role in monitoring the application of Directives?",
     "options": [
       "It transposes Directives into national law.",
@@ -4708,7 +5368,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 429,
+    "id": 489,
     "question": "Under the European Climate Law, climate neutrality refers to balancing:",
     "options": [
       "carbon dioxide emissions only.",
@@ -4719,7 +5379,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 430,
+    "id": 490,
     "question": "Which statement BEST reflects the legal effect of a Commission proposal before adoption by the legislator?",
     "options": [
       "It is binding upon Member States.",
@@ -4730,7 +5390,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 431,
+    "id": 491,
     "question": "Under the Net-Zero Industry Act, the overall objective of the Regulation is primarily to strengthen:",
     "options": [
       "agricultural competitiveness.",
@@ -4741,7 +5401,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 432,
+    "id": 492,
     "question": "Under the European Climate Law, which institution is required to assess the consistency of draft Union measures with the climate-neutrality objective?",
     "options": [
       "European Parliament.",
@@ -4752,7 +5412,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 433,
+    "id": 493,
     "question": "Which statement BEST reflects the role of the Commission's Legal Service during the preparation of legislative proposals?",
     "options": [
       "It approves proposals on behalf of the Council.",
@@ -4763,7 +5423,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 434,
+    "id": 494,
     "question": "Under the Critical Raw Materials Act, Strategic Projects may benefit from coordinated access to:",
     "options": [
       "ECB refinancing operations.",
@@ -4774,7 +5434,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 435,
+    "id": 495,
     "question": "Which statement BEST reflects the purpose of Article 192 TFEU?",
     "options": [
       "It provides the legal basis for competition policy.",
@@ -4785,7 +5445,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 436,
+    "id": 496,
     "question": "Under the Energy Efficiency Directive, public bodies are expected to play a leading role primarily by:",
     "options": [
       "reducing VAT on energy-efficient products.",
@@ -4796,7 +5456,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 437,
+    "id": 497,
     "question": "Which statement BEST reflects the legal significance of the choice between Article 114 and Article 192 TFEU as a legal basis?",
     "options": [
       "The choice is purely political.",
@@ -4807,7 +5467,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 438,
+    "id": 498,
     "question": "Under the European Green Deal, the Circular Economy Action Plan aims primarily to reduce:",
     "options": [
       "public debt.",
@@ -4818,7 +5478,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 439,
+    "id": 499,
     "question": "Which statement BEST reflects the principle established by the Court of Justice in Case C-376/98 (Tobacco Advertising I) regarding Article 114 TFEU?",
     "options": [
       "Article 114 may be used for any policy objective.",
@@ -4829,7 +5489,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 440,
+    "id": 500,
     "question": "Under the Governance Regulation, Member States must submit progress reports on the implementation of their National Energy and Climate Plans at regular intervals. These are known as:",
     "options": [
       "National Climate Assessments.",
@@ -4840,7 +5500,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 441,
+    "id": 501,
     "question": "Which statement BEST reflects the role of proportionality in judicial review before the Court of Justice?",
     "options": [
       "The Court never reviews compliance with proportionality.",
@@ -4851,7 +5511,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 442,
+    "id": 502,
     "question": "Under the Renewable Energy Directive, permitting procedures for renewable energy projects have been simplified primarily in order to:",
     "options": [
       "eliminate environmental assessments.",
@@ -4862,7 +5522,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 443,
+    "id": 503,
     "question": "Which statement BEST reflects the role of impact assessments in the legislative process?",
     "options": [
       "They bind Parliament and the Council.",
@@ -4873,7 +5533,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 444,
+    "id": 504,
     "question": "Under the Critical Raw Materials Act, diversification benchmarks are intended primarily to reduce:",
     "options": [
       "inflation.",
@@ -4884,7 +5544,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 445,
+    "id": 505,
     "question": "Which statement BEST reflects the relationship between the principles of subsidiarity and proportionality?",
     "options": [
       "They are identical legal principles.",
@@ -4895,7 +5555,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 446,
+    "id": 506,
     "question": "Under the Digital Decade Policy Programme, the digital transformation should contribute to strengthening:",
     "options": [
       "monetary union only.",
@@ -4906,7 +5566,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 447,
+    "id": 507,
     "question": "Which statement BEST reflects the legal importance of stating reasons under Article 296 TFEU?",
     "options": [
       "It is optional for legislative acts.",
@@ -4917,7 +5577,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 448,
+    "id": 508,
     "question": "Under the European Climate Law, adaptation policies are intended to become:",
     "options": [
       "optional after 2040.",
@@ -4928,7 +5588,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 449,
+    "id": 509,
     "question": "Which statement BEST reflects the Commission's role during the implementation phase of Union legislation?",
     "options": [
       "It replaces national administrations.",
@@ -4939,7 +5599,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 450,
+    "id": 510,
     "question": "Under the Net-Zero Industry Act, one objective of Net-Zero Acceleration Valleys is to:",
     "options": [
       "centralise all industrial permitting at Union level.",
@@ -4950,7 +5610,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 451,
+    "id": 511,
     "question": "Which statement BEST reflects the legal function of Article 191 TFEU?",
     "options": [
       "It establishes the ECB.",
@@ -4961,7 +5621,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 452,
+    "id": 512,
     "question": "Under the Farm to Fork Strategy, reducing nutrient losses is intended to contribute directly to reducing the use of fertilisers by at least:",
     "options": [
       "10%.",
@@ -4972,7 +5632,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 453,
+    "id": 513,
     "question": "Which statement BEST reflects the precautionary principle under Article 191 TFEU?",
     "options": [
       "Preventive measures may be adopted only after scientific certainty has been established.",
@@ -4983,7 +5643,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 454,
+    "id": 514,
     "question": "Under the Energy Performance of Buildings Directive, Member States are encouraged to support the deployment of:",
     "options": [
       "coal-fired district heating.",
@@ -4994,7 +5654,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 455,
+    "id": 515,
     "question": "Which statement BEST reflects the legal role of Article 11 TFEU?",
     "options": [
       "It establishes the European Parliament.",
@@ -5005,7 +5665,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 456,
+    "id": 516,
     "question": "Under the European Climate Law, climate neutrality is to be achieved while pursuing which additional objective?",
     "options": [
       "Uniform taxation.",
@@ -5016,7 +5676,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 457,
+    "id": 517,
     "question": "Which statement BEST reflects the Court of Justice's approach to selecting the legal basis of Union legislation?",
     "options": [
       "The Council determines the legal basis by political agreement.",
@@ -5027,7 +5687,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 458,
+    "id": 518,
     "question": "Under the Circular Economy Action Plan, sustainable products policy is intended to increase product:",
     "options": [
       "taxation.",
@@ -5038,7 +5698,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 459,
+    "id": 519,
     "question": "Which statement BEST reflects the role of the Commission under Article 17 TEU regarding the Union budget?",
     "options": [
       "It adopts the budget alone.",
@@ -5049,7 +5709,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 460,
+    "id": 520,
     "question": "Under the Renewable Energy Directive, the concept of \"renewables acceleration areas\" is primarily intended to:",
     "options": [
       "exempt renewable projects from environmental law.",
@@ -5060,7 +5720,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 461,
+    "id": 521,
     "question": "Which statement BEST reflects the legal purpose of Article 17(8) TEU?",
     "options": [
       "It establishes the ordinary legislative procedure.",
@@ -5071,7 +5731,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 462,
+    "id": 522,
     "question": "Under Article 294 TFEU, if the Council does not approve all amendments adopted by the European Parliament at second reading, what is the next procedural step?",
     "options": [
       "The proposal is deemed rejected.",
@@ -5082,7 +5742,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 463,
+    "id": 523,
     "question": "Which statement BEST reflects the distinction between delegated and implementing acts regarding control by Member States?",
     "options": [
       "Member States control delegated acts through comitology committees.",
@@ -5093,7 +5753,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 464,
+    "id": 524,
     "question": "Under Regulation (EU) 2021/1119 (European Climate Law), the Commission must take into account recommendations from which body when preparing climate-related measures?",
     "options": [
       "European Environment Agency.",
@@ -5104,7 +5764,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 465,
+    "id": 525,
     "question": "Which statement BEST reflects the Commission's powers once the Council has unanimously amended a Commission proposal during the legislative procedure?",
     "options": [
       "The Commission may veto the amendments.",
@@ -5115,7 +5775,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 466,
+    "id": 526,
     "question": "Under the Net-Zero Industry Act, the benchmark of 40% refers to:",
     "options": [
       "the share of renewable electricity in final energy consumption.",
@@ -5126,7 +5786,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 467,
+    "id": 527,
     "question": "Which statement BEST reflects the purpose of Article 5 of the Protocol on Subsidiarity and Proportionality?",
     "options": [
       "It obliges the Commission to consult only Member States.",
@@ -5137,7 +5797,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 468,
+    "id": 528,
     "question": "Under the Critical Raw Materials Act, Strategic Projects may be located:",
     "options": [
       "only within the territory of the European Union.",
@@ -5148,7 +5808,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 469,
+    "id": 529,
     "question": "Which statement BEST reflects the legal role of Article 13(2) TEU?",
     "options": [
       "It establishes the ordinary legislative procedure.",
@@ -5159,7 +5819,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 470,
+    "id": 530,
     "question": "Under the revised Renewable Energy Directive, permitting procedures for renewable energy projects are generally presumed to be in the overriding public interest primarily for the purposes of:",
     "options": [
       "taxation rules.",
@@ -5170,7 +5830,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 471,
+    "id": 531,
     "question": "Which statement BEST reflects the concept of institutional autonomy under Union law?",
     "options": [
       "Institutions may exercise any power they consider necessary.",
@@ -5181,7 +5841,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 472,
+    "id": 532,
     "question": "Under the Digital Decade Policy Programme, monitoring of progress towards the 2030 targets is primarily based on:",
     "options": [
       "annual reports of the European Council.",
@@ -5192,7 +5852,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 473,
+    "id": 533,
     "question": "Which statement BEST reflects the legal significance of the Meroni doctrine?",
     "options": [
       "Union institutions may freely delegate discretionary powers to agencies.",
@@ -5203,7 +5863,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 474,
+    "id": 534,
     "question": "Under the European Climate Law, the Union's climate-neutrality objective concerns emissions and removals occurring:",
     "options": [
       "only within the ETS sectors.",
@@ -5214,7 +5874,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 475,
+    "id": 535,
     "question": "Which statement BEST reflects the purpose of an implementing Decision under Article 291 TFEU?",
     "options": [
       "To amend essential provisions of a legislative act.",
@@ -5225,7 +5885,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 476,
+    "id": 536,
     "question": "Under the revised Energy Performance of Buildings Directive, Member States are required to develop National Building Renovation Plans with a view to achieving:",
     "options": [
       "zero-energy buildings by 2035.",
@@ -5236,7 +5896,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 477,
+    "id": 537,
     "question": "Which statement BEST reflects the legal effect of Article 17(3) TEU concerning Commissioners?",
     "options": [
       "Commissioners represent the governments of their Member States.",
@@ -5247,7 +5907,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 478,
+    "id": 538,
     "question": "Under the Net-Zero Industry Act, one objective of Net-Zero Regulatory Sandboxes is to:",
     "options": [
       "exempt undertakings permanently from Union legislation.",
@@ -5258,7 +5918,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 479,
+    "id": 539,
     "question": "Which statement BEST reflects the relationship between Article 17 TEU and Article 294 TFEU?",
     "options": [
       "Both regulate the appointment of the Commission.",
@@ -5269,7 +5929,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 480,
+    "id": 540,
     "question": "Under the Critical Raw Materials Act, the purpose of establishing benchmarks for extraction, processing and recycling is primarily to:",
     "options": [
       "harmonise mining taxes.",
@@ -5280,7 +5940,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 481,
+    "id": 541,
     "question": "Which statement BEST reflects the legal relationship between the Commission's monopoly of legislative initiative and the ordinary legislative procedure?",
     "options": [
       "Parliament and the Council may freely replace Commission proposals with entirely new legislative initiatives at any stage.",
@@ -5291,7 +5951,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 482,
+    "id": 542,
     "question": "Under Article 294 TFEU, if the Conciliation Committee fails to approve a joint text within the prescribed period, the legislative act:",
     "options": [
       "returns automatically to first reading.",
@@ -5302,7 +5962,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 483,
+    "id": 543,
     "question": "Which statement BEST reflects the legal distinction between a codification and a consolidation of Union legislation?",
     "options": [
       "Both may introduce substantive amendments.",
@@ -5313,7 +5973,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 484,
+    "id": 544,
     "question": "Under Regulation (EU) 2023/1115 on deforestation-free products, operators must primarily ensure that relevant commodities are:",
     "options": [
       "produced only within the European Union.",
@@ -5324,7 +5984,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 485,
+    "id": 545,
     "question": "Which statement BEST reflects the role of Article 352 TFEU?",
     "options": [
       "It permits the Union to legislate in any field.",
@@ -5335,7 +5995,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 486,
+    "id": 546,
     "question": "Under Regulation (EU) 2023/1115, due diligence statements must generally be submitted:",
     "options": [
       "after products have been placed on the market.",
@@ -5346,7 +6006,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 487,
+    "id": 547,
     "question": "Which statement BEST reflects the role of Article 114 TFEU in the case law of the Court of Justice?",
     "options": [
       "It may never be used where public health objectives are pursued.",
@@ -5357,7 +6017,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 488,
+    "id": 548,
     "question": "Under the EU Deforestation Regulation, which of the following commodities falls within its scope?",
     "options": [
       "Cotton.",
@@ -5368,7 +6028,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 489,
+    "id": 549,
     "question": "Which statement BEST reflects the legal significance of Article 4(3) TEU?",
     "options": [
       "It establishes the principle of proportionality.",
@@ -5379,7 +6039,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 490,
+    "id": 550,
     "question": "Under the EU Deforestation Regulation, products covered by the Regulation must originate from land that has not been subject to deforestation after:",
     "options": [
       "1 January 2015.",
@@ -5390,7 +6050,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 491,
+    "id": 551,
     "question": "Which statement BEST reflects the Commission's power under Article 17 TEU in relation to external representation?",
     "options": [
       "The Commission represents the Union in all areas without exception.",
@@ -5401,7 +6061,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 492,
+    "id": 552,
     "question": "Under the AI Act, AI systems are primarily regulated according to:",
     "options": [
       "their Member State of origin.",
@@ -5412,7 +6072,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 493,
+    "id": 553,
     "question": "Which statement BEST reflects the legal meaning of \"shared competence\" under Article 2 TFEU?",
     "options": [
       "The Union and Member States legislate simultaneously in every case.",
@@ -5423,7 +6083,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 494,
+    "id": 554,
     "question": "Under the AI Act, which category of AI systems is subject to the most extensive regulatory obligations?",
     "options": [
       "Minimal-risk AI systems.",
@@ -5434,7 +6094,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 495,
+    "id": 555,
     "question": "Which statement BEST reflects the legal function of Article 191(2) TFEU?",
     "options": [
       "It establishes the ordinary legislative procedure.",
@@ -5445,7 +6105,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 496,
+    "id": 556,
     "question": "Under the AI Act, certain AI practices are prohibited primarily because they are considered to present:",
     "options": [
       "excessive economic costs.",
@@ -5456,7 +6116,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 497,
+    "id": 557,
     "question": "Which statement BEST reflects the legal effect of Article 288 TFEU regarding Decisions addressed to specific addressees?",
     "options": [
       "They are directly applicable to all Member States.",
@@ -5467,7 +6127,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 498,
+    "id": 558,
     "question": "Under the AI Act, conformity assessments for many high-risk AI systems are intended primarily to ensure:",
     "options": [
       "commercial profitability.",
@@ -5478,7 +6138,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 499,
+    "id": 559,
     "question": "Which statement BEST reflects the principle of conferral under Article 5 TEU?",
     "options": [
       "The Union determines the limits of its own competences.",
@@ -5489,7 +6149,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 500,
+    "id": 560,
     "question": "Under the AI Act, providers of high-risk AI systems are generally required to establish:",
     "options": [
       "monetary policy safeguards.",
@@ -5500,7 +6160,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 501,
+    "id": 561,
     "question": "Which statement BEST reflects the relationship between Articles 5 TEU and 13 TEU?",
     "options": [
       "Article 13 allows institutions to exercise powers beyond those conferred by Article 5.",
@@ -5511,7 +6171,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 502,
+    "id": 562,
     "question": "Under Regulation (EU) 2024/1689 (AI Act), which category of AI systems is subject to the most extensive ex ante conformity assessment requirements?",
     "options": [
       "Limited-risk AI systems.",
@@ -5522,7 +6182,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 503,
+    "id": 563,
     "question": "Which statement BEST reflects the legal distinction between a Regulation adopted under Article 114 TFEU and a Directive adopted under the same legal basis?",
     "options": [
       "Both require transposition into national law.",
@@ -5533,7 +6193,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 504,
+    "id": 564,
     "question": "Under the AI Act, providers of high-risk AI systems must generally retain technical documentation for at least:",
     "options": [
       "Five years.",
@@ -5544,7 +6204,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 505,
+    "id": 565,
     "question": "Which statement BEST reflects the legal purpose of Article 263 TFEU?",
     "options": [
       "It establishes the preliminary ruling procedure.",
@@ -5555,7 +6215,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 506,
+    "id": 566,
     "question": "Under the AI Act, providers of high-risk AI systems are generally required to establish which of the following before placing the system on the market?",
     "options": [
       "A financial compensation scheme.",
@@ -5566,7 +6226,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 507,
+    "id": 567,
     "question": "Which statement BEST reflects the legal function of Article 265 TFEU?",
     "options": [
       "It allows the Court to review the legality of adopted acts.",
@@ -5577,7 +6237,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 508,
+    "id": 568,
     "question": "Under the AI Act, high-risk AI systems must be designed and developed to achieve an appropriate level of:",
     "options": [
       "commercial profitability.",
@@ -5588,7 +6248,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 509,
+    "id": 569,
     "question": "Which statement BEST reflects the role of the Court of Justice in ensuring institutional balance?",
     "options": [
       "It may redistribute competences between institutions whenever politically necessary.",
@@ -5599,7 +6259,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 510,
+    "id": 570,
     "question": "Under the AI Act, human oversight requirements are primarily intended to:",
     "options": [
       "eliminate the use of automated systems.",
@@ -5610,7 +6270,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 511,
+    "id": 571,
     "question": "Which statement BEST reflects the legal significance of Article 296 TFEU?",
     "options": [
       "Every Union act must contain a sunset clause.",
@@ -5621,7 +6281,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 512,
+    "id": 572,
     "question": "Under the AI Act, prohibited AI practices include certain systems using:",
     "options": [
       "predictive maintenance.",
@@ -5632,7 +6292,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 513,
+    "id": 573,
     "question": "Which statement BEST reflects the relationship between Articles 290 and 291 TFEU according to the Court of Justice?",
     "options": [
       "The Commission may freely choose whether to adopt delegated or implementing acts.",
@@ -5643,7 +6303,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 514,
+    "id": 574,
     "question": "Under the AI Act, transparency obligations apply particularly to AI systems that:",
     "options": [
       "are used exclusively for scientific research.",
@@ -5654,7 +6314,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 515,
+    "id": 575,
     "question": "Which statement BEST reflects the legal effect of a Regulation published in the Official Journal without a specific date of application?",
     "options": [
       "It applies immediately upon signature.",
@@ -5665,7 +6325,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 516,
+    "id": 576,
     "question": "Under the AI Act, market surveillance authorities are primarily responsible for:",
     "options": [
       "negotiating AI legislation.",
@@ -5676,7 +6336,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 517,
+    "id": 577,
     "question": "Which statement BEST reflects the legal purpose of Article 267 TFEU?",
     "options": [
       "It establishes judicial review of Union institutions.",
@@ -5687,7 +6347,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 518,
+    "id": 578,
     "question": "Under the AI Act, providers of general-purpose AI models with systemic risk are subject to additional obligations primarily concerning:",
     "options": [
       "customs procedures.",
@@ -5698,7 +6358,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 519,
+    "id": 579,
     "question": "Which statement BEST reflects the relationship between Article 267 TFEU and national courts of last instance?",
     "options": [
       "They may never refer questions to the Court of Justice.",
@@ -5709,7 +6369,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 520,
+    "id": 580,
     "question": "Under the AI Act, regulatory sandboxes are primarily intended to:",
     "options": [
       "exempt AI providers permanently from Union law.",
@@ -5720,7 +6380,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 521,
+    "id": 581,
     "question": "Which statement BEST reflects the legal purpose of Article 4(3) TEU in relation to the implementation of Union law?",
     "options": [
       "Member States may disregard Union law where national interests require.",
@@ -5731,7 +6391,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 522,
+    "id": 582,
     "question": "Under the AI Act, providers of high-risk AI systems must establish a post-market monitoring system that is intended primarily to:",
     "options": [
       "determine commercial profitability.",
@@ -5742,7 +6402,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 523,
+    "id": 583,
     "question": "Which statement BEST reflects the legal significance of Article 114 TFEU in the Court's case law?",
     "options": [
       "It may be used whenever a measure produces economic effects.",
@@ -5753,7 +6413,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 524,
+    "id": 584,
     "question": "Under the AI Act, importers of high-risk AI systems must verify, before placing a system on the Union market, that the provider has:",
     "options": [
       "obtained approval from the European Parliament.",
@@ -5764,7 +6424,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 525,
+    "id": 585,
     "question": "Which statement BEST reflects the legal effect of Article 5(4) TEU concerning proportionality?",
     "options": [
       "Union institutions may always choose the most far-reaching measure available.",
@@ -5775,7 +6435,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 526,
+    "id": 586,
     "question": "Under Regulation (EU) 2023/1542 on batteries and waste batteries, by 2031 the minimum lithium recovery target from waste batteries is:",
     "options": [
       "50%.",
@@ -5786,7 +6446,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 527,
+    "id": 587,
     "question": "Which statement BEST reflects the distinction between direct applicability and direct effect?",
     "options": [
       "They are identical concepts.",
@@ -5797,7 +6457,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 528,
+    "id": 588,
     "question": "Under the Batteries Regulation, the minimum collection target for portable waste batteries by 2030 is:",
     "options": [
       "63%.",
@@ -5808,7 +6468,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 529,
+    "id": 589,
     "question": "Which statement BEST reflects the legal purpose of Article 258 TFEU?",
     "options": [
       "It empowers the Court of Justice to annul Union acts.",
@@ -5819,7 +6479,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 530,
+    "id": 590,
     "question": "Under the Batteries Regulation, the minimum collection target for portable waste batteries by 2027 is:",
     "options": [
       "55%.",
@@ -5830,7 +6490,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 531,
+    "id": 591,
     "question": "Which statement BEST reflects the role of the Commission in ensuring uniform implementation of Union law?",
     "options": [
       "It adopts all implementing measures without any Member State involvement.",
@@ -5841,7 +6501,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 532,
+    "id": 592,
     "question": "Under Regulation (EU) No 182/2011, the examination procedure is generally used where implementing acts concern:",
     "options": [
       "purely administrative matters.",
@@ -5852,7 +6512,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 533,
+    "id": 593,
     "question": "Which statement BEST reflects the legal distinction between delegated powers and implementing powers?",
     "options": [
       "Delegated powers are exercised by the Council.",
@@ -5863,7 +6523,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 534,
+    "id": 594,
     "question": "Under Regulation (EU) No 182/2011, under the examination procedure, a negative opinion of the committee generally means that the Commission:",
     "options": [
       "must adopt the draft implementing act.",
@@ -5874,7 +6534,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 535,
+    "id": 595,
     "question": "Which statement BEST reflects the legal purpose of the advisory procedure under Regulation (EU) No 182/2011?",
     "options": [
       "The committee's opinion is legally binding.",
@@ -5885,7 +6545,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 536,
+    "id": 596,
     "question": "Under the Better Regulation Guidelines, the \"evaluate first\" principle encourages the Commission primarily to:",
     "options": [
       "avoid proposing new legislation.",
@@ -5896,7 +6556,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 537,
+    "id": 597,
     "question": "Which statement BEST reflects the relationship between impact assessments and political decision-making?",
     "options": [
       "Impact assessments determine the final legislative outcome.",
@@ -5907,7 +6567,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 538,
+    "id": 598,
     "question": "Under Regulation (EU) 2021/1060 (Common Provisions Regulation), cohesion policy is implemented through programmes agreed between the Commission and:",
     "options": [
       "the European Parliament.",
@@ -5918,7 +6578,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 539,
+    "id": 599,
     "question": "Which statement BEST reflects the legal significance of Protocol No 2 on subsidiarity and proportionality?",
     "options": [
       "It establishes the ordinary legislative procedure.",
@@ -5929,7 +6589,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 540,
+    "id": 600,
     "question": "Under the Common Provisions Regulation 2021–2027, Partnership Agreements are concluded between the Commission and:",
     "options": [
       "the Council.",
@@ -5940,7 +6600,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 541,
+    "id": 601,
     "question": "Which statement BEST reflects the purpose of the Commission's Better Regulation Toolbox?",
     "options": [
       "To establish legally binding procedural obligations on Member States.",
@@ -5951,7 +6611,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 542,
+    "id": 602,
     "question": "Under Regulation (EU) 2021/1060 (Common Provisions Regulation), the partnership principle requires Member States to involve:",
     "options": [
       "Only the European Commission.",
@@ -5962,7 +6622,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 543,
+    "id": 603,
     "question": "Which statement BEST reflects the legal distinction between exclusive external competence and shared external competence?",
     "options": [
       "The Union always shares external competence with Member States.",
@@ -5973,7 +6633,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 544,
+    "id": 604,
     "question": "Under the Common Provisions Regulation, which principle requires that Union funding should complement, rather than replace, national public expenditure?",
     "options": [
       "Partnership.",
@@ -5984,7 +6644,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 545,
+    "id": 605,
     "question": "Which statement BEST reflects the purpose of Article 3 TEU?",
     "options": [
       "It establishes the ordinary legislative procedure.",
@@ -5995,7 +6655,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 546,
+    "id": 606,
     "question": "Under the Common Provisions Regulation 2021–2027, programmes financed by cohesion policy are generally monitored by:",
     "options": [
       "The Court of Justice.",
@@ -6006,7 +6666,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 547,
+    "id": 607,
     "question": "Which statement BEST reflects the principle of sincere cooperation in relation to Union institutions?",
     "options": [
       "It applies only to Member States.",
@@ -6017,7 +6677,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 548,
+    "id": 608,
     "question": "Under Regulation (EU, Euratom) 2024/2509 (Financial Regulation), the principle of sound financial management is based on:",
     "options": [
       "Legality, transparency and proportionality.",
@@ -6028,7 +6688,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 549,
+    "id": 609,
     "question": "Which statement BEST reflects the legal role of Article 317 TFEU?",
     "options": [
       "It establishes the Multiannual Financial Framework.",
@@ -6039,7 +6699,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 550,
+    "id": 610,
     "question": "Under the Financial Regulation, the accounting officer of the Commission is primarily responsible for:",
     "options": [
       "Approving all procurement procedures.",
@@ -6050,7 +6710,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 551,
+    "id": 611,
     "question": "Which statement BEST reflects the distinction between commitment appropriations and payment appropriations?",
     "options": [
       "There is no legal distinction.",
@@ -6061,7 +6721,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 552,
+    "id": 612,
     "question": "Under the Own Resources Decision currently in force, the Union budget is financed primarily through:",
     "options": [
       "Direct Union taxation.",
@@ -6072,7 +6732,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 553,
+    "id": 613,
     "question": "Which statement BEST reflects the legal purpose of Article 311 TFEU?",
     "options": [
       "It governs the discharge procedure.",
@@ -6083,7 +6743,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 554,
+    "id": 614,
     "question": "Under the Financial Regulation, authorising officers are primarily responsible for:",
     "options": [
       "Interpreting Union law.",
@@ -6094,7 +6754,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 555,
+    "id": 615,
     "question": "Which statement BEST reflects the legal relationship between the Multiannual Financial Framework and the annual budget?",
     "options": [
       "The annual budget may exceed MFF ceilings without restriction.",
@@ -6105,7 +6765,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 556,
+    "id": 616,
     "question": "Under Article 312 TFEU, the Multiannual Financial Framework is established for a period of at least:",
     "options": [
       "Five years.",
@@ -6116,7 +6776,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 557,
+    "id": 617,
     "question": "Which statement BEST reflects the role of the European Parliament in the discharge procedure?",
     "options": [
       "It audits Union accounts.",
@@ -6127,7 +6787,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 558,
+    "id": 618,
     "question": "Under the Financial Regulation, the principle of transparency primarily requires:",
     "options": [
       "Equal geographical distribution of expenditure.",
@@ -6138,7 +6798,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 559,
+    "id": 619,
     "question": "Which statement BEST reflects the legal purpose of Article 322 TFEU?",
     "options": [
       "It establishes the European Court of Auditors.",
@@ -6149,7 +6809,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 560,
+    "id": 620,
     "question": "Under the Financial Regulation, decentralised agencies generally receive funding through:",
     "options": [
       "National budgets only.",
@@ -6160,7 +6820,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 561,
+    "id": 621,
     "question": "Which statement BEST reflects the principle of annuality in the Union budget?",
     "options": [
       "Budget appropriations remain available indefinitely.",
@@ -6171,7 +6831,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 562,
+    "id": 622,
     "question": "Under Article 314 TFEU, if the European Parliament and the Council fail to agree on the annual budget after conciliation, the Commission must:",
     "options": [
       "Implement the previous year's budget without limitation.",
@@ -6182,7 +6842,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 563,
+    "id": 623,
     "question": "Which statement BEST reflects the distinction between assigned revenue and general revenue in the Union budget?",
     "options": [
       "Assigned revenue may only originate from Member States.",
@@ -6193,7 +6853,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 564,
+    "id": 624,
     "question": "Under Regulation (EU) 2021/241 establishing the Recovery and Resilience Facility, at least what percentage of each national Recovery and Resilience Plan must support climate objectives?",
     "options": [
       "30%.",
@@ -6204,7 +6864,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 565,
+    "id": 625,
     "question": "Which statement BEST reflects the legal function of Article 122 TFEU?",
     "options": [
       "It establishes the own resources system.",
@@ -6215,7 +6875,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 566,
+    "id": 626,
     "question": "Under the Recovery and Resilience Facility, at least what percentage of expenditure in each national plan must support the digital transition?",
     "options": [
       "15%.",
@@ -6226,7 +6886,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 567,
+    "id": 627,
     "question": "Which statement BEST reflects the legal role of milestones and targets under the Recovery and Resilience Facility?",
     "options": [
       "They are indicative political objectives only.",
@@ -6237,7 +6897,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 568,
+    "id": 628,
     "question": "Under Regulation (EU) 2021/241, financial contributions under the Recovery and Resilience Facility are generally disbursed:",
     "options": [
       "annually in equal instalments.",
@@ -6248,7 +6908,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 569,
+    "id": 629,
     "question": "Which statement BEST reflects the legal purpose of the \"Do No Significant Harm\" principle in the Recovery and Resilience Facility?",
     "options": [
       "It prohibits all infrastructure investment.",
@@ -6259,7 +6919,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 570,
+    "id": 630,
     "question": "Under the Recovery and Resilience Facility Regulation, national Recovery and Resilience Plans are assessed by the Commission and subsequently approved by:",
     "options": [
       "the European Parliament.",
@@ -6270,7 +6930,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 571,
+    "id": 631,
     "question": "Which statement BEST reflects the legal basis of the Recovery and Resilience Facility?",
     "options": [
       "Article 114 TFEU only.",
@@ -6281,7 +6941,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 572,
+    "id": 632,
     "question": "Under the Stability and Growth Pact as reformed in 2024, the medium-term fiscal framework is generally centred on:",
     "options": [
       "annual deficit targets determined by the ECB.",
@@ -6292,7 +6952,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 573,
+    "id": 633,
     "question": "Which statement BEST reflects the role of the Commission under the reformed EU economic governance framework?",
     "options": [
       "It adopts Member States' budgets.",
@@ -6303,7 +6963,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 574,
+    "id": 634,
     "question": "Under the excessive deficit procedure laid down in Article 126 TFEU, the reference value for government deficit is:",
     "options": [
       "2% of GDP.",
@@ -6314,7 +6974,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 575,
+    "id": 635,
     "question": "Which statement BEST reflects the reference value for government debt under Protocol No 12 on the Excessive Deficit Procedure?",
     "options": [
       "50% of GDP.",
@@ -6325,7 +6985,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 576,
+    "id": 636,
     "question": "Under Article 126 TFEU, which institution decides whether an excessive deficit exists?",
     "options": [
       "European Commission.",
@@ -6336,7 +6996,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 577,
+    "id": 637,
     "question": "Which statement BEST reflects the Commission's role in the excessive deficit procedure?",
     "options": [
       "It formally decides that an excessive deficit exists.",
@@ -6347,7 +7007,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 578,
+    "id": 638,
     "question": "Under the revised economic governance framework, Member States with substantial public debt are generally expected to ensure that debt follows:",
     "options": [
       "any trajectory determined by national parliaments.",
@@ -6358,7 +7018,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 579,
+    "id": 639,
     "question": "Which statement BEST reflects the legal purpose of the preventive arm of the Stability and Growth Pact?",
     "options": [
       "To impose sanctions automatically.",
@@ -6369,7 +7029,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 580,
+    "id": 640,
     "question": "Under the 2024 reform of the Stability and Growth Pact, the standard duration of a national medium-term fiscal-structural plan is generally:",
     "options": [
       "Three years.",
@@ -6380,7 +7040,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 581,
+    "id": 641,
     "question": "Which statement BEST reflects the legal relationship between the European Semester and the Stability and Growth Pact?",
     "options": [
       "They are legally unrelated.",
@@ -6391,7 +7051,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 582,
+    "id": 642,
     "question": "Under Article 126 TFEU, which institution addresses recommendations to a Member State after deciding that an excessive deficit exists?",
     "options": [
       "European Commission.",
@@ -6402,7 +7062,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 583,
+    "id": 643,
     "question": "Which statement BEST reflects the legal function of Article 121 TFEU?",
     "options": [
       "It establishes the excessive deficit procedure.",
@@ -6413,7 +7073,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 584,
+    "id": 644,
     "question": "Under the European Semester, the Annual Sustainable Growth Survey is adopted by:",
     "options": [
       "European Council.",
@@ -6424,7 +7084,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 585,
+    "id": 645,
     "question": "Which statement BEST reflects the legal purpose of Country-Specific Recommendations?",
     "options": [
       "They are legally binding legislative acts.",
@@ -6435,7 +7095,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 586,
+    "id": 646,
     "question": "Under Article 126 TFEU, before preparing a report on excessive deficits, the Commission assesses compliance with which reference values?",
     "options": [
       "Inflation and unemployment.",
@@ -6446,7 +7106,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 587,
+    "id": 647,
     "question": "Which statement BEST reflects the role of the Economic and Financial Committee under Article 134 TFEU?",
     "options": [
       "It adopts legislative acts concerning EMU.",
@@ -6457,7 +7117,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 588,
+    "id": 648,
     "question": "Under Protocol No 12, the reference value for government debt is expressed as a percentage of:",
     "options": [
       "Gross National Income.",
@@ -6468,7 +7128,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 589,
+    "id": 649,
     "question": "Which statement BEST reflects the legal purpose of Article 136 TFEU?",
     "options": [
       "It establishes the European Central Bank.",
@@ -6479,7 +7139,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 590,
+    "id": 650,
     "question": "Under the European Semester, National Reform Programmes are generally submitted by:",
     "options": [
       "The European Commission.",
@@ -6490,7 +7150,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 591,
+    "id": 651,
     "question": "Which statement BEST reflects the legal role of the Eurogroup?",
     "options": [
       "It is a formal legislative institution of the Union.",
@@ -6501,7 +7161,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 592,
+    "id": 652,
     "question": "Under Protocol No 14, the President of the Eurogroup is elected for a term of:",
     "options": [
       "One year.",
@@ -6512,7 +7172,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 593,
+    "id": 653,
     "question": "Which statement BEST reflects the legal relationship between the Eurogroup and the Council (ECOFIN)?",
     "options": [
       "The Eurogroup replaces ECOFIN whenever euro area matters are discussed.",
@@ -6523,7 +7183,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 594,
+    "id": 654,
     "question": "Under Article 140 TFEU, convergence reports assessing readiness to adopt the euro are prepared by:",
     "options": [
       "The Council and the European Parliament.",
@@ -6534,7 +7194,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 595,
+    "id": 655,
     "question": "Which statement BEST reflects the legal significance of convergence reports?",
     "options": [
       "They automatically admit a Member State into the euro area.",
@@ -6545,7 +7205,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 596,
+    "id": 656,
     "question": "Under Article 140 TFEU, the final decision allowing a Member State to adopt the euro is taken by:",
     "options": [
       "European Commission.",
@@ -6556,7 +7216,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 597,
+    "id": 657,
     "question": "Which statement BEST reflects the legal purpose of ERM II?",
     "options": [
       "It replaces the euro.",
@@ -6567,7 +7227,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 598,
+    "id": 658,
     "question": "Under the convergence criteria, long-term interest rates are assessed primarily to evaluate:",
     "options": [
       "banking profitability.",
@@ -6578,7 +7238,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 599,
+    "id": 659,
     "question": "Which statement BEST reflects the legal significance of Protocol No 15 concerning the United Kingdom?",
     "options": [
       "It established permanent membership of the euro area.",
@@ -6589,7 +7249,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 600,
+    "id": 660,
     "question": "Under Article 282 TFEU, the primary objective of the European System of Central Banks is to:",
     "options": [
       "maximise employment.",
@@ -6600,7 +7260,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 601,
+    "id": 661,
     "question": "Which statement BEST reflects the legal distinction between the ESCB and the Eurosystem?",
     "options": [
       "They are identical bodies.",
@@ -6611,7 +7271,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 602,
+    "id": 662,
     "question": "Under Article 123 TFEU, the ECB and national central banks are prohibited from:",
     "options": [
       "issuing euro banknotes.",
@@ -6622,7 +7282,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 603,
+    "id": 663,
     "question": "Which statement BEST reflects the purpose of Article 125 TFEU (\"no bail-out clause\")?",
     "options": [
       "It prohibits financial assistance under any circumstances.",
@@ -6633,7 +7293,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 604,
+    "id": 664,
     "question": "Under Article 127 TFEU, without prejudice to price stability, the ESCB shall support:",
     "options": [
       "national industrial policy only.",
@@ -6644,7 +7304,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 605,
+    "id": 665,
     "question": "Which statement BEST reflects the independence of the ECB under Article 130 TFEU?",
     "options": [
       "The ECB follows instructions from the Eurogroup.",
@@ -6655,7 +7315,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 606,
+    "id": 666,
     "question": "Under Article 128 TFEU, euro banknotes are authorised for issue by:",
     "options": [
       "the Council.",
@@ -6666,7 +7326,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 607,
+    "id": 667,
     "question": "Which statement BEST reflects the legal role of the Governing Council of the ECB?",
     "options": [
       "It prepares the Union budget.",
@@ -6677,7 +7337,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 608,
+    "id": 668,
     "question": "Under the Treaties, which institution has the exclusive right to authorise the issue of euro banknotes within the Union?",
     "options": [
       "European Commission.",
@@ -6688,7 +7348,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 609,
+    "id": 669,
     "question": "Which statement BEST reflects the legal role of the General Council of the ECB?",
     "options": [
       "It conducts monetary policy for the euro area.",
@@ -6699,7 +7359,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 610,
+    "id": 670,
     "question": "Under Article 282 TFEU, the ECB has legal personality and enjoys:",
     "options": [
       "legislative immunity.",
@@ -6710,7 +7370,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 611,
+    "id": 671,
     "question": "Which statement BEST reflects the legal basis of the ECB's independence?",
     "options": [
       "Article 121 TFEU.",
@@ -6721,7 +7381,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 612,
+    "id": 672,
     "question": "Under Article 127 TFEU, which of the following is one of the basic tasks of the European System of Central Banks (ESCB)?",
     "options": [
       "Adopting the annual Union budget.",
@@ -6732,7 +7392,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 613,
+    "id": 673,
     "question": "Which statement BEST reflects the legal role of the ECB Executive Board?",
     "options": [
       "It adopts Union legislative acts.",
@@ -6743,7 +7403,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 614,
+    "id": 674,
     "question": "Under Article 127(2) TFEU, the ESCB is entrusted with which of the following tasks?",
     "options": [
       "Negotiating international trade agreements.",
@@ -6754,7 +7414,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 615,
+    "id": 675,
     "question": "Which statement BEST reflects the role of Article 127(5) TFEU?",
     "options": [
       "It establishes the Banking Union.",
@@ -6765,7 +7425,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 616,
+    "id": 676,
     "question": "Under the Single Supervisory Mechanism (SSM), the ECB directly supervises primarily:",
     "options": [
       "All credit institutions in the Union.",
@@ -6776,7 +7436,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 617,
+    "id": 677,
     "question": "Which statement BEST reflects the legal basis of the Single Supervisory Mechanism?",
     "options": [
       "Article 352 TFEU.",
@@ -6787,7 +7447,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 618,
+    "id": 678,
     "question": "Under Article 127(6) TFEU, specific supervisory tasks may be conferred upon the ECB by:",
     "options": [
       "The European Parliament alone.",
@@ -6798,7 +7458,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 619,
+    "id": 679,
     "question": "Which statement BEST reflects the relationship between the ECB and national competent authorities within the SSM?",
     "options": [
       "National authorities are entirely independent from the ECB.",
@@ -6809,7 +7469,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 620,
+    "id": 680,
     "question": "Under the Single Resolution Mechanism, the authority primarily responsible for significant cross-border bank resolutions is the:",
     "options": [
       "European Central Bank.",
@@ -6820,7 +7480,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 621,
+    "id": 681,
     "question": "Which statement BEST reflects the purpose of the Single Resolution Fund?",
     "options": [
       "To finance national budgets.",
@@ -6831,7 +7491,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 622,
+    "id": 682,
     "question": "Under Regulation (EU) No 806/2014, the Single Resolution Mechanism applies primarily to:",
     "options": [
       "All financial institutions worldwide.",
@@ -6842,7 +7502,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 623,
+    "id": 683,
     "question": "Which statement BEST reflects the legal purpose of bank resolution under Union law?",
     "options": [
       "To prevent any bank from ever failing.",
@@ -6853,7 +7513,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 624,
+    "id": 684,
     "question": "Under the Bank Recovery and Resolution Directive (BRRD), the \"bail-in\" tool primarily aims to:",
     "options": [
       "Increase public spending.",
@@ -6864,7 +7524,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 625,
+    "id": 685,
     "question": "Which statement BEST reflects the legal purpose of Directive 2014/49/EU on Deposit Guarantee Schemes?",
     "options": [
       "To harmonise corporate taxation.",
@@ -6875,7 +7535,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 626,
+    "id": 686,
     "question": "Under Union law, the harmonised coverage level for eligible deposits protected by Deposit Guarantee Schemes is generally:",
     "options": [
       "€50,000.",
@@ -6886,7 +7546,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 627,
+    "id": 687,
     "question": "Which statement BEST reflects the role of the European Banking Authority (EBA)?",
     "options": [
       "It conducts monetary policy.",
@@ -6897,7 +7557,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 628,
+    "id": 688,
     "question": "Under the Capital Requirements Regulation (CRR), prudential requirements primarily seek to ensure that banks maintain sufficient:",
     "options": [
       "dividends.",
@@ -6908,7 +7568,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 629,
+    "id": 689,
     "question": "Which statement BEST reflects the legal purpose of the European System of Financial Supervision (ESFS)?",
     "options": [
       "To centralise all supervision within the ECB.",
@@ -6919,7 +7579,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 630,
+    "id": 690,
     "question": "Under the European Supervisory Authorities framework, which authority is responsible for banking supervision standards?",
     "options": [
       "ESMA.",
@@ -6930,7 +7590,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 631,
+    "id": 691,
     "question": "Which statement BEST reflects the legal role of the European Systemic Risk Board (ESRB)?",
     "options": [
       "It supervises individual banks directly.",
@@ -6941,7 +7601,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 632,
+    "id": 692,
     "question": "Under Article 282 TFEU, the ECB forms part of which institution or system?",
     "options": [
       "European Council.",
@@ -6952,7 +7612,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 633,
+    "id": 693,
     "question": "Which statement BEST reflects the difference between microprudential and macroprudential supervision?",
     "options": [
       "There is no distinction under Union law.",
@@ -6963,7 +7623,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 634,
+    "id": 694,
     "question": "Under Article 130 TFEU, the independence obligation applies to:",
     "options": [
       "The ECB only.",
@@ -6974,7 +7634,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 635,
+    "id": 695,
     "question": "Which statement BEST reflects the legal relationship between the ECB and price stability?",
     "options": [
       "Price stability is one objective among many of equal rank.",
@@ -6985,7 +7645,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 636,
+    "id": 696,
     "question": "Under the Statute of the ESCB and the ECB, the Governing Council consists of:",
     "options": [
       "The Executive Board only.",
@@ -6996,7 +7656,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 637,
+    "id": 697,
     "question": "Which statement BEST reflects the legal role of the ECB's General Council?",
     "options": [
       "It decides euro area monetary policy.",
@@ -7007,7 +7667,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 638,
+    "id": 698,
     "question": "Under the Treaties, who appoints the members of the Executive Board of the ECB?",
     "options": [
       "European Parliament.",
@@ -7018,7 +7678,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 639,
+    "id": 699,
     "question": "Which statement BEST reflects the term of office of members of the ECB Executive Board?",
     "options": [
       "Five years, renewable once.",
@@ -7029,7 +7689,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 640,
+    "id": 700,
     "question": "Under Article 283 TFEU, before appointing members of the Executive Board, the European Council must consult:",
     "options": [
       "The Committee of the Regions only.",
@@ -7040,7 +7700,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 641,
+    "id": 701,
     "question": "Which statement BEST reflects the legal basis for the independence of national central bank governors when carrying out ESCB tasks?",
     "options": [
       "Article 114 TFEU.",
@@ -7051,7 +7711,7 @@
     "correctAnswer": 3
   },
   {
-    "id": 642,
+    "id": 702,
     "question": "Which statement BEST reflects the legal relationship between the ECB and the European Investment Bank?",
     "options": [
       "The ECB supervises the EIB.",
@@ -7062,7 +7722,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 643,
+    "id": 703,
     "question": "Under Article 127 TFEU, which task is expressly entrusted to the ESCB?",
     "options": [
       "Conducting fiscal policy.",
@@ -7073,7 +7733,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 644,
+    "id": 704,
     "question": "Which statement BEST reflects the legal significance of Article 282(3) TFEU?",
     "options": [
       "It authorises the ECB to adopt Directives.",
@@ -7084,7 +7744,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 645,
+    "id": 705,
     "question": "Under Article 128 TFEU, euro coins are issued by:",
     "options": [
       "The ECB.",
@@ -7095,7 +7755,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 646,
+    "id": 706,
     "question": "Which statement BEST reflects the legal distinction between euro banknotes and euro coins under the Treaties?",
     "options": [
       "Both are issued exclusively by the ECB.",
@@ -7106,7 +7766,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 647,
+    "id": 707,
     "question": "Under Article 129 TFEU, the decision-making bodies of the ECB are established by:",
     "options": [
       "The Financial Regulation.",
@@ -7117,7 +7777,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 648,
+    "id": 708,
     "question": "Which statement BEST reflects the legal role of the Statute of the ESCB and the ECB?",
     "options": [
       "It is secondary legislation adopted by the Commission.",
@@ -7128,7 +7788,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 649,
+    "id": 709,
     "question": "Under Article 123 TFEU, which of the following is prohibited?",
     "options": [
       "The ECB purchasing government bonds on the secondary market under all circumstances.",
@@ -7139,7 +7799,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 650,
+    "id": 710,
     "question": "Which statement BEST reflects the rationale of Article 123 TFEU?",
     "options": [
       "To prevent private lending.",
@@ -7150,7 +7810,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 651,
+    "id": 711,
     "question": "Under Article 127 TFEU, the ESCB contributes to the smooth conduct of policies relating to:",
     "options": [
       "Competition law.",
@@ -7161,7 +7821,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 652,
+    "id": 712,
     "question": "Which statement BEST reflects the legal relationship between monetary policy and economic policy in the euro area?",
     "options": [
       "Both are exercised exclusively by the Member States.",
@@ -7172,7 +7832,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 653,
+    "id": 713,
     "question": "Under Article 127(1) TFEU, without prejudice to price stability, the ESCB shall support:",
     "options": [
       "National industrial policy.",
@@ -7183,7 +7843,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 654,
+    "id": 714,
     "question": "Which statement BEST reflects the legal basis for the ECB's advisory role?",
     "options": [
       "The ECB may issue opinions only when requested by the European Parliament.",
@@ -7194,7 +7854,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 655,
+    "id": 715,
     "question": "Under Article 127 TFEU, maintaining official foreign reserves of the Member States is a task of:",
     "options": [
       "ECOFIN.",
@@ -7205,7 +7865,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 656,
+    "id": 716,
     "question": "Which statement BEST reflects the legal meaning of exclusive competence in monetary policy?",
     "options": [
       "Member States may adopt their own monetary policy alongside the ECB.",
@@ -7216,7 +7876,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 657,
+    "id": 717,
     "question": "Under Article 3 TFEU, monetary policy is an exclusive competence of the Union for:",
     "options": [
       "All Member States.",
@@ -7227,7 +7887,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 658,
+    "id": 718,
     "question": "Which statement BEST reflects the legal role of Article 282(2) TFEU?",
     "options": [
       "It establishes the Single Supervisory Mechanism.",
@@ -7238,7 +7898,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 659,
+    "id": 719,
     "question": "Under the Treaties, which institution has the exclusive right to authorise the issue of euro banknotes within the Union?",
     "options": [
       "Council of the European Union.",
@@ -7249,7 +7909,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 660,
+    "id": 720,
     "question": "Which statement BEST reflects the legal relationship between the ESCB and the Eurosystem?",
     "options": [
       "The terms are synonymous.",
@@ -7260,7 +7920,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 661,
+    "id": 721,
     "question": "Under Article 127(2) TFEU, who has the primary responsibility for defining and implementing the monetary policy of the Union?",
     "options": [
       "ECOFIN.",
@@ -7271,7 +7931,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 662,
+    "id": 722,
     "question": "Which statement BEST reflects the legal significance of Article 130 TFEU for Member States?",
     "options": [
       "Member States may instruct their national central banks in exceptional circumstances.",
@@ -7282,7 +7942,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 663,
+    "id": 723,
     "question": "Under Article 282 TFEU, the ECB is accountable primarily through:",
     "options": [
       "Judicial review only.",
@@ -7293,7 +7953,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 664,
+    "id": 724,
     "question": "Which statement BEST reflects the legal meaning of \"price stability\" under the Treaties?",
     "options": [
       "The Treaties provide a numerical inflation target.",
@@ -7304,7 +7964,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 665,
+    "id": 725,
     "question": "Under the Single Supervisory Mechanism, less significant credit institutions are primarily supervised by:",
     "options": [
       "The European Commission.",
@@ -7315,7 +7975,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 666,
+    "id": 726,
     "question": "Which statement BEST reflects the legal role of the Single Resolution Board during a bank resolution?",
     "options": [
       "It determines ECB interest rates.",
@@ -7326,7 +7986,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 667,
+    "id": 727,
     "question": "Under the Bank Recovery and Resolution Directive, shareholders generally bear losses:",
     "options": [
       "Only after all public funds have been exhausted.",
@@ -7337,7 +7997,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 668,
+    "id": 728,
     "question": "Which statement BEST reflects the objective of the Banking Union?",
     "options": [
       "To create a single European commercial bank.",
@@ -7348,7 +8008,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 669,
+    "id": 729,
     "question": "Under Regulation (EU) No 806/2014, which institution formally adopts the resolution scheme in most cases following the Single Resolution Board's decision, unless objections are raised under the Regulation?",
     "options": [
       "European Parliament.",
@@ -7359,7 +8019,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 670,
+    "id": 730,
     "question": "Which statement BEST reflects the relationship between the Single Resolution Board and national resolution authorities?",
     "options": [
       "National authorities have no role once the SRB exists.",
@@ -7370,7 +8030,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 671,
+    "id": 731,
     "question": "Under the European Stability Mechanism Treaty, the ESM may provide financial assistance primarily to:",
     "options": [
       "Any Member State of the European Union.",
@@ -7381,7 +8041,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 672,
+    "id": 732,
     "question": "Which statement BEST reflects the legal nature of the European Stability Mechanism (ESM)?",
     "options": [
       "It is an institution of the European Union.",
@@ -7392,7 +8052,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 673,
+    "id": 733,
     "question": "Under Article 136(3) TFEU, Member States whose currency is the euro may establish a stability mechanism provided that:",
     "options": [
       "Financial assistance is unconditional.",
@@ -7403,7 +8063,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 674,
+    "id": 734,
     "question": "Which statement BEST reflects the relationship between Article 125 TFEU and the ESM?",
     "options": [
       "The creation of the ESM repealed Article 125 TFEU.",
@@ -7414,7 +8074,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 675,
+    "id": 735,
     "question": "Under the Treaty establishing the European Stability Mechanism, which body is the highest decision-making authority of the ESM?",
     "options": [
       "Executive Board.",
@@ -7425,7 +8085,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 676,
+    "id": 736,
     "question": "Which statement BEST reflects the composition of the ESM Board of Governors?",
     "options": [
       "Governors of the national central banks.",
@@ -7436,7 +8096,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 677,
+    "id": 737,
     "question": "Under the ESM Treaty, the Managing Director is appointed by:",
     "options": [
       "The European Council.",
@@ -7447,7 +8107,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 678,
+    "id": 738,
     "question": "Which statement BEST reflects the legal relationship between the ESM and Union law?",
     "options": [
       "The ESM is entirely outside the scope of Union law.",
@@ -7458,7 +8118,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 679,
+    "id": 739,
     "question": "Under the ESM Treaty, financial assistance instruments may include:",
     "options": [
       "Agricultural subsidies only.",
@@ -7469,7 +8129,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 680,
+    "id": 740,
     "question": "Which statement BEST reflects the legal significance of the Court of Justice's judgment in Pringle (Case C-370/12)?",
     "options": [
       "It declared the European Stability Mechanism incompatible with the Treaties.",
